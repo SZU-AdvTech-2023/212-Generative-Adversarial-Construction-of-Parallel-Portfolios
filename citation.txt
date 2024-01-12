@@ -1,0 +1,9 @@
+@article{REPO212,
+    author = "Liu, Shengcai and Tang, Ke and Yao, Xin",
+    journal = "IEEE Transactions on Cybernetics",
+    number = "2",
+    pages = "784-795",
+    title = "{Generative Adversarial Construction of Parallel Portfolios}",
+    volume = "52",
+    year = "2022"
+}
