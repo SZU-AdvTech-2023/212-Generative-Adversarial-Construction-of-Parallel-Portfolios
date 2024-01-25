@@ -1,0 +1,10 @@
+algo = ../src/util/parallel_solver_wrapper.py
+execdir = .
+deterministic = 0
+run_obj = RUNTIME
+overall_obj = MEAN10
+target_run_cputime_limit = 1
+paramfile= /home/liusc/projects/ACPP/Solver/paramfile/Mul_lkh_pcs.txt
+instance_file = /home/liusc/projects/ACPP/instance_set/TSP/indices/training_index_small_1
+test_instance_file = /home/liusc/projects/ACPP/instance_set/TSP/indices/training_index_small_1
+outdir = './output/'

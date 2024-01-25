@@ -1,0 +1,59 @@
+/home/liusc/projects/ACPP/Solver/Concorde/concorde 80clustering.txt
+Host: localhost.localdomain  Current process id: 2203
+Using random seed 1544261246
+Problem Name: portcgen-471-8896894
+portcgen N=471, seed=8896894
+Problem Type: TSP
+Number of Nodes: 471
+Rounded Euclidean Norm (CC_EUCLIDEAN)
+Set initial upperbound to 7322652 (from tour)
+  LP Value  1: 6455633.500000  (0.06 seconds)
+  LP Value  2: 6636745.178571  (0.16 seconds)
+  LP Value  3: 7206575.791667  (0.34 seconds)
+  LP Value  4: 7226235.000000  (0.51 seconds)
+  LP Value  5: 7235179.507862  (0.66 seconds)
+  LP Value  6: 7307949.833333  (0.80 seconds)
+  LP Value  7: 7315297.500000  (0.92 seconds)
+  LP Value  8: 7317919.666667  (1.28 seconds)
+  LP Value  9: 7318491.283427  (1.74 seconds)
+New lower bound: 7318249.783427
+  LP Value  1: 7318942.736667  (1.93 seconds)
+  LP Value  2: 7318995.733333  (2.05 seconds)
+  LP Value  3: 7319063.200000  (2.17 seconds)
+  LP Value  4: 7319559.895455  (2.29 seconds)
+  LP Value  5: 7319727.280000  (2.43 seconds)
+  LP Value  6: 7319776.764706  (2.87 seconds)
+  LP Value  7: 7319858.046729  (3.02 seconds)
+  LP Value  8: 7319994.433333  (3.16 seconds)
+  LP Value  9: 7320048.119565  (3.30 seconds)
+  LP Value 10: 7320522.647059  (3.45 seconds)
+  LP Value 11: 7321041.090909  (3.62 seconds)
+  LP Value 12: 7321129.125000  (3.81 seconds)
+  LP Value 13: 7321188.250000  (3.99 seconds)
+  LP Value 14: 7321233.866667  (4.23 seconds)
+  LP Value 15: 7321292.100000  (4.45 seconds)
+  LP Value 16: 7321344.326923  (4.72 seconds)
+  LP Value 17: 7321367.522337  (5.03 seconds)
+  LP Value 18: 7321611.858974  (5.21 seconds)
+  LP Value 19: 7321663.690476  (5.42 seconds)
+  LP Value 20: 7321698.316916  (5.71 seconds)
+  LP Value 21: 7321733.421053  (5.98 seconds)
+  LP Value 22: 7321737.142857  (6.18 seconds)
+New lower bound: 7321737.142857
+New upperbound from x-heuristic: 7322035.00
+Final lower bound 7321737.142857, upper bound 7322035.000000
+Exact lower bound: 7321737.142857
+DIFF: 0.000000
+Time for Total: 6.45 seconds (6.45 total in 1 calls)
+Final LP has 696 rows, 887 columns, 7885 nonzeros
+LOWER BOUND: 7321737.142857   ACTIVE NODES: 1
+
+Task 0: Branching on node 0
+BBnode 0 split into 1 (7322035.00X) 2 (7323505.33X) (0.18 seconds)
+Child 0 is pruned
+Child 1 is pruned
+
+Task 1: Exit
+Optimal Solution: 7322035.00
+Number of bbnodes: 3
+Total Running Time: 7.70 (seconds)  Branching Time: 0.18 (seconds)

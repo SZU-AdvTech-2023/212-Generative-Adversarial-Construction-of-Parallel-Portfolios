@@ -1,0 +1,10 @@
+algo = /home/liuwei/GAST/ACPP/AC/scenarios/lkh/parallel_solver_wrapper.py
+execdir = .
+deterministic = 0
+run_obj = RUNTIME
+overall_obj = MEAN10
+target_run_cputime_limit = 60
+paramfile= /home/liuwei/GAST/ACPP/AC/scenarios/lkh/Single_lkh_pcs.txt
+instance_file = /home/liuwei/GAST/ACPP/AC/scenarios/lkh/training_index_small_1
+test_instance_file = /home/liuwei/GAST/ACPP/AC/scenarios/lkh/test_index_small_1
+outdir = ./output

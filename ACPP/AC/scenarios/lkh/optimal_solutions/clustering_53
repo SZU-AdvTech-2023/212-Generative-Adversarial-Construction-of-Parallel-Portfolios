@@ -1,0 +1,50 @@
+/home/liusc/projects/ACPP/Solver/Concorde/concorde 53clustering.txt
+Host: localhost.localdomain  Current process id: 2122
+Using random seed 1544261241
+Problem Name: portcgen-533-9130965
+portcgen N=533, seed=9130965
+Problem Type: TSP
+Number of Nodes: 533
+Rounded Euclidean Norm (CC_EUCLIDEAN)
+Set initial upperbound to 7651456 (from tour)
+  LP Value  1: 7397158.250000  (0.07 seconds)
+  LP Value  2: 7576358.921429  (0.16 seconds)
+  LP Value  3: 7620251.229532  (0.34 seconds)
+  LP Value  4: 7630885.625000  (0.52 seconds)
+  LP Value  5: 7634483.071345  (0.76 seconds)
+  LP Value  6: 7636934.837091  (1.00 seconds)
+  LP Value  7: 7638517.597148  (1.69 seconds)
+  LP Value  8: 7640464.435603  (2.84 seconds)
+  LP Value  9: 7641773.200000  (3.83 seconds)
+  LP Value 10: 7642718.145762  (4.51 seconds)
+  LP Value 11: 7643080.895745  (5.47 seconds)
+New lower bound: 7636242.202394
+  LP Value  1: 7637580.333333  (5.73 seconds)
+  LP Value  2: 7637799.596774  (5.96 seconds)
+  LP Value  3: 7637953.517536  (6.14 seconds)
+  LP Value  4: 7638126.085859  (7.13 seconds)
+  LP Value  5: 7638278.647786  (7.33 seconds)
+  LP Value  6: 7638398.521805  (8.02 seconds)
+  LP Value  7: 7638591.021073  (8.62 seconds)
+  LP Value  8: 7638732.530840  (9.02 seconds)
+  LP Value  9: 7638761.863636  (9.46 seconds)
+  LP Value 10: 7638807.000000  (9.63 seconds)
+  LP Value 11: 7638896.635417  (10.10 seconds)
+  LP Value 12: 7639131.229501  (10.43 seconds)
+  LP Value 13: 7639147.175106  (10.93 seconds)
+  LP Value 14: 7639198.944343  (11.32 seconds)
+  LP Value 15: 7639331.250806  (11.75 seconds)
+  LP Value 16: 7639347.430000  (12.21 seconds)
+  LP Value 17: 7639382.030000  (12.65 seconds)
+  LP Value 18: 7639435.000000  (12.70 seconds)
+recomputing rownorms ...
+  LP Value 19: 7639435.000000  (12.73 seconds)
+New lower bound: 7639435.000000
+New upperbound from x-heuristic: 7639435.00
+Final lower bound 7639435.000000, upper bound 7639435.000000
+Exact lower bound: 7639435.000000
+DIFF: 0.000000
+Final LP has 782 rows, 1465 columns, 8464 nonzeros
+Optimal Solution: 7639435.00
+Number of bbnodes: 1
+Total Running Time: 14.12 (seconds)

@@ -1,0 +1,50 @@
+/home/liusc/projects/ACPP/Solver/Concorde/concorde 8clustering.txt
+Host: localhost.localdomain  Current process id: 1978
+Using random seed 1544261229
+Problem Name: portcgen-420-7550353
+portcgen N=420, seed=7550353
+Problem Type: TSP
+Number of Nodes: 420
+Rounded Euclidean Norm (CC_EUCLIDEAN)
+Set initial upperbound to 8042145 (from tour)
+  LP Value  1: 6567619.000000  (0.03 seconds)
+  LP Value  2: 6703589.297619  (0.11 seconds)
+  LP Value  3: 8002392.050000  (0.20 seconds)
+  LP Value  4: 8034836.325000  (0.30 seconds)
+  LP Value  5: 8037801.100000  (0.40 seconds)
+  LP Value  6: 8038171.949153  (0.50 seconds)
+  LP Value  7: 8039216.855401  (0.79 seconds)
+  LP Value  8: 8039317.305714  (1.10 seconds)
+New lower bound: 8022851.122449
+  LP Value  1: 8039433.571429  (1.29 seconds)
+  LP Value  2: 8039614.485222  (1.45 seconds)
+  LP Value  3: 8039789.517241  (1.77 seconds)
+  LP Value  4: 8039854.906040  (2.02 seconds)
+  LP Value  5: 8040358.622222  (2.19 seconds)
+  LP Value  6: 8040665.487725  (2.35 seconds)
+  LP Value  7: 8040987.163333  (2.54 seconds)
+  LP Value  8: 8041247.800000  (2.71 seconds)
+  LP Value  9: 8041414.125000  (2.89 seconds)
+  LP Value 10: 8041552.610019  (3.20 seconds)
+  LP Value 11: 8041624.578317  (3.58 seconds)
+  LP Value 12: 8041758.246203  (4.11 seconds)
+  LP Value 13: 8041839.941176  (4.50 seconds)
+  LP Value 14: 8041871.798457  (4.77 seconds)
+  LP Value 15: 8041875.972973  (5.11 seconds)
+New lower bound: 8041875.972973
+Final lower bound 8041875.972973, upper bound 8042145.000000
+Exact lower bound: 8041875.972973
+DIFF: 0.000000
+Time for Total: 5.48 seconds (5.48 total in 1 calls)
+Final LP has 614 rows, 776 columns, 9278 nonzeros
+LOWER BOUND: 8041875.972973   ACTIVE NODES: 1
+
+Task 0: Branching on node 0
+BBnode 0 split into 1 (8042307.22X) 2 (8042817.80X) (0.39 seconds)
+Child 0 is pruned
+Child 1 is pruned
+
+Task 1: Exit
+Optimal Solution: 8042145.00
+Number of bbnodes: 3
+Total Running Time: 7.06 (seconds)  Branching Time: 0.39 (seconds)

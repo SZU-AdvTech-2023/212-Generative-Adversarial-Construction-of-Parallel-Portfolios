@@ -1,0 +1,53 @@
+/home/liusc/projects/ACPP/Solver/Concorde/concorde 93clustering.txt
+Host: localhost.localdomain  Current process id: 2242
+Using random seed 1544261248
+Problem Name: portcgen-427-4032182
+portcgen N=427, seed=4032182
+Problem Type: TSP
+Number of Nodes: 427
+Rounded Euclidean Norm (CC_EUCLIDEAN)
+Set initial upperbound to 6377681 (from tour)
+  LP Value  1: 5805695.500000  (0.05 seconds)
+  LP Value  2: 5898040.100000  (0.12 seconds)
+  LP Value  3: 5912730.312684  (0.26 seconds)
+  LP Value  4: 5919038.854545  (0.38 seconds)
+  LP Value  5: 6369403.812500  (0.55 seconds)
+  LP Value  6: 6373558.319838  (0.73 seconds)
+  LP Value  7: 6374686.598607  (1.42 seconds)
+  LP Value  8: 6375418.253507  (2.09 seconds)
+  LP Value  9: 6375858.900000  (2.61 seconds)
+  LP Value 10: 6376137.811487  (3.01 seconds)
+New lower bound: 6376137.811487
+  LP Value  1: 6376213.142857  (3.29 seconds)
+  LP Value  2: 6376217.004935  (3.71 seconds)
+  LP Value  3: 6376226.413793  (3.96 seconds)
+recomputing rownorms ...
+  LP Value  4: 6376226.413793  (4.19 seconds)
+New lower bound: 6376226.413793
+Final lower bound 6376226.413793, upper bound 6377681.000000
+Exact lower bound: 6376226.413793
+DIFF: 0.000000
+Time for Total: 4.43 seconds (4.43 total in 1 calls)
+Final LP has 607 rows, 860 columns, 6149 nonzeros
+LOWER BOUND: 6376226.413793   ACTIVE NODES: 1
+
+Task 0: Branching on node 0
+BBnode 0 split into 1 (6376589.65) 2 (6376273.20) (0.37 seconds)
+LOWER BOUND: 6376273.200000   ACTIVE NODES: 2
+
+Task 1: Cutting on node 2
+New upperbound from x-heuristic: 6376357.00
+TOUR FOUND - upperbound is 6376357.00
+Writing Pool: 414 cuts
+BBnode 2 (now 3) can be pruned: upperbound 6376357.00 (0.31 seconds)
+LOWER BOUND: 6376589.650612   ACTIVE NODES: 1
+
+Task 2: Cutting on node 1
+Do not cut, the lp is within 1.0 of the upperbound
+Writing Pool: 414 cuts
+BBnode 1 (now 4) can be pruned: upperbound 6376357.00 (0.00 seconds)
+
+Task 3: Exit
+Optimal Solution: 6376357.00
+Number of bbnodes: 3
+Total Running Time: 6.00 (seconds)  Branching Time: 0.69 (seconds)

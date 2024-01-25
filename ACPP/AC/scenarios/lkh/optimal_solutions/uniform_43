@@ -1,0 +1,56 @@
+/home/liusc/projects/ACPP/Solver/Concorde/concorde 43uniform.txt
+Host: localhost.localdomain  Current process id: 1627
+Using random seed 1544261211
+Problem Name: portgen-594-4183273
+portgen N=594, seed=4183273
+Problem Type: TSP
+Number of Nodes: 594
+Rounded Euclidean Norm (CC_EUCLIDEAN)
+Set initial upperbound to 18067121 (from tour)
+  LP Value  1: 17527640.558333  (0.10 seconds)
+  LP Value  2: 17961170.916667  (0.23 seconds)
+  LP Value  3: 18031456.191117  (0.46 seconds)
+  LP Value  4: 18046352.354167  (0.68 seconds)
+  LP Value  5: 18051641.864583  (0.93 seconds)
+  LP Value  6: 18056293.922231  (1.17 seconds)
+  LP Value  7: 18059135.689459  (1.59 seconds)
+  LP Value  8: 18060492.686518  (2.27 seconds)
+  LP Value  9: 18061999.826923  (2.83 seconds)
+  LP Value 10: 18062883.300713  (3.33 seconds)
+  LP Value 11: 18063607.905882  (3.98 seconds)
+  LP Value 12: 18064288.764478  (4.48 seconds)
+  LP Value 13: 18064652.611322  (5.41 seconds)
+  LP Value 14: 18064910.489614  (5.98 seconds)
+New lower bound: 18064910.489614
+  LP Value  1: 18064942.705882  (6.38 seconds)
+  LP Value  2: 18064966.224638  (6.88 seconds)
+  LP Value  3: 18065018.417910  (7.25 seconds)
+  LP Value  4: 18065034.828023  (7.80 seconds)
+  LP Value  5: 18065064.298507  (8.16 seconds)
+  LP Value  6: 18065141.634556  (8.53 seconds)
+  LP Value  7: 18065253.400000  (8.88 seconds)
+  LP Value  8: 18065270.920206  (9.42 seconds)
+  LP Value  9: 18065293.495496  (9.94 seconds)
+  LP Value 10: 18065311.827847  (10.50 seconds)
+  LP Value 11: 18065329.252717  (11.00 seconds)
+  LP Value 12: 18065343.398568  (11.51 seconds)
+  LP Value 13: 18065351.036223  (11.98 seconds)
+  LP Value 14: 18065357.334101  (12.41 seconds)
+  LP Value 15: 18065357.757493  (12.87 seconds)
+New lower bound: 18065357.757493
+Final lower bound 18065357.757493, upper bound 18067121.000000
+Exact lower bound: 18065357.757493
+DIFF: 0.000000
+Time for Total: 13.01 seconds (13.01 total in 1 calls)
+Final LP has 878 rows, 1188 columns, 8844 nonzeros
+LOWER BOUND: 18065357.757493   ACTIVE NODES: 1
+
+Task 0: Branching on node 0
+BBnode 0 split into 1 (18067708.04X) 2 (18067121.00X) (0.67 seconds)
+Child 0 is pruned
+Child 1 is pruned
+
+Task 1: Exit
+Optimal Solution: 18067121.00
+Number of bbnodes: 3
+Total Running Time: 14.18 (seconds)  Branching Time: 0.67 (seconds)

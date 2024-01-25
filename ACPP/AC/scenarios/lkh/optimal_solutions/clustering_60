@@ -1,0 +1,42 @@
+/home/liusc/projects/ACPP/Solver/Concorde/concorde 60clustering.txt
+Host: localhost.localdomain  Current process id: 2143
+Using random seed 1544261242
+Problem Name: portcgen-541-7137584
+portcgen N=541, seed=7137584
+Problem Type: TSP
+Number of Nodes: 541
+Rounded Euclidean Norm (CC_EUCLIDEAN)
+Set initial upperbound to 8015288 (from tour)
+  LP Value  1: 6973881.500000  (0.05 seconds)
+  LP Value  2: 7238601.915385  (0.14 seconds)
+  LP Value  3: 7939320.944444  (0.29 seconds)
+  LP Value  4: 8005534.275000  (0.45 seconds)
+  LP Value  5: 8013508.079135  (0.99 seconds)
+  LP Value  6: 8014043.571429  (1.45 seconds)
+New lower bound: 8009714.857143
+  LP Value  1: 8011836.080808  (1.63 seconds)
+  LP Value  2: 8012679.071804  (2.01 seconds)
+  LP Value  3: 8013828.076502  (2.20 seconds)
+  LP Value  4: 8014287.705882  (2.62 seconds)
+  LP Value  5: 8014370.436364  (2.86 seconds)
+  LP Value  6: 8014428.744707  (3.18 seconds)
+  LP Value  7: 8014553.984848  (3.54 seconds)
+  LP Value  8: 8014901.577181  (3.96 seconds)
+  LP Value  9: 8014995.185000  (4.26 seconds)
+  LP Value 10: 8015054.470588  (4.56 seconds)
+  LP Value 11: 8015123.958333  (4.77 seconds)
+  LP Value 12: 8015153.324665  (5.14 seconds)
+  LP Value 13: 8015165.041592  (5.65 seconds)
+  LP Value 14: 8015178.630094  (6.06 seconds)
+  LP Value 15: 8015193.000000  (6.42 seconds)
+recomputing rownorms ...
+  LP Value 16: 8015193.000000  (6.45 seconds)
+New lower bound: 8015193.000000
+New upperbound from x-heuristic: 8015193.00
+Final lower bound 8015193.000000, upper bound 8015193.000000
+Exact lower bound: 8015193.000000
+DIFF: 0.000000
+Final LP has 782 rows, 1613 columns, 9349 nonzeros
+Optimal Solution: 8015193.00
+Number of bbnodes: 1
+Total Running Time: 7.77 (seconds)

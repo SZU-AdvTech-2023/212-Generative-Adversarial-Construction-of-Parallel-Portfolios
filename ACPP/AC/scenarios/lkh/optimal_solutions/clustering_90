@@ -1,0 +1,42 @@
+/home/liusc/projects/ACPP/Solver/Concorde/concorde 90clustering.txt
+Host: localhost.localdomain  Current process id: 2233
+Using random seed 1544261247
+Problem Name: portcgen-488-4866357
+portcgen N=488, seed=4866357
+Problem Type: TSP
+Number of Nodes: 488
+Rounded Euclidean Norm (CC_EUCLIDEAN)
+Set initial upperbound to 7835784 (from tour)
+  LP Value  1: 6437572.250000  (0.06 seconds)
+  LP Value  2: 6621035.336111  (0.15 seconds)
+  LP Value  3: 7488355.869167  (0.26 seconds)
+  LP Value  4: 7821971.396970  (0.41 seconds)
+  LP Value  5: 7827754.636704  (0.56 seconds)
+  LP Value  6: 7832164.750000  (0.85 seconds)
+  LP Value  7: 7833744.665721  (1.18 seconds)
+  LP Value  8: 7834043.916667  (1.60 seconds)
+  LP Value  9: 7834626.000000  (2.00 seconds)
+recomputing rownorms ...
+  LP Value 10: 7834626.000000  (2.39 seconds)
+New lower bound: 7530697.000000
+  LP Value  1: 7834626.000000  (2.90 seconds)
+recomputing rownorms ...
+  LP Value  2: 7834626.000000  (3.42 seconds)
+New lower bound: 7834626.000000
+New upperbound from x-heuristic: 7834740.00
+Final lower bound 7834626.000000, upper bound 7834740.000000
+Exact lower bound: 7834626.000000
+DIFF: 0.000000
+Time for Total: 3.72 seconds (3.72 total in 1 calls)
+Final LP has 743 rows, 901 columns, 8624 nonzeros
+LOWER BOUND: 7834626.000000   ACTIVE NODES: 1
+
+Task 0: Branching on node 0
+BBnode 0 split into 1 (7834976.00X) 2 (7834740.00X) (0.18 seconds)
+Child 0 is pruned
+Child 1 is pruned
+
+Task 1: Exit
+Optimal Solution: 7834740.00
+Number of bbnodes: 3
+Total Running Time: 4.91 (seconds)  Branching Time: 0.18 (seconds)

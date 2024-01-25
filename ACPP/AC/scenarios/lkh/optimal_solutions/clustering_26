@@ -1,0 +1,54 @@
+/home/liusc/projects/ACPP/Solver/Concorde/concorde 26clustering.txt
+Host: localhost.localdomain  Current process id: 2031
+Using random seed 1544261234
+Problem Name: portcgen-419-335789
+portcgen N=419, seed=335789
+Problem Type: TSP
+Number of Nodes: 419
+Rounded Euclidean Norm (CC_EUCLIDEAN)
+Set initial upperbound to 8161000 (from tour)
+  LP Value  1: 6381294.000000  (0.05 seconds)
+  LP Value  2: 6950151.225806  (0.11 seconds)
+  LP Value  3: 7357077.840909  (0.21 seconds)
+  LP Value  4: 7803910.233333  (0.35 seconds)
+  LP Value  5: 7819793.717500  (0.46 seconds)
+  LP Value  6: 7826122.025000  (0.63 seconds)
+  LP Value  7: 7830159.574422  (1.54 seconds)
+  LP Value  8: 7833018.000000  (1.96 seconds)
+  LP Value  9: 7833826.065956  (2.35 seconds)
+New lower bound: 7793437.565956
+  LP Value  1: 7823943.349754  (2.51 seconds)
+  LP Value  2: 7828513.426536  (2.71 seconds)
+  LP Value  3: 7831991.275962  (3.05 seconds)
+  LP Value  4: 7833544.881114  (3.78 seconds)
+  LP Value  5: 7833959.606178  (4.27 seconds)
+  LP Value  6: 7834059.895833  (4.43 seconds)
+New lower bound: 7834059.895833
+New upperbound from x-heuristic: 7837709.00
+Final lower bound 7834059.895833, upper bound 7837709.000000
+Exact lower bound: 7834059.895833
+DIFF: 0.000000
+Time for Total: 4.83 seconds (4.83 total in 1 calls)
+Final LP has 648 rows, 998 columns, 10535 nonzeros
+LOWER BOUND: 7834059.895833   ACTIVE NODES: 1
+
+Task 0: Branching on node 0
+BBnode 0 split into 1 (7834240.00) 2 (7835218.00) (0.19 seconds)
+LOWER BOUND: 7834240.000000   ACTIVE NODES: 2
+
+Task 1: Cutting on node 1
+New upperbound from x-heuristic: 7834488.00
+TOUR FOUND - upperbound is 7834488.00
+Writing Pool: 696 cuts
+BBnode 1 (now 3) can be pruned: upperbound 7834488.00 (1.29 seconds)
+LOWER BOUND: 7835218.000000   ACTIVE NODES: 1
+
+Task 2: Cutting on node 2
+Do not cut, the lp is within 1.0 of the upperbound
+Writing Pool: 696 cuts
+BBnode 2 (now 4) can be pruned: upperbound 7834488.00 (0.01 seconds)
+
+Task 3: Exit
+Optimal Solution: 7834488.00
+Number of bbnodes: 3
+Total Running Time: 7.38 (seconds)  Branching Time: 1.49 (seconds)

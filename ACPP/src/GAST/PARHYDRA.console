@@ -1,0 +1,10 @@
+./smac  --scenario-file /data/donglisha/acpp/ACPP/AC_output/PARHYDRA/run1/scenario.txt --wallclock-limit 5400 --seed 6394268 --validation false  --console-log-level OFF --log-level TRACE
+./smac  --scenario-file /data/donglisha/acpp/ACPP/AC_output/PARHYDRA/run2/scenario.txt --wallclock-limit 5400 --seed 250108 --validation false  --console-log-level OFF --log-level TRACE
+./smac  --scenario-file /data/donglisha/acpp/ACPP/AC_output/PARHYDRA/run3/scenario.txt --wallclock-limit 5400 --seed 2750294 --validation false  --console-log-level OFF --log-level TRACE
+./smac  --scenario-file /data/donglisha/acpp/ACPP/AC_output/PARHYDRA/run4/scenario.txt --wallclock-limit 5400 --seed 2232108 --validation false  --console-log-level OFF --log-level TRACE
+./smac  --scenario-file /data/donglisha/acpp/ACPP/AC_output/PARHYDRA/run5/scenario.txt --wallclock-limit 5400 --seed 7364713 --validation false  --console-log-level OFF --log-level TRACE
+./smac  --scenario-file /data/donglisha/acpp/ACPP/AC_output/PARHYDRA/run6/scenario.txt --wallclock-limit 5400 --seed 6766995 --validation false  --console-log-level OFF --log-level TRACE
+./smac  --scenario-file /data/donglisha/acpp/ACPP/AC_output/PARHYDRA/run7/scenario.txt --wallclock-limit 5400 --seed 8921796 --validation false  --console-log-level OFF --log-level TRACE
+./smac  --scenario-file /data/donglisha/acpp/ACPP/AC_output/PARHYDRA/run8/scenario.txt --wallclock-limit 5400 --seed 869389 --validation false  --console-log-level OFF --log-level TRACE
+./smac  --scenario-file /data/donglisha/acpp/ACPP/AC_output/PARHYDRA/run9/scenario.txt --wallclock-limit 5400 --seed 4219219 --validation false  --console-log-level OFF --log-level TRACE
+./smac  --scenario-file /data/donglisha/acpp/ACPP/AC_output/PARHYDRA/run10/scenario.txt --wallclock-limit 5400 --seed 297973 --validation false  --console-log-level OFF --log-level TRACE

@@ -1,0 +1,39 @@
+/home/liusc/projects/ACPP/Solver/Concorde/concorde 20uniform.txt
+Host: localhost.localdomain  Current process id: 1558
+Using random seed 1544261211
+Problem Name: portgen-483-2979295
+portgen N=483, seed=2979295
+Problem Type: TSP
+Number of Nodes: 483
+Rounded Euclidean Norm (CC_EUCLIDEAN)
+Set initial upperbound to 16217836 (from tour)
+  LP Value  1: 15770391.875000  (0.06 seconds)
+  LP Value  2: 16117630.018519  (0.15 seconds)
+  LP Value  3: 16163478.668907  (0.25 seconds)
+  LP Value  4: 16192003.321667  (0.42 seconds)
+  LP Value  5: 16205604.166667  (0.64 seconds)
+  LP Value  6: 16208375.118609  (0.87 seconds)
+  LP Value  7: 16211946.873016  (1.06 seconds)
+  LP Value  8: 16212969.000000  (1.39 seconds)
+  LP Value  9: 16213081.500000  (1.65 seconds)
+New lower bound: 16213081.500000
+recomputing rownorms ...
+  LP Value  1: 16213081.500000  (1.97 seconds)
+New lower bound: 16213081.500000
+New upperbound from x-heuristic: 16214053.00
+Final lower bound 16213081.500000, upper bound 16214053.000000
+Exact lower bound: 16213081.500000
+DIFF: 0.000000
+Time for Total: 2.07 seconds (2.07 total in 1 calls)
+Final LP has 691 rows, 887 columns, 5291 nonzeros
+LOWER BOUND: 16213081.500000   ACTIVE NODES: 1
+
+Task 0: Branching on node 0
+BBnode 0 split into 1 (16214053.00X) 2 (16214058.12X) (0.33 seconds)
+Child 0 is pruned
+Child 1 is pruned
+
+Task 1: Exit
+Optimal Solution: 16214053.00
+Number of bbnodes: 3
+Total Running Time: 2.75 (seconds)  Branching Time: 0.33 (seconds)

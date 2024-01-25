@@ -1,0 +1,51 @@
+/home/liusc/projects/ACPP/Solver/Concorde/concorde 132clustering.txt
+Host: localhost.localdomain  Current process id: 2359
+Using random seed 1544261254
+Problem Name: portcgen-515-8418630
+portcgen N=515, seed=8418630
+Problem Type: TSP
+Number of Nodes: 515
+Rounded Euclidean Norm (CC_EUCLIDEAN)
+Set initial upperbound to 8406574 (from tour)
+  LP Value  1: 6690129.285714  (0.04 seconds)
+  LP Value  2: 6837036.095238  (0.12 seconds)
+  LP Value  3: 8030707.547078  (0.29 seconds)
+  LP Value  4: 8393767.409375  (0.53 seconds)
+  LP Value  5: 8398761.395833  (0.94 seconds)
+  LP Value  6: 8404099.393652  (1.75 seconds)
+  LP Value  7: 8405203.758737  (2.33 seconds)
+  LP Value  8: 8405500.543602  (2.95 seconds)
+New lower bound: 8404313.833333
+  LP Value  1: 8405528.333333  (3.36 seconds)
+  LP Value  2: 8405529.457317  (3.76 seconds)
+New lower bound: 8405529.457317
+Final lower bound 8405529.457317, upper bound 8406574.000000
+Exact lower bound: 8405529.457317
+DIFF: 0.000000
+Time for Total: 4.10 seconds (4.10 total in 1 calls)
+Final LP has 797 rows, 1082 columns, 9139 nonzeros
+LOWER BOUND: 8405529.457317   ACTIVE NODES: 1
+
+Task 0: Branching on node 0
+BBnode 0 split into 1 (8406646.50X) 2 (8405686.00) (0.48 seconds)
+Child 0 is pruned
+LOWER BOUND: 8405686.000000   ACTIVE NODES: 1
+
+Task 1: Cutting on node 2
+Writing Pool: 689 cuts
+BBnode 2 (now 3) done cutting: lowerbound 8406356.80 (3.01 seconds)
+LOWER BOUND: 8406356.804030   ACTIVE NODES: 1
+
+Task 2: Branching on node 3
+BBnode 3 split into 4 (8406507.00) 5 (8406584.94X) (0.39 seconds)
+Child 1 is pruned
+LOWER BOUND: 8406507.000000   ACTIVE NODES: 1
+
+Task 3: Cutting on node 4
+Writing Pool: 703 cuts
+BBnode 4 (now 6) can be pruned: upperbound 8406574.00 (0.21 seconds)
+
+Task 4: Exit
+Optimal Solution: 8406574.00
+Number of bbnodes: 5
+Total Running Time: 9.39 (seconds)  Branching Time: 4.09 (seconds)

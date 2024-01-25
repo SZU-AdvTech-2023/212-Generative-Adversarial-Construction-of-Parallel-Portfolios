@@ -1,0 +1,27 @@
+/home/liusc/projects/ACPP/Solver/Concorde/concorde 124clustering.txt
+Host: localhost.localdomain  Current process id: 2334
+Using random seed 1544261252
+Problem Name: portcgen-494-7514989
+portcgen N=494, seed=7514989
+Problem Type: TSP
+Number of Nodes: 494
+Rounded Euclidean Norm (CC_EUCLIDEAN)
+Set initial upperbound to 7072048 (from tour)
+  LP Value  1: 6732937.833333  (0.08 seconds)
+  LP Value  2: 6899675.452489  (0.24 seconds)
+  LP Value  3: 7051522.554945  (0.37 seconds)
+  LP Value  4: 7059098.333333  (0.59 seconds)
+  LP Value  5: 7063265.365385  (0.80 seconds)
+  LP Value  6: 7070735.125000  (1.05 seconds)
+  LP Value  7: 7071583.000000  (1.37 seconds)
+  LP Value  8: 7072048.000000  (1.38 seconds)
+New lower bound: 7038745.333333
+  LP Value  1: 7072048.000000  (1.41 seconds)
+New lower bound: 7072048.000000
+Final lower bound 7072048.000000, upper bound 7072048.000000
+Exact lower bound: 7072048.000000
+DIFF: 0.000000
+Final LP has 678 rows, 1373 columns, 5825 nonzeros
+Optimal Solution: 7072048.00
+Number of bbnodes: 1
+Total Running Time: 2.49 (seconds)

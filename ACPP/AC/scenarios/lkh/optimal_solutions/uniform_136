@@ -1,0 +1,70 @@
+/home/liusc/projects/ACPP/Solver/Concorde/concorde 136uniform.txt
+Host: localhost.localdomain  Current process id: 1911
+Using random seed 1544261224
+Problem Name: portgen-455-4424518
+portgen N=455, seed=4424518
+Problem Type: TSP
+Number of Nodes: 455
+Rounded Euclidean Norm (CC_EUCLIDEAN)
+Set initial upperbound to 15851079 (from tour)
+  LP Value  1: 15247724.750000  (0.07 seconds)
+  LP Value  2: 15759641.733333  (0.19 seconds)
+  LP Value  3: 15802347.716931  (0.27 seconds)
+  LP Value  4: 15815424.131400  (0.39 seconds)
+  LP Value  5: 15824446.524272  (0.53 seconds)
+  LP Value  6: 15828638.086842  (0.71 seconds)
+  LP Value  7: 15831024.362500  (0.93 seconds)
+  LP Value  8: 15834038.495756  (1.16 seconds)
+  LP Value  9: 15836869.512358  (1.44 seconds)
+  LP Value 10: 15839013.044533  (1.64 seconds)
+  LP Value 11: 15842486.323447  (2.34 seconds)
+  LP Value 12: 15845063.091880  (2.55 seconds)
+  LP Value 13: 15845831.665179  (3.26 seconds)
+  LP Value 14: 15846081.179018  (3.75 seconds)
+New lower bound: 15846081.179018
+  LP Value  1: 15846273.627541  (3.90 seconds)
+  LP Value  2: 15846352.286732  (4.12 seconds)
+  LP Value  3: 15846414.300004  (4.31 seconds)
+  LP Value  4: 15846487.800146  (4.71 seconds)
+  LP Value  5: 15846559.727132  (4.88 seconds)
+  LP Value  6: 15846611.714085  (5.06 seconds)
+  LP Value  7: 15846695.909367  (5.23 seconds)
+  LP Value  8: 15847053.047631  (5.44 seconds)
+  LP Value  9: 15847149.213990  (5.87 seconds)
+  LP Value 10: 15847194.608365  (6.09 seconds)
+  LP Value 11: 15847278.187034  (6.30 seconds)
+  LP Value 12: 15847363.304398  (6.45 seconds)
+  LP Value 13: 15847415.510125  (6.63 seconds)
+  LP Value 14: 15847464.744489  (6.84 seconds)
+  LP Value 15: 15847483.142935  (7.36 seconds)
+  LP Value 16: 15847535.468489  (7.93 seconds)
+  LP Value 17: 15847560.024886  (8.60 seconds)
+  LP Value 18: 15847577.457726  (9.29 seconds)
+  LP Value 19: 15847615.627494  (9.90 seconds)
+  LP Value 20: 15847632.924223  (10.53 seconds)
+  LP Value 21: 15847634.238591  (11.05 seconds)
+New lower bound: 15847634.238591
+Final lower bound 15847634.238591, upper bound 15851079.000000
+Exact lower bound: 15847634.238591
+DIFF: 0.000000
+Time for Total: 11.14 seconds (11.14 total in 1 calls)
+Final LP has 704 rows, 971 columns, 8915 nonzeros
+LOWER BOUND: 15847634.238591   ACTIVE NODES: 1
+
+Task 0: Branching on node 0
+BBnode 0 split into 1 (15849415.08) 2 (15849878.75) (0.85 seconds)
+LOWER BOUND: 15849415.080358   ACTIVE NODES: 2
+
+Task 1: Cutting on node 1
+Writing Pool: 771 cuts
+BBnode 1 (now 3) can be pruned: upperbound 15851079.00 (0.77 seconds)
+LOWER BOUND: 15849878.750000   ACTIVE NODES: 1
+
+Task 2: Cutting on node 2
+Writing Pool: 784 cuts
+BBnode 2 (now 4) can be pruned: upperbound 15851079.00 (0.16 seconds)
+
+Task 3: Exit
+Optimal Solution: 15851079.00
+Number of bbnodes: 3
+Total Running Time: 13.24 (seconds)  Branching Time: 1.79 (seconds)

@@ -1,0 +1,111 @@
+/home/liusc/projects/ACPP/Solver/Concorde/concorde 59uniform.txt
+Host: localhost.localdomain  Current process id: 1675
+Using random seed 1544261211
+Problem Name: portgen-497-7658939
+portgen N=497, seed=7658939
+Problem Type: TSP
+Number of Nodes: 497
+Rounded Euclidean Norm (CC_EUCLIDEAN)
+Set initial upperbound to 16578409 (from tour)
+  LP Value  1: 15996007.750000  (0.06 seconds)
+  LP Value  2: 16461165.833333  (0.18 seconds)
+  LP Value  3: 16510555.674762  (0.37 seconds)
+  LP Value  4: 16536880.607143  (0.65 seconds)
+  LP Value  5: 16540210.816667  (0.89 seconds)
+  LP Value  6: 16547129.867428  (1.16 seconds)
+  LP Value  7: 16551259.378526  (1.46 seconds)
+  LP Value  8: 16554343.195217  (1.89 seconds)
+  LP Value  9: 16557604.275269  (2.71 seconds)
+  LP Value 10: 16560175.439394  (3.43 seconds)
+  LP Value 11: 16562551.386391  (4.31 seconds)
+  LP Value 12: 16563746.532231  (5.13 seconds)
+  LP Value 13: 16564121.409954  (5.76 seconds)
+  LP Value 14: 16564237.412281  (6.80 seconds)
+New lower bound: 16564237.412281
+  LP Value  1: 16564305.163636  (7.28 seconds)
+  LP Value  2: 16564371.282759  (7.55 seconds)
+  LP Value  3: 16564372.185714  (7.95 seconds)
+New lower bound: 16564372.185714
+Final lower bound 16564372.185714, upper bound 16578409.000000
+Exact lower bound: 16564372.185714
+DIFF: 0.000000
+Time for Total: 8.08 seconds (8.08 total in 1 calls)
+Final LP has 784 rows, 1193 columns, 8312 nonzeros
+LOWER BOUND: 16564372.185714   ACTIVE NODES: 1
+
+Task 0: Branching on node 0
+BBnode 0 split into 1 (16565309.83) 2 (16568018.84) (0.98 seconds)
+LOWER BOUND: 16565309.832140   ACTIVE NODES: 2
+
+Task 1: Cutting on node 1
+recomputing rownorms ...
+Writing Pool: 951 cuts
+BBnode 1 (now 3) done cutting: lowerbound 16567380.19 (5.02 seconds)
+LOWER BOUND: 16567380.189707   ACTIVE NODES: 2
+
+Task 2: Branching on node 3
+BBnode 3 split into 4 (16569382.95) 5 (16569187.48) (1.03 seconds)
+LOWER BOUND: 16568018.835294   ACTIVE NODES: 3
+
+Task 3: Cutting on node 2
+Writing Pool: 1106 cuts
+BBnode 2 (now 6) can be pruned: upperbound 16578409.00 (1.33 seconds)
+LOWER BOUND: 16569187.484849   ACTIVE NODES: 2
+
+Task 4: Cutting on node 5
+Writing Pool: 1188 cuts
+BBnode 5 (now 7) done cutting: lowerbound 16571323.39 (2.71 seconds)
+LOWER BOUND: 16569382.950000   ACTIVE NODES: 2
+
+Task 5: Cutting on node 4
+New upperbound from x-heuristic: 16578179.00
+recomputing rownorms ...
+TOUR FOUND - upperbound is 16578179.00
+Writing Pool: 1267 cuts
+BBnode 4 (now 8) done cutting: lowerbound 16572700.59 (4.04 seconds)
+LOWER BOUND: 16571323.385965   ACTIVE NODES: 2
+
+Task 6: Branching on node 7
+BBnode 7 split into 9 (16577657.03) 10 (16573886.67) (0.99 seconds)
+LOWER BOUND: 16572700.594563   ACTIVE NODES: 3
+
+Task 7: Branching on node 8
+BBnode 8 split into 11 (16574766.39) 12 (16579325.38X) (1.16 seconds)
+Child 1 is pruned
+LOWER BOUND: 16573886.666667   ACTIVE NODES: 3
+
+Task 8: Cutting on node 10
+New upperbound from x-heuristic: 16576183.00
+recomputing rownorms ...
+TOUR FOUND - upperbound is 16576183.00
+Writing Pool: 1300 cuts
+BBnode 10 (now 13) done cutting: lowerbound 16575930.50 (1.86 seconds)
+LOWER BOUND: 16574766.391304   ACTIVE NODES: 3
+
+Task 9: Cutting on node 11
+recomputing rownorms ...
+Writing Pool: 1303 cuts
+BBnode 11 (now 14) done cutting: lowerbound 16575492.00 (1.17 seconds)
+LOWER BOUND: 16575492.000000   ACTIVE NODES: 3
+
+Task 10: Branching on node 14
+BBnode 14 split into 15 (16576612.95X) 16 (16576228.00X) (0.56 seconds)
+Child 0 is pruned
+Child 1 is pruned
+LOWER BOUND: 16575930.500000   ACTIVE NODES: 2
+
+Task 11: Branching on node 13
+BBnode 13 split into 17 (16576258.38X) 18 (16576183.00X) (0.51 seconds)
+Child 0 is pruned
+Child 1 is pruned
+LOWER BOUND: 16577657.027136   ACTIVE NODES: 1
+
+Task 12: Cutting on node 9
+Do not cut, the lp is within 1.0 of the upperbound
+Writing Pool: 1303 cuts
+BBnode 9 (now 19) can be pruned: upperbound 16576183.00 (0.01 seconds)
+
+Task 13: Exit
+Optimal Solution: 16576183.00
+Number of bbnodes: 13
+Total Running Time: 29.89 (seconds)  Branching Time: 21.38 (seconds)

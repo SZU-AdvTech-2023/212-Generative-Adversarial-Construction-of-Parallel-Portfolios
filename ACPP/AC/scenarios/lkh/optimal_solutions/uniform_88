@@ -1,0 +1,57 @@
+/home/liusc/projects/ACPP/Solver/Concorde/concorde 88uniform.txt
+Host: localhost.localdomain  Current process id: 1762
+Using random seed 1544261213
+Problem Name: portgen-509-8075895
+portgen N=509, seed=8075895
+Problem Type: TSP
+Number of Nodes: 509
+Rounded Euclidean Norm (CC_EUCLIDEAN)
+Set initial upperbound to 16940920 (from tour)
+  LP Value  1: 16365757.000000  (0.07 seconds)
+  LP Value  2: 16821568.136364  (0.16 seconds)
+  LP Value  3: 16876533.954167  (0.35 seconds)
+  LP Value  4: 16898824.816667  (0.58 seconds)
+  LP Value  5: 16904057.648810  (0.78 seconds)
+  LP Value  6: 16906385.000000  (0.97 seconds)
+  LP Value  7: 16910376.273321  (1.20 seconds)
+  LP Value  8: 16913307.244293  (2.32 seconds)
+  LP Value  9: 16915250.880000  (2.97 seconds)
+  LP Value 10: 16916383.554968  (4.19 seconds)
+  LP Value 11: 16916616.750000  (4.50 seconds)
+New lower bound: 16916616.750000
+recomputing rownorms ...
+  LP Value  1: 16916616.750000  (4.81 seconds)
+New upperbound from x-heuristic: 16934411.00
+Final lower bound 16916616.750000, upper bound 16934411.000000
+Exact lower bound: 16916616.750000
+DIFF: 0.000000
+Time for Total: 4.93 seconds (4.93 total in 1 calls)
+Final LP has 786 rows, 1196 columns, 6548 nonzeros
+LOWER BOUND: 16916616.750000   ACTIVE NODES: 1
+
+Task 0: Branching on node 0
+BBnode 0 split into 1 (16918335.20) 2 (16918189.29) (0.59 seconds)
+LOWER BOUND: 16918189.292357   ACTIVE NODES: 2
+
+Task 1: Cutting on node 2
+New upperbound from x-heuristic: 16928360.00
+TOUR FOUND - upperbound is 16928360.00
+Writing Pool: 671 cuts
+BBnode 2 (now 3) done cutting: lowerbound 16921593.67 (4.89 seconds)
+LOWER BOUND: 16918335.200000   ACTIVE NODES: 2
+
+Task 2: Cutting on node 1
+New upperbound from x-heuristic: 16920769.00
+TOUR FOUND - upperbound is 16920769.00
+Writing Pool: 676 cuts
+BBnode 1 (now 4) can be pruned: upperbound 16920769.00 (0.42 seconds)
+LOWER BOUND: 16921593.669016   ACTIVE NODES: 1
+
+Task 3: Branching on node 3
+Do not branch, the lp is within 1.0 of the upperbound
+BBnode 3 is pruned - no branching (0.01 seconds)
+
+Task 4: Exit
+Optimal Solution: 16920769.00
+Number of bbnodes: 3
+Total Running Time: 11.26 (seconds)  Branching Time: 5.90 (seconds)

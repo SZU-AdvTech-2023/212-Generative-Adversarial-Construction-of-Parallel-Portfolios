@@ -1,0 +1,57 @@
+/home/liusc/projects/ACPP/Solver/Concorde/concorde 130clustering.txt
+Host: localhost.localdomain  Current process id: 2353
+Using random seed 1544261254
+Problem Name: portcgen-419-4185951
+portcgen N=419, seed=4185951
+Problem Type: TSP
+Number of Nodes: 419
+Rounded Euclidean Norm (CC_EUCLIDEAN)
+Set initial upperbound to 6365416 (from tour)
+  LP Value  1: 5666448.500000  (0.05 seconds)
+  LP Value  2: 5819972.500000  (0.12 seconds)
+  LP Value  3: 5851870.710294  (0.23 seconds)
+  LP Value  4: 6334947.210169  (0.36 seconds)
+  LP Value  5: 6338748.471831  (0.58 seconds)
+  LP Value  6: 6340438.250000  (0.79 seconds)
+  LP Value  7: 6341847.957830  (1.09 seconds)
+  LP Value  8: 6342151.498696  (1.43 seconds)
+New lower bound: 6317051.342697
+  LP Value  1: 6342271.583333  (1.59 seconds)
+  LP Value  2: 6342750.372688  (1.80 seconds)
+  LP Value  3: 6342892.795712  (2.04 seconds)
+  LP Value  4: 6343051.660539  (2.37 seconds)
+  LP Value  5: 6343197.190476  (2.55 seconds)
+recomputing rownorms ...
+  LP Value  6: 6343197.190476  (2.68 seconds)
+New lower bound: 6343197.190476
+New upperbound from x-heuristic: 6345625.00
+Final lower bound 6343197.190476, upper bound 6345625.000000
+Exact lower bound: 6343197.190476
+DIFF: 0.000000
+Time for Total: 2.84 seconds (2.84 total in 1 calls)
+Final LP has 635 rows, 963 columns, 6873 nonzeros
+LOWER BOUND: 6343197.190476   ACTIVE NODES: 1
+
+Task 0: Branching on node 0
+BBnode 0 split into 1 (6343760.70) 2 (6344473.93) (0.42 seconds)
+LOWER BOUND: 6343760.700000   ACTIVE NODES: 2
+
+Task 1: Cutting on node 1
+Writing Pool: 547 cuts
+BBnode 1 (now 3) can be pruned: upperbound 6345625.00 (1.08 seconds)
+LOWER BOUND: 6344473.927747   ACTIVE NODES: 1
+
+Task 2: Cutting on node 2
+Writing Pool: 666 cuts
+BBnode 2 (now 4) done cutting: lowerbound 6345440.19 (2.76 seconds)
+LOWER BOUND: 6345440.191212   ACTIVE NODES: 1
+
+Task 3: Branching on node 4
+BBnode 4 split into 5 (6345625.00X) 6 (6346252.77X) (0.47 seconds)
+Child 0 is pruned
+Child 1 is pruned
+
+Task 4: Exit
+Optimal Solution: 6345625.00
+Number of bbnodes: 5
+Total Running Time: 8.62 (seconds)  Branching Time: 4.72 (seconds)

@@ -1,0 +1,49 @@
+/home/liusc/projects/ACPP/Solver/Concorde/concorde 58clustering.txt
+Host: localhost.localdomain  Current process id: 2137
+Using random seed 1544261242
+Problem Name: portcgen-416-1658284
+portcgen N=416, seed=1658284
+Problem Type: TSP
+Number of Nodes: 416
+Rounded Euclidean Norm (CC_EUCLIDEAN)
+Set initial upperbound to 7361360 (from tour)
+  LP Value  1: 6795416.166667  (0.05 seconds)
+  LP Value  2: 6996400.700000  (0.11 seconds)
+  LP Value  3: 7329011.263889  (0.17 seconds)
+  LP Value  4: 7345564.099670  (0.30 seconds)
+  LP Value  5: 7352405.904670  (0.46 seconds)
+  LP Value  6: 7356746.834205  (0.71 seconds)
+  LP Value  7: 7358761.323276  (1.11 seconds)
+  LP Value  8: 7358942.750000  (1.39 seconds)
+New lower bound: 7338446.200000
+  LP Value  1: 7358942.750000  (1.63 seconds)
+recomputing rownorms ...
+  LP Value  2: 7358942.750000  (1.91 seconds)
+New lower bound: 7358942.750000
+Final lower bound 7358942.750000, upper bound 7361360.000000
+Exact lower bound: 7358942.750000
+DIFF: 0.000000
+Time for Total: 2.10 seconds (2.10 total in 1 calls)
+Final LP has 629 rows, 909 columns, 6042 nonzeros
+LOWER BOUND: 7358942.750000   ACTIVE NODES: 1
+
+Task 0: Branching on node 0
+BBnode 0 split into 1 (7360089.50) 2 (7359230.50) (0.18 seconds)
+LOWER BOUND: 7359230.500000   ACTIVE NODES: 2
+
+Task 1: Cutting on node 2
+New upperbound from x-heuristic: 7359276.00
+TOUR FOUND - upperbound is 7359276.00
+Writing Pool: 306 cuts
+BBnode 2 (now 3) can be pruned: upperbound 7359276.00 (0.44 seconds)
+LOWER BOUND: 7360089.500000   ACTIVE NODES: 1
+
+Task 2: Cutting on node 1
+Do not cut, the lp is within 1.0 of the upperbound
+Writing Pool: 306 cuts
+BBnode 1 (now 4) can be pruned: upperbound 7359276.00 (0.01 seconds)
+
+Task 3: Exit
+Optimal Solution: 7359276.00
+Number of bbnodes: 3
+Total Running Time: 3.53 (seconds)  Branching Time: 0.62 (seconds)

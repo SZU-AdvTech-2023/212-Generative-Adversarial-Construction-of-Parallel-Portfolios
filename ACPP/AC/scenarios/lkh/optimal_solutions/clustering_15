@@ -1,0 +1,70 @@
+/home/liusc/projects/ACPP/Solver/Concorde/concorde 15clustering.txt
+Host: localhost.localdomain  Current process id: 1999
+Using random seed 1544261231
+Problem Name: portcgen-518-8309781
+portcgen N=518, seed=8309781
+Problem Type: TSP
+Number of Nodes: 518
+Rounded Euclidean Norm (CC_EUCLIDEAN)
+Set initial upperbound to 8168276 (from tour)
+  LP Value  1: 6716040.000000  (0.07 seconds)
+  LP Value  2: 8079140.000000  (0.18 seconds)
+  LP Value  3: 8115042.252955  (0.35 seconds)
+  LP Value  4: 8127890.765385  (0.48 seconds)
+  LP Value  5: 8152249.416667  (0.63 seconds)
+  LP Value  6: 8159934.065583  (1.28 seconds)
+  LP Value  7: 8162998.240385  (2.12 seconds)
+  LP Value  8: 8163846.491773  (2.82 seconds)
+  LP Value  9: 8164206.555556  (3.48 seconds)
+New lower bound: 8155122.722222
+  LP Value  1: 8164412.112225  (3.86 seconds)
+  LP Value  2: 8164561.390821  (4.34 seconds)
+  LP Value  3: 8164815.289022  (4.68 seconds)
+  LP Value  4: 8164900.232114  (5.43 seconds)
+  LP Value  5: 8164963.869565  (6.01 seconds)
+  LP Value  6: 8164986.400000  (6.53 seconds)
+  LP Value  7: 8165030.916667  (7.00 seconds)
+  LP Value  8: 8165062.944444  (7.51 seconds)
+  LP Value  9: 8165077.222222  (7.87 seconds)
+recomputing rownorms ...
+  LP Value 10: 8165077.222222  (8.25 seconds)
+New lower bound: 8165077.222222
+New upperbound from x-heuristic: 8168030.00
+Final lower bound 8165077.222222, upper bound 8168030.000000
+Exact lower bound: 8165077.222222
+DIFF: 0.000000
+Time for Total: 8.59 seconds (8.59 total in 1 calls)
+Final LP has 751 rows, 1185 columns, 8627 nonzeros
+LOWER BOUND: 8165077.222222   ACTIVE NODES: 1
+
+Task 0: Branching on node 0
+BBnode 0 split into 1 (8166345.36) 2 (8165658.00) (0.49 seconds)
+LOWER BOUND: 8165658.000000   ACTIVE NODES: 2
+
+Task 1: Cutting on node 2
+Writing Pool: 788 cuts
+BBnode 2 (now 3) done cutting: lowerbound 8167289.09 (7.81 seconds)
+LOWER BOUND: 8166345.363636   ACTIVE NODES: 2
+
+Task 2: Cutting on node 1
+Writing Pool: 909 cuts
+BBnode 1 (now 4) can be pruned: upperbound 8168030.00 (4.25 seconds)
+LOWER BOUND: 8167289.086234   ACTIVE NODES: 1
+
+Task 3: Branching on node 3
+BBnode 3 split into 5 (8167550.08) 6 (8167612.23) (0.61 seconds)
+LOWER BOUND: 8167550.084211   ACTIVE NODES: 2
+
+Task 4: Cutting on node 5
+Writing Pool: 934 cuts
+BBnode 5 (now 7) can be pruned: upperbound 8168030.00 (0.94 seconds)
+LOWER BOUND: 8167612.234798   ACTIVE NODES: 1
+
+Task 5: Cutting on node 6
+Writing Pool: 946 cuts
+BBnode 6 (now 8) can be pruned: upperbound 8168030.00 (0.21 seconds)
+
+Task 6: Exit
+Optimal Solution: 8168030.00
+Number of bbnodes: 5
+Total Running Time: 24.00 (seconds)  Branching Time: 14.31 (seconds)

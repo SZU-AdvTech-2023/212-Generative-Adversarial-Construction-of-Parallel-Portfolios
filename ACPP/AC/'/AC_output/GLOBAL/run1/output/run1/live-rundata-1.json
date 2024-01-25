@@ -1,0 +1,2148 @@
+[ {
+  "@pi-id" : 2,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/clustering_96",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 1
+}, {
+  "@pi-id" : 3,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/clustering_119",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 2
+}, {
+  "@pi-id" : 4,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/uniform_122",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 3
+}, {
+  "@pi-id" : 5,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/clustering_65",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 4
+}, {
+  "@pi-id" : 6,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/uniform_133",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 5
+}, {
+  "@pi-id" : 7,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/clustering_57",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 6
+}, {
+  "@pi-id" : 8,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/uniform_123",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 7
+}, {
+  "@pi-id" : 9,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/uniform_92",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 8
+}, {
+  "@pi-id" : 10,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/clustering_112",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 9
+}, {
+  "@pi-id" : 11,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/clustering_147",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 10
+}, {
+  "@pi-id" : 12,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/uniform_149",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 11
+}, {
+  "@pi-id" : 13,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/clustering_86",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 12
+}, {
+  "@pi-id" : 14,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/uniform_79",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 13
+}, {
+  "@pi-id" : 15,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/uniform_119",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 14
+}, {
+  "@pi-id" : 16,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/uniform_104",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 15
+}, {
+  "@pi-id" : 17,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/clustering_81",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 16
+}, {
+  "@pi-id" : 18,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/uniform_61",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 17
+}, {
+  "@pi-id" : 19,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/clustering_33",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 18
+}, {
+  "@pi-id" : 20,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/clustering_97",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 19
+}, {
+  "@pi-id" : 21,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/clustering_148",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 20
+}, {
+  "@pi-id" : 22,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/clustering_68",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 21
+}, {
+  "@pi-id" : 23,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/clustering_121",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 22
+}, {
+  "@pi-id" : 24,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/uniform_146",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 23
+}, {
+  "@pi-id" : 25,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/uniform_35",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 24
+}, {
+  "@pi-id" : 26,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/clustering_135",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 25
+}, {
+  "@pi-id" : 27,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/clustering_141",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 26
+}, {
+  "@pi-id" : 28,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/clustering_138",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 27
+}, {
+  "@pi-id" : 29,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/clustering_64",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 28
+}, {
+  "@pi-id" : 30,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/clustering_29",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 29
+}, {
+  "@pi-id" : 31,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/uniform_112",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 30
+}, {
+  "@pi-id" : 32,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/clustering_44",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 31
+}, {
+  "@pi-id" : 33,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/uniform_17",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 32
+}, {
+  "@pi-id" : 34,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/clustering_110",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 33
+}, {
+  "@pi-id" : 35,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/uniform_128",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 34
+}, {
+  "@pi-id" : 36,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/uniform_23",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 35
+}, {
+  "@pi-id" : 37,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/clustering_143",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 36
+}, {
+  "@pi-id" : 38,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/clustering_79",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 37
+}, {
+  "@pi-id" : 39,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/uniform_136",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 38
+}, {
+  "@pi-id" : 40,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/clustering_30",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 39
+}, {
+  "@pi-id" : 41,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/uniform_64",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 40
+}, {
+  "@pi-id" : 42,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/uniform_116",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 41
+}, {
+  "@pi-id" : 43,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/uniform_48",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 42
+}, {
+  "@pi-id" : 44,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/uniform_68",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 43
+}, {
+  "@pi-id" : 45,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/uniform_19",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 44
+}, {
+  "@pi-id" : 46,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/uniform_42",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 45
+}, {
+  "@pi-id" : 47,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/uniform_69",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 46
+}, {
+  "@pi-id" : 48,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/clustering_136",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 47
+}, {
+  "@pi-id" : 49,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/uniform_74",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 48
+}, {
+  "@pi-id" : 50,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/clustering_137",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 49
+}, {
+  "@pi-id" : 51,
+  "pi-name" : "/home/liusc/projects/ACPP/instance_set/TSP/instances/clustering_7",
+  "pi-instance-specific-info" : "0",
+  "pi-features" : { },
+  "pi-instance-id(deprecated)" : 50
+} ] {
+  "r-rc" : {
+    "@rc-id" : 2,
+    "rc-algo-exec-config" : {
+      "@algo-exec-config-id" : 2,
+      "algo-exec" : "../src/util/parallel_solver_wrapper.py",
+      "algo-exec-dir" : "/home/liusc/projects/ACPP/smac-v2.10.03-master-778/.",
+      "algo-pcs" : {
+        "@pcs-id" : 2,
+        "pcs-filename" : "/home/liusc/projects/ACPP/Solver/paramfile/Mul_lkh_pcs.txt",
+        "pcs-text" : "@1:LKH:solver categorical {/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH} [/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH]\n@1:LKH:prefix categorical {-} [-]\n@1:ASCENT_CANDIDATES integer [40,60] [50]\n@1:BACKBONE_TRIALS integer [0,1] [0]\n@1:BACKTRACKING categorical {YES,NO} [NO]\n@1:CANDIDATE_SET_TYPE categorical {ALPHA,DELAUNAY,NEAREST-NEIGHBOR,QUADRANT} [ALPHA]\n@1:EXTRA_CANDIDATES integer [0,10] [0]\n@1:EXTRA_CANDIDATE_SET_TYPE categorical {NEAREST-NEIGHBOR,QUADRANT} [QUADRANT]\n@1:GAIN23 categorical {YES,NO} [YES]\n@1:GAIN_CRITERION  categorical {YES,NO} [YES]\n@1:INITIAL_STEP_SIZE integer [1,5] [1]\n@1:INITIAL_TOUR_ALGORITHM  categorical {BORUVKA,GREEDY,NEAREST-NEIGHBOR,QUICK-BORUVKA,SIERPINSKI,WALK } [WALK]\n@1:INITIAL_TOUR_FRACTION real [0,1] [1]\n@1:KICKS integer [0,5] [1]\n@1:KICK_TYPE categorical {0,4,5} [0]\n@1:MAX_BREADTH integer [1,2147483647] [2147483647]\n@1:MAX_CANDIDATES integer [1,10] [5]\n@1:MOVE_TYPE integer [2,6] [5]\n@1:PATCHING_A integer [0,5] [1]\n@1:PATCHING_C integer [0,5] [0]\n@1:POPULATION_SIZE integer [2,100] [50]\n@1:RESTRICTED_SEARCH categorical {YES,NO} [YES]\n@1:RUNS categorical {10000} [10000]\n@1:SUBGRADIENT categorical {YES,NO} [YES]\n@1:SUBSEQUENT_MOVE_TYPE categorical {0,2,3,4,5,6} [0]\n@1:SUBSEQUENT_PATCHING categorical {YES,NO} [YES]\n\n\n@1:EXTRA_CANDIDATE_SET_TYPE | @1:EXTRA_CANDIDATES in {0}\n@2:LKH:solver categorical {/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH} [/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH]\n@2:LKH:prefix categorical {-} [-]\n@2:ASCENT_CANDIDATES integer [40,60] [50]\n@2:BACKBONE_TRIALS integer [0,1] [0]\n@2:BACKTRACKING categorical {YES,NO} [NO]\n@2:CANDIDATE_SET_TYPE categorical {ALPHA,DELAUNAY,NEAREST-NEIGHBOR,QUADRANT} [ALPHA]\n@2:EXTRA_CANDIDATES integer [0,10] [0]\n@2:EXTRA_CANDIDATE_SET_TYPE categorical {NEAREST-NEIGHBOR,QUADRANT} [QUADRANT]\n@2:GAIN23 categorical {YES,NO} [YES]\n@2:GAIN_CRITERION  categorical {YES,NO} [YES]\n@2:INITIAL_STEP_SIZE integer [1,5] [1]\n@2:INITIAL_TOUR_ALGORITHM  categorical {BORUVKA,GREEDY,NEAREST-NEIGHBOR,QUICK-BORUVKA,SIERPINSKI,WALK } [WALK]\n@2:INITIAL_TOUR_FRACTION real [0,1] [1]\n@2:KICKS integer [0,5] [1]\n@2:KICK_TYPE categorical {0,4,5} [0]\n@2:MAX_BREADTH integer [1,2147483647] [2147483647]\n@2:MAX_CANDIDATES integer [1,10] [5]\n@2:MOVE_TYPE integer [2,6] [5]\n@2:PATCHING_A integer [0,5] [1]\n@2:PATCHING_C integer [0,5] [0]\n@2:POPULATION_SIZE integer [2,100] [50]\n@2:RESTRICTED_SEARCH categorical {YES,NO} [YES]\n@2:RUNS categorical {10000} [10000]\n@2:SUBGRADIENT categorical {YES,NO} [YES]\n@2:SUBSEQUENT_MOVE_TYPE categorical {0,2,3,4,5,6} [0]\n@2:SUBSEQUENT_PATCHING categorical {YES,NO} [YES]\n\n\n@2:EXTRA_CANDIDATE_SET_TYPE | @2:EXTRA_CANDIDATES in {0}\n@3:LKH:solver categorical {/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH} [/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH]\n@3:LKH:prefix categorical {-} [-]\n@3:ASCENT_CANDIDATES integer [40,60] [50]\n@3:BACKBONE_TRIALS integer [0,1] [0]\n@3:BACKTRACKING categorical {YES,NO} [NO]\n@3:CANDIDATE_SET_TYPE categorical {ALPHA,DELAUNAY,NEAREST-NEIGHBOR,QUADRANT} [ALPHA]\n@3:EXTRA_CANDIDATES integer [0,10] [0]\n@3:EXTRA_CANDIDATE_SET_TYPE categorical {NEAREST-NEIGHBOR,QUADRANT} [QUADRANT]\n@3:GAIN23 categorical {YES,NO} [YES]\n@3:GAIN_CRITERION  categorical {YES,NO} [YES]\n@3:INITIAL_STEP_SIZE integer [1,5] [1]\n@3:INITIAL_TOUR_ALGORITHM  categorical {BORUVKA,GREEDY,NEAREST-NEIGHBOR,QUICK-BORUVKA,SIERPINSKI,WALK } [WALK]\n@3:INITIAL_TOUR_FRACTION real [0,1] [1]\n@3:KICKS integer [0,5] [1]\n@3:KICK_TYPE categorical {0,4,5} [0]\n@3:MAX_BREADTH integer [1,2147483647] [2147483647]\n@3:MAX_CANDIDATES integer [1,10] [5]\n@3:MOVE_TYPE integer [2,6] [5]\n@3:PATCHING_A integer [0,5] [1]\n@3:PATCHING_C integer [0,5] [0]\n@3:POPULATION_SIZE integer [2,100] [50]\n@3:RESTRICTED_SEARCH categorical {YES,NO} [YES]\n@3:RUNS categorical {10000} [10000]\n@3:SUBGRADIENT categorical {YES,NO} [YES]\n@3:SUBSEQUENT_MOVE_TYPE categorical {0,2,3,4,5,6} [0]\n@3:SUBSEQUENT_PATCHING categorical {YES,NO} [YES]\n\n\n@3:EXTRA_CANDIDATE_SET_TYPE | @3:EXTRA_CANDIDATES in {0}\n@4:LKH:solver categorical {/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH} [/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH]\n@4:LKH:prefix categorical {-} [-]\n@4:ASCENT_CANDIDATES integer [40,60] [50]\n@4:BACKBONE_TRIALS integer [0,1] [0]\n@4:BACKTRACKING categorical {YES,NO} [NO]\n@4:CANDIDATE_SET_TYPE categorical {ALPHA,DELAUNAY,NEAREST-NEIGHBOR,QUADRANT} [ALPHA]\n@4:EXTRA_CANDIDATES integer [0,10] [0]\n@4:EXTRA_CANDIDATE_SET_TYPE categorical {NEAREST-NEIGHBOR,QUADRANT} [QUADRANT]\n@4:GAIN23 categorical {YES,NO} [YES]\n@4:GAIN_CRITERION  categorical {YES,NO} [YES]\n@4:INITIAL_STEP_SIZE integer [1,5] [1]\n@4:INITIAL_TOUR_ALGORITHM  categorical {BORUVKA,GREEDY,NEAREST-NEIGHBOR,QUICK-BORUVKA,SIERPINSKI,WALK } [WALK]\n@4:INITIAL_TOUR_FRACTION real [0,1] [1]\n@4:KICKS integer [0,5] [1]\n@4:KICK_TYPE categorical {0,4,5} [0]\n@4:MAX_BREADTH integer [1,2147483647] [2147483647]\n@4:MAX_CANDIDATES integer [1,10] [5]\n@4:MOVE_TYPE integer [2,6] [5]\n@4:PATCHING_A integer [0,5] [1]\n@4:PATCHING_C integer [0,5] [0]\n@4:POPULATION_SIZE integer [2,100] [50]\n@4:RESTRICTED_SEARCH categorical {YES,NO} [YES]\n@4:RUNS categorical {10000} [10000]\n@4:SUBGRADIENT categorical {YES,NO} [YES]\n@4:SUBSEQUENT_MOVE_TYPE categorical {0,2,3,4,5,6} [0]\n@4:SUBSEQUENT_PATCHING categorical {YES,NO} [YES]\n\n\n@4:EXTRA_CANDIDATE_SET_TYPE | @4:EXTRA_CANDIDATES in {0}\n",
+        "pcs-subspace" : { }
+      },
+      "algo-cutoff" : 1.0,
+      "algo-deterministic" : false,
+      "algo-tae-context" : { }
+    },
+    "rc-cutoff" : 1.0,
+    "rc-pisp" : {
+      "@pisp-id" : 2,
+      "pisp-pi" : {
+        "@pi-id" : 33
+      },
+      "pisp-seed" : 12793054
+    },
+    "rc-pc" : {
+      "@pc-id" : 2,
+      "pc-pcs" : {
+        "@pcs-id" : 2
+      },
+      "pc-settings" : {
+        "@1:ASCENT_CANDIDATES" : "50",
+        "@1:BACKBONE_TRIALS" : "0",
+        "@1:BACKTRACKING" : "NO",
+        "@1:CANDIDATE_SET_TYPE" : "ALPHA",
+        "@1:EXTRA_CANDIDATES" : "0",
+        "@1:EXTRA_CANDIDATE_SET_TYPE" : "QUADRANT",
+        "@1:GAIN23" : "YES",
+        "@1:GAIN_CRITERION" : "YES",
+        "@1:INITIAL_STEP_SIZE" : "1",
+        "@1:INITIAL_TOUR_ALGORITHM" : "WALK",
+        "@1:INITIAL_TOUR_FRACTION" : "1.0",
+        "@1:KICKS" : "1",
+        "@1:KICK_TYPE" : "0",
+        "@1:LKH:prefix" : "-",
+        "@1:LKH:solver" : "/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH",
+        "@1:MAX_BREADTH" : "2147483647",
+        "@1:MAX_CANDIDATES" : "5",
+        "@1:MOVE_TYPE" : "5",
+        "@1:PATCHING_A" : "1",
+        "@1:PATCHING_C" : "0",
+        "@1:POPULATION_SIZE" : "50",
+        "@1:RESTRICTED_SEARCH" : "YES",
+        "@1:RUNS" : "10000",
+        "@1:SUBGRADIENT" : "YES",
+        "@1:SUBSEQUENT_MOVE_TYPE" : "0",
+        "@1:SUBSEQUENT_PATCHING" : "YES",
+        "@2:ASCENT_CANDIDATES" : "50",
+        "@2:BACKBONE_TRIALS" : "0",
+        "@2:BACKTRACKING" : "NO",
+        "@2:CANDIDATE_SET_TYPE" : "ALPHA",
+        "@2:EXTRA_CANDIDATES" : "0",
+        "@2:EXTRA_CANDIDATE_SET_TYPE" : "QUADRANT",
+        "@2:GAIN23" : "YES",
+        "@2:GAIN_CRITERION" : "YES",
+        "@2:INITIAL_STEP_SIZE" : "1",
+        "@2:INITIAL_TOUR_ALGORITHM" : "WALK",
+        "@2:INITIAL_TOUR_FRACTION" : "1.0",
+        "@2:KICKS" : "1",
+        "@2:KICK_TYPE" : "0",
+        "@2:LKH:prefix" : "-",
+        "@2:LKH:solver" : "/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH",
+        "@2:MAX_BREADTH" : "2147483647",
+        "@2:MAX_CANDIDATES" : "5",
+        "@2:MOVE_TYPE" : "5",
+        "@2:PATCHING_A" : "1",
+        "@2:PATCHING_C" : "0",
+        "@2:POPULATION_SIZE" : "50",
+        "@2:RESTRICTED_SEARCH" : "YES",
+        "@2:RUNS" : "10000",
+        "@2:SUBGRADIENT" : "YES",
+        "@2:SUBSEQUENT_MOVE_TYPE" : "0",
+        "@2:SUBSEQUENT_PATCHING" : "YES",
+        "@3:ASCENT_CANDIDATES" : "50",
+        "@3:BACKBONE_TRIALS" : "0",
+        "@3:BACKTRACKING" : "NO",
+        "@3:CANDIDATE_SET_TYPE" : "ALPHA",
+        "@3:EXTRA_CANDIDATES" : "0",
+        "@3:EXTRA_CANDIDATE_SET_TYPE" : "QUADRANT",
+        "@3:GAIN23" : "YES",
+        "@3:GAIN_CRITERION" : "YES",
+        "@3:INITIAL_STEP_SIZE" : "1",
+        "@3:INITIAL_TOUR_ALGORITHM" : "WALK",
+        "@3:INITIAL_TOUR_FRACTION" : "1.0",
+        "@3:KICKS" : "1",
+        "@3:KICK_TYPE" : "0",
+        "@3:LKH:prefix" : "-",
+        "@3:LKH:solver" : "/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH",
+        "@3:MAX_BREADTH" : "2147483647",
+        "@3:MAX_CANDIDATES" : "5",
+        "@3:MOVE_TYPE" : "5",
+        "@3:PATCHING_A" : "1",
+        "@3:PATCHING_C" : "0",
+        "@3:POPULATION_SIZE" : "50",
+        "@3:RESTRICTED_SEARCH" : "YES",
+        "@3:RUNS" : "10000",
+        "@3:SUBGRADIENT" : "YES",
+        "@3:SUBSEQUENT_MOVE_TYPE" : "0",
+        "@3:SUBSEQUENT_PATCHING" : "YES",
+        "@4:ASCENT_CANDIDATES" : "50",
+        "@4:BACKBONE_TRIALS" : "0",
+        "@4:BACKTRACKING" : "NO",
+        "@4:CANDIDATE_SET_TYPE" : "ALPHA",
+        "@4:EXTRA_CANDIDATES" : "0",
+        "@4:EXTRA_CANDIDATE_SET_TYPE" : "QUADRANT",
+        "@4:GAIN23" : "YES",
+        "@4:GAIN_CRITERION" : "YES",
+        "@4:INITIAL_STEP_SIZE" : "1",
+        "@4:INITIAL_TOUR_ALGORITHM" : "WALK",
+        "@4:INITIAL_TOUR_FRACTION" : "1.0",
+        "@4:KICKS" : "1",
+        "@4:KICK_TYPE" : "0",
+        "@4:LKH:prefix" : "-",
+        "@4:LKH:solver" : "/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH",
+        "@4:MAX_BREADTH" : "2147483647",
+        "@4:MAX_CANDIDATES" : "5",
+        "@4:MOVE_TYPE" : "5",
+        "@4:PATCHING_A" : "1",
+        "@4:PATCHING_C" : "0",
+        "@4:POPULATION_SIZE" : "50",
+        "@4:RESTRICTED_SEARCH" : "YES",
+        "@4:RUNS" : "10000",
+        "@4:SUBGRADIENT" : "YES",
+        "@4:SUBSEQUENT_MOVE_TYPE" : "0",
+        "@4:SUBSEQUENT_PATCHING" : "YES"
+      },
+      "pc-active-parameters" : [ "@1:ASCENT_CANDIDATES", "@1:BACKBONE_TRIALS", "@1:BACKTRACKING", "@1:CANDIDATE_SET_TYPE", "@1:EXTRA_CANDIDATES", "@1:EXTRA_CANDIDATE_SET_TYPE", "@1:GAIN23", "@1:GAIN_CRITERION", "@1:INITIAL_STEP_SIZE", "@1:INITIAL_TOUR_ALGORITHM", "@1:INITIAL_TOUR_FRACTION", "@1:KICKS", "@1:KICK_TYPE", "@1:LKH:prefix", "@1:LKH:solver", "@1:MAX_BREADTH", "@1:MAX_CANDIDATES", "@1:MOVE_TYPE", "@1:PATCHING_A", "@1:PATCHING_C", "@1:POPULATION_SIZE", "@1:RESTRICTED_SEARCH", "@1:RUNS", "@1:SUBGRADIENT", "@1:SUBSEQUENT_MOVE_TYPE", "@1:SUBSEQUENT_PATCHING", "@2:ASCENT_CANDIDATES", "@2:BACKBONE_TRIALS", "@2:BACKTRACKING", "@2:CANDIDATE_SET_TYPE", "@2:EXTRA_CANDIDATES", "@2:EXTRA_CANDIDATE_SET_TYPE", "@2:GAIN23", "@2:GAIN_CRITERION", "@2:INITIAL_STEP_SIZE", "@2:INITIAL_TOUR_ALGORITHM", "@2:INITIAL_TOUR_FRACTION", "@2:KICKS", "@2:KICK_TYPE", "@2:LKH:prefix", "@2:LKH:solver", "@2:MAX_BREADTH", "@2:MAX_CANDIDATES", "@2:MOVE_TYPE", "@2:PATCHING_A", "@2:PATCHING_C", "@2:POPULATION_SIZE", "@2:RESTRICTED_SEARCH", "@2:RUNS", "@2:SUBGRADIENT", "@2:SUBSEQUENT_MOVE_TYPE", "@2:SUBSEQUENT_PATCHING", "@3:ASCENT_CANDIDATES", "@3:BACKBONE_TRIALS", "@3:BACKTRACKING", "@3:CANDIDATE_SET_TYPE", "@3:EXTRA_CANDIDATES", "@3:EXTRA_CANDIDATE_SET_TYPE", "@3:GAIN23", "@3:GAIN_CRITERION", "@3:INITIAL_STEP_SIZE", "@3:INITIAL_TOUR_ALGORITHM", "@3:INITIAL_TOUR_FRACTION", "@3:KICKS", "@3:KICK_TYPE", "@3:LKH:prefix", "@3:LKH:solver", "@3:MAX_BREADTH", "@3:MAX_CANDIDATES", "@3:MOVE_TYPE", "@3:PATCHING_A", "@3:PATCHING_C", "@3:POPULATION_SIZE", "@3:RESTRICTED_SEARCH", "@3:RUNS", "@3:SUBGRADIENT", "@3:SUBSEQUENT_MOVE_TYPE", "@3:SUBSEQUENT_PATCHING", "@4:ASCENT_CANDIDATES", "@4:BACKBONE_TRIALS", "@4:BACKTRACKING", "@4:CANDIDATE_SET_TYPE", "@4:EXTRA_CANDIDATES", "@4:EXTRA_CANDIDATE_SET_TYPE", "@4:GAIN23", "@4:GAIN_CRITERION", "@4:INITIAL_STEP_SIZE", "@4:INITIAL_TOUR_ALGORITHM", "@4:INITIAL_TOUR_FRACTION", "@4:KICKS", "@4:KICK_TYPE", "@4:LKH:prefix", "@4:LKH:solver", "@4:MAX_BREADTH", "@4:MAX_CANDIDATES", "@4:MOVE_TYPE", "@4:PATCHING_A", "@4:PATCHING_C", "@4:POPULATION_SIZE", "@4:RESTRICTED_SEARCH", "@4:RUNS", "@4:SUBGRADIENT", "@4:SUBSEQUENT_MOVE_TYPE", "@4:SUBSEQUENT_PATCHING" ],
+      "pc-forbidden" : false,
+      "pc-default" : true
+    },
+    "rc-sample-idx" : 0
+  },
+  "r-run-result" : "SAT",
+  "r-runtime" : 1.0,
+  "r-run-length" : 0.0,
+  "r-quality" : 0.0,
+  "r-result-seed" : 12793054,
+  "r-addl-run-data" : "0",
+  "r-wallclock-time" : 1.487
+} {
+  "r-rc" : {
+    "@rc-id" : 3,
+    "rc-algo-exec-config" : {
+      "@algo-exec-config-id" : 2
+    },
+    "rc-cutoff" : 1.0,
+    "rc-pisp" : {
+      "@pisp-id" : 3,
+      "pisp-pi" : {
+        "@pi-id" : 38
+      },
+      "pisp-seed" : 9936394
+    },
+    "rc-pc" : {
+      "@pc-id" : 2
+    },
+    "rc-sample-idx" : 0
+  },
+  "r-run-result" : "SAT",
+  "r-runtime" : 0.411463022232,
+  "r-run-length" : 0.0,
+  "r-quality" : 0.0,
+  "r-result-seed" : 9936394,
+  "r-addl-run-data" : "0",
+  "r-wallclock-time" : 0.657
+} {
+  "r-rc" : {
+    "@rc-id" : 4,
+    "rc-algo-exec-config" : {
+      "@algo-exec-config-id" : 2
+    },
+    "rc-cutoff" : 1.0,
+    "rc-pisp" : {
+      "@pisp-id" : 2
+    },
+    "rc-pc" : {
+      "@pc-id" : 4,
+      "pc-pcs" : {
+        "@pcs-id" : 2
+      },
+      "pc-settings" : {
+        "@1:ASCENT_CANDIDATES" : "41",
+        "@1:BACKBONE_TRIALS" : "0",
+        "@1:BACKTRACKING" : "YES",
+        "@1:CANDIDATE_SET_TYPE" : "ALPHA",
+        "@1:EXTRA_CANDIDATES" : "4",
+        "@1:EXTRA_CANDIDATE_SET_TYPE" : "QUADRANT",
+        "@1:GAIN23" : "NO",
+        "@1:GAIN_CRITERION" : "NO",
+        "@1:INITIAL_STEP_SIZE" : "1",
+        "@1:INITIAL_TOUR_ALGORITHM" : "BORUVKA",
+        "@1:INITIAL_TOUR_FRACTION" : "0.18201575771306266",
+        "@1:KICKS" : "4",
+        "@1:KICK_TYPE" : "0",
+        "@1:LKH:prefix" : "-",
+        "@1:LKH:solver" : "/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH",
+        "@1:MAX_BREADTH" : "71396772",
+        "@1:MAX_CANDIDATES" : "4",
+        "@1:MOVE_TYPE" : "2",
+        "@1:PATCHING_A" : "3",
+        "@1:PATCHING_C" : "0",
+        "@1:POPULATION_SIZE" : "7",
+        "@1:RESTRICTED_SEARCH" : "YES",
+        "@1:RUNS" : "10000",
+        "@1:SUBGRADIENT" : "NO",
+        "@1:SUBSEQUENT_MOVE_TYPE" : "3",
+        "@1:SUBSEQUENT_PATCHING" : "NO",
+        "@2:ASCENT_CANDIDATES" : "50",
+        "@2:BACKBONE_TRIALS" : "1",
+        "@2:BACKTRACKING" : "NO",
+        "@2:CANDIDATE_SET_TYPE" : "DELAUNAY",
+        "@2:EXTRA_CANDIDATES" : "8",
+        "@2:EXTRA_CANDIDATE_SET_TYPE" : "QUADRANT",
+        "@2:GAIN23" : "NO",
+        "@2:GAIN_CRITERION" : "NO",
+        "@2:INITIAL_STEP_SIZE" : "5",
+        "@2:INITIAL_TOUR_ALGORITHM" : "QUICK-BORUVKA",
+        "@2:INITIAL_TOUR_FRACTION" : "0.7888874184781316",
+        "@2:KICKS" : "1",
+        "@2:KICK_TYPE" : "0",
+        "@2:LKH:prefix" : "-",
+        "@2:LKH:solver" : "/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH",
+        "@2:MAX_BREADTH" : "1683924201",
+        "@2:MAX_CANDIDATES" : "3",
+        "@2:MOVE_TYPE" : "5",
+        "@2:PATCHING_A" : "1",
+        "@2:PATCHING_C" : "4",
+        "@2:POPULATION_SIZE" : "58",
+        "@2:RESTRICTED_SEARCH" : "YES",
+        "@2:RUNS" : "10000",
+        "@2:SUBGRADIENT" : "NO",
+        "@2:SUBSEQUENT_MOVE_TYPE" : "5",
+        "@2:SUBSEQUENT_PATCHING" : "YES",
+        "@3:ASCENT_CANDIDATES" : "58",
+        "@3:BACKBONE_TRIALS" : "0",
+        "@3:BACKTRACKING" : "NO",
+        "@3:CANDIDATE_SET_TYPE" : "DELAUNAY",
+        "@3:EXTRA_CANDIDATES" : "6",
+        "@3:EXTRA_CANDIDATE_SET_TYPE" : "QUADRANT",
+        "@3:GAIN23" : "NO",
+        "@3:GAIN_CRITERION" : "NO",
+        "@3:INITIAL_STEP_SIZE" : "2",
+        "@3:INITIAL_TOUR_ALGORITHM" : "NEAREST-NEIGHBOR",
+        "@3:INITIAL_TOUR_FRACTION" : "0.7798903066195996",
+        "@3:KICKS" : "2",
+        "@3:KICK_TYPE" : "5",
+        "@3:LKH:prefix" : "-",
+        "@3:LKH:solver" : "/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH",
+        "@3:MAX_BREADTH" : "161537783",
+        "@3:MAX_CANDIDATES" : "4",
+        "@3:MOVE_TYPE" : "6",
+        "@3:PATCHING_A" : "2",
+        "@3:PATCHING_C" : "4",
+        "@3:POPULATION_SIZE" : "100",
+        "@3:RESTRICTED_SEARCH" : "NO",
+        "@3:RUNS" : "10000",
+        "@3:SUBGRADIENT" : "YES",
+        "@3:SUBSEQUENT_MOVE_TYPE" : "2",
+        "@3:SUBSEQUENT_PATCHING" : "NO",
+        "@4:ASCENT_CANDIDATES" : "42",
+        "@4:BACKBONE_TRIALS" : "0",
+        "@4:BACKTRACKING" : "YES",
+        "@4:CANDIDATE_SET_TYPE" : "NEAREST-NEIGHBOR",
+        "@4:EXTRA_CANDIDATES" : "1",
+        "@4:EXTRA_CANDIDATE_SET_TYPE" : "QUADRANT",
+        "@4:GAIN23" : "NO",
+        "@4:GAIN_CRITERION" : "YES",
+        "@4:INITIAL_STEP_SIZE" : "4",
+        "@4:INITIAL_TOUR_ALGORITHM" : "NEAREST-NEIGHBOR",
+        "@4:INITIAL_TOUR_FRACTION" : "0.704176707679751",
+        "@4:KICKS" : "0",
+        "@4:KICK_TYPE" : "0",
+        "@4:LKH:prefix" : "-",
+        "@4:LKH:solver" : "/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH",
+        "@4:MAX_BREADTH" : "844021728",
+        "@4:MAX_CANDIDATES" : "2",
+        "@4:MOVE_TYPE" : "2",
+        "@4:PATCHING_A" : "0",
+        "@4:PATCHING_C" : "3",
+        "@4:POPULATION_SIZE" : "15",
+        "@4:RESTRICTED_SEARCH" : "NO",
+        "@4:RUNS" : "10000",
+        "@4:SUBGRADIENT" : "YES",
+        "@4:SUBSEQUENT_MOVE_TYPE" : "0",
+        "@4:SUBSEQUENT_PATCHING" : "NO"
+      },
+      "pc-active-parameters" : [ "@1:ASCENT_CANDIDATES", "@1:BACKBONE_TRIALS", "@1:BACKTRACKING", "@1:CANDIDATE_SET_TYPE", "@1:EXTRA_CANDIDATES", "@1:GAIN23", "@1:GAIN_CRITERION", "@1:INITIAL_STEP_SIZE", "@1:INITIAL_TOUR_ALGORITHM", "@1:INITIAL_TOUR_FRACTION", "@1:KICKS", "@1:KICK_TYPE", "@1:LKH:prefix", "@1:LKH:solver", "@1:MAX_BREADTH", "@1:MAX_CANDIDATES", "@1:MOVE_TYPE", "@1:PATCHING_A", "@1:PATCHING_C", "@1:POPULATION_SIZE", "@1:RESTRICTED_SEARCH", "@1:RUNS", "@1:SUBGRADIENT", "@1:SUBSEQUENT_MOVE_TYPE", "@1:SUBSEQUENT_PATCHING", "@2:ASCENT_CANDIDATES", "@2:BACKBONE_TRIALS", "@2:BACKTRACKING", "@2:CANDIDATE_SET_TYPE", "@2:EXTRA_CANDIDATES", "@2:GAIN23", "@2:GAIN_CRITERION", "@2:INITIAL_STEP_SIZE", "@2:INITIAL_TOUR_ALGORITHM", "@2:INITIAL_TOUR_FRACTION", "@2:KICKS", "@2:KICK_TYPE", "@2:LKH:prefix", "@2:LKH:solver", "@2:MAX_BREADTH", "@2:MAX_CANDIDATES", "@2:MOVE_TYPE", "@2:PATCHING_A", "@2:PATCHING_C", "@2:POPULATION_SIZE", "@2:RESTRICTED_SEARCH", "@2:RUNS", "@2:SUBGRADIENT", "@2:SUBSEQUENT_MOVE_TYPE", "@2:SUBSEQUENT_PATCHING", "@3:ASCENT_CANDIDATES", "@3:BACKBONE_TRIALS", "@3:BACKTRACKING", "@3:CANDIDATE_SET_TYPE", "@3:EXTRA_CANDIDATES", "@3:GAIN23", "@3:GAIN_CRITERION", "@3:INITIAL_STEP_SIZE", "@3:INITIAL_TOUR_ALGORITHM", "@3:INITIAL_TOUR_FRACTION", "@3:KICKS", "@3:KICK_TYPE", "@3:LKH:prefix", "@3:LKH:solver", "@3:MAX_BREADTH", "@3:MAX_CANDIDATES", "@3:MOVE_TYPE", "@3:PATCHING_A", "@3:PATCHING_C", "@3:POPULATION_SIZE", "@3:RESTRICTED_SEARCH", "@3:RUNS", "@3:SUBGRADIENT", "@3:SUBSEQUENT_MOVE_TYPE", "@3:SUBSEQUENT_PATCHING", "@4:ASCENT_CANDIDATES", "@4:BACKBONE_TRIALS", "@4:BACKTRACKING", "@4:CANDIDATE_SET_TYPE", "@4:EXTRA_CANDIDATES", "@4:GAIN23", "@4:GAIN_CRITERION", "@4:INITIAL_STEP_SIZE", "@4:INITIAL_TOUR_ALGORITHM", "@4:INITIAL_TOUR_FRACTION", "@4:KICKS", "@4:KICK_TYPE", "@4:LKH:prefix", "@4:LKH:solver", "@4:MAX_BREADTH", "@4:MAX_CANDIDATES", "@4:MOVE_TYPE", "@4:PATCHING_A", "@4:PATCHING_C", "@4:POPULATION_SIZE", "@4:RESTRICTED_SEARCH", "@4:RUNS", "@4:SUBGRADIENT", "@4:SUBSEQUENT_MOVE_TYPE", "@4:SUBSEQUENT_PATCHING" ],
+      "pc-forbidden" : false,
+      "pc-default" : false
+    },
+    "rc-sample-idx" : 0
+  },
+  "r-run-result" : "TIMEOUT",
+  "r-runtime" : 1.0,
+  "r-run-length" : 0.0,
+  "r-quality" : 0.0,
+  "r-result-seed" : 12793054,
+  "r-addl-run-data" : "0",
+  "r-wallclock-time" : 1.658
+} {
+  "r-rc" : {
+    "@rc-id" : 5,
+    "rc-algo-exec-config" : {
+      "@algo-exec-config-id" : 2
+    },
+    "rc-cutoff" : 1.0,
+    "rc-pisp" : {
+      "@pisp-id" : 3
+    },
+    "rc-pc" : {
+      "@pc-id" : 4
+    },
+    "rc-sample-idx" : 0
+  },
+  "r-run-result" : "SAT",
+  "r-runtime" : 1.0,
+  "r-run-length" : 0.0,
+  "r-quality" : 0.0,
+  "r-result-seed" : 9936394,
+  "r-addl-run-data" : "0",
+  "r-wallclock-time" : 1.633
+} {
+  "r-rc" : {
+    "@rc-id" : 6,
+    "rc-algo-exec-config" : {
+      "@algo-exec-config-id" : 2
+    },
+    "rc-cutoff" : 1.0,
+    "rc-pisp" : {
+      "@pisp-id" : 6,
+      "pisp-pi" : {
+        "@pi-id" : 27
+      },
+      "pisp-seed" : 3962560
+    },
+    "rc-pc" : {
+      "@pc-id" : 2
+    },
+    "rc-sample-idx" : 0
+  },
+  "r-run-result" : "TIMEOUT",
+  "r-runtime" : 1.0,
+  "r-run-length" : 0.0,
+  "r-quality" : 0.0,
+  "r-result-seed" : 3962560,
+  "r-addl-run-data" : "0",
+  "r-wallclock-time" : 1.736
+} {
+  "r-rc" : {
+    "@rc-id" : 7,
+    "rc-algo-exec-config" : {
+      "@algo-exec-config-id" : 2
+    },
+    "rc-cutoff" : 1.0,
+    "rc-pisp" : {
+      "@pisp-id" : 2
+    },
+    "rc-pc" : {
+      "@pc-id" : 7,
+      "pc-pcs" : {
+        "@pcs-id" : 2
+      },
+      "pc-settings" : {
+        "@1:ASCENT_CANDIDATES" : "54",
+        "@1:BACKBONE_TRIALS" : "0",
+        "@1:BACKTRACKING" : "YES",
+        "@1:CANDIDATE_SET_TYPE" : "QUADRANT",
+        "@1:EXTRA_CANDIDATES" : "2",
+        "@1:EXTRA_CANDIDATE_SET_TYPE" : "QUADRANT",
+        "@1:GAIN23" : "YES",
+        "@1:GAIN_CRITERION" : "NO",
+        "@1:INITIAL_STEP_SIZE" : "4",
+        "@1:INITIAL_TOUR_ALGORITHM" : "WALK",
+        "@1:INITIAL_TOUR_FRACTION" : "0.5567919091488154",
+        "@1:KICKS" : "0",
+        "@1:KICK_TYPE" : "5",
+        "@1:LKH:prefix" : "-",
+        "@1:LKH:solver" : "/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH",
+        "@1:MAX_BREADTH" : "479520204",
+        "@1:MAX_CANDIDATES" : "9",
+        "@1:MOVE_TYPE" : "6",
+        "@1:PATCHING_A" : "1",
+        "@1:PATCHING_C" : "2",
+        "@1:POPULATION_SIZE" : "95",
+        "@1:RESTRICTED_SEARCH" : "NO",
+        "@1:RUNS" : "10000",
+        "@1:SUBGRADIENT" : "YES",
+        "@1:SUBSEQUENT_MOVE_TYPE" : "0",
+        "@1:SUBSEQUENT_PATCHING" : "NO",
+        "@2:ASCENT_CANDIDATES" : "45",
+        "@2:BACKBONE_TRIALS" : "1",
+        "@2:BACKTRACKING" : "YES",
+        "@2:CANDIDATE_SET_TYPE" : "NEAREST-NEIGHBOR",
+        "@2:EXTRA_CANDIDATES" : "5",
+        "@2:EXTRA_CANDIDATE_SET_TYPE" : "QUADRANT",
+        "@2:GAIN23" : "NO",
+        "@2:GAIN_CRITERION" : "YES",
+        "@2:INITIAL_STEP_SIZE" : "1",
+        "@2:INITIAL_TOUR_ALGORITHM" : "QUICK-BORUVKA",
+        "@2:INITIAL_TOUR_FRACTION" : "0.706178433251635",
+        "@2:KICKS" : "2",
+        "@2:KICK_TYPE" : "5",
+        "@2:LKH:prefix" : "-",
+        "@2:LKH:solver" : "/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH",
+        "@2:MAX_BREADTH" : "1449819498",
+        "@2:MAX_CANDIDATES" : "5",
+        "@2:MOVE_TYPE" : "2",
+        "@2:PATCHING_A" : "2",
+        "@2:PATCHING_C" : "2",
+        "@2:POPULATION_SIZE" : "83",
+        "@2:RESTRICTED_SEARCH" : "YES",
+        "@2:RUNS" : "10000",
+        "@2:SUBGRADIENT" : "YES",
+        "@2:SUBSEQUENT_MOVE_TYPE" : "5",
+        "@2:SUBSEQUENT_PATCHING" : "NO",
+        "@3:ASCENT_CANDIDATES" : "46",
+        "@3:BACKBONE_TRIALS" : "0",
+        "@3:BACKTRACKING" : "YES",
+        "@3:CANDIDATE_SET_TYPE" : "QUADRANT",
+        "@3:EXTRA_CANDIDATES" : "7",
+        "@3:EXTRA_CANDIDATE_SET_TYPE" : "NEAREST-NEIGHBOR",
+        "@3:GAIN23" : "NO",
+        "@3:GAIN_CRITERION" : "NO",
+        "@3:INITIAL_STEP_SIZE" : "4",
+        "@3:INITIAL_TOUR_ALGORITHM" : "GREEDY",
+        "@3:INITIAL_TOUR_FRACTION" : "0.7428487254248263",
+        "@3:KICKS" : "1",
+        "@3:KICK_TYPE" : "4",
+        "@3:LKH:prefix" : "-",
+        "@3:LKH:solver" : "/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH",
+        "@3:MAX_BREADTH" : "401038550",
+        "@3:MAX_CANDIDATES" : "3",
+        "@3:MOVE_TYPE" : "3",
+        "@3:PATCHING_A" : "4",
+        "@3:PATCHING_C" : "4",
+        "@3:POPULATION_SIZE" : "93",
+        "@3:RESTRICTED_SEARCH" : "NO",
+        "@3:RUNS" : "10000",
+        "@3:SUBGRADIENT" : "NO",
+        "@3:SUBSEQUENT_MOVE_TYPE" : "4",
+        "@3:SUBSEQUENT_PATCHING" : "YES",
+        "@4:ASCENT_CANDIDATES" : "59",
+        "@4:BACKBONE_TRIALS" : "0",
+        "@4:BACKTRACKING" : "NO",
+        "@4:CANDIDATE_SET_TYPE" : "NEAREST-NEIGHBOR",
+        "@4:EXTRA_CANDIDATES" : "1",
+        "@4:EXTRA_CANDIDATE_SET_TYPE" : "QUADRANT",
+        "@4:GAIN23" : "YES",
+        "@4:GAIN_CRITERION" : "YES",
+        "@4:INITIAL_STEP_SIZE" : "2",
+        "@4:INITIAL_TOUR_ALGORITHM" : "SIERPINSKI",
+        "@4:INITIAL_TOUR_FRACTION" : "0.9195582242701079",
+        "@4:KICKS" : "4",
+        "@4:KICK_TYPE" : "5",
+        "@4:LKH:prefix" : "-",
+        "@4:LKH:solver" : "/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH",
+        "@4:MAX_BREADTH" : "512199217",
+        "@4:MAX_CANDIDATES" : "5",
+        "@4:MOVE_TYPE" : "6",
+        "@4:PATCHING_A" : "0",
+        "@4:PATCHING_C" : "5",
+        "@4:POPULATION_SIZE" : "36",
+        "@4:RESTRICTED_SEARCH" : "NO",
+        "@4:RUNS" : "10000",
+        "@4:SUBGRADIENT" : "NO",
+        "@4:SUBSEQUENT_MOVE_TYPE" : "6",
+        "@4:SUBSEQUENT_PATCHING" : "YES"
+      },
+      "pc-active-parameters" : [ "@1:ASCENT_CANDIDATES", "@1:BACKBONE_TRIALS", "@1:BACKTRACKING", "@1:CANDIDATE_SET_TYPE", "@1:EXTRA_CANDIDATES", "@1:GAIN23", "@1:GAIN_CRITERION", "@1:INITIAL_STEP_SIZE", "@1:INITIAL_TOUR_ALGORITHM", "@1:INITIAL_TOUR_FRACTION", "@1:KICKS", "@1:KICK_TYPE", "@1:LKH:prefix", "@1:LKH:solver", "@1:MAX_BREADTH", "@1:MAX_CANDIDATES", "@1:MOVE_TYPE", "@1:PATCHING_A", "@1:PATCHING_C", "@1:POPULATION_SIZE", "@1:RESTRICTED_SEARCH", "@1:RUNS", "@1:SUBGRADIENT", "@1:SUBSEQUENT_MOVE_TYPE", "@1:SUBSEQUENT_PATCHING", "@2:ASCENT_CANDIDATES", "@2:BACKBONE_TRIALS", "@2:BACKTRACKING", "@2:CANDIDATE_SET_TYPE", "@2:EXTRA_CANDIDATES", "@2:GAIN23", "@2:GAIN_CRITERION", "@2:INITIAL_STEP_SIZE", "@2:INITIAL_TOUR_ALGORITHM", "@2:INITIAL_TOUR_FRACTION", "@2:KICKS", "@2:KICK_TYPE", "@2:LKH:prefix", "@2:LKH:solver", "@2:MAX_BREADTH", "@2:MAX_CANDIDATES", "@2:MOVE_TYPE", "@2:PATCHING_A", "@2:PATCHING_C", "@2:POPULATION_SIZE", "@2:RESTRICTED_SEARCH", "@2:RUNS", "@2:SUBGRADIENT", "@2:SUBSEQUENT_MOVE_TYPE", "@2:SUBSEQUENT_PATCHING", "@3:ASCENT_CANDIDATES", "@3:BACKBONE_TRIALS", "@3:BACKTRACKING", "@3:CANDIDATE_SET_TYPE", "@3:EXTRA_CANDIDATES", "@3:GAIN23", "@3:GAIN_CRITERION", "@3:INITIAL_STEP_SIZE", "@3:INITIAL_TOUR_ALGORITHM", "@3:INITIAL_TOUR_FRACTION", "@3:KICKS", "@3:KICK_TYPE", "@3:LKH:prefix", "@3:LKH:solver", "@3:MAX_BREADTH", "@3:MAX_CANDIDATES", "@3:MOVE_TYPE", "@3:PATCHING_A", "@3:PATCHING_C", "@3:POPULATION_SIZE", "@3:RESTRICTED_SEARCH", "@3:RUNS", "@3:SUBGRADIENT", "@3:SUBSEQUENT_MOVE_TYPE", "@3:SUBSEQUENT_PATCHING", "@4:ASCENT_CANDIDATES", "@4:BACKBONE_TRIALS", "@4:BACKTRACKING", "@4:CANDIDATE_SET_TYPE", "@4:EXTRA_CANDIDATES", "@4:GAIN23", "@4:GAIN_CRITERION", "@4:INITIAL_STEP_SIZE", "@4:INITIAL_TOUR_ALGORITHM", "@4:INITIAL_TOUR_FRACTION", "@4:KICKS", "@4:KICK_TYPE", "@4:LKH:prefix", "@4:LKH:solver", "@4:MAX_BREADTH", "@4:MAX_CANDIDATES", "@4:MOVE_TYPE", "@4:PATCHING_A", "@4:PATCHING_C", "@4:POPULATION_SIZE", "@4:RESTRICTED_SEARCH", "@4:RUNS", "@4:SUBGRADIENT", "@4:SUBSEQUENT_MOVE_TYPE", "@4:SUBSEQUENT_PATCHING" ],
+      "pc-forbidden" : false,
+      "pc-default" : false
+    },
+    "rc-sample-idx" : 0
+  },
+  "r-run-result" : "TIMEOUT",
+  "r-runtime" : 1.0,
+  "r-run-length" : 0.0,
+  "r-quality" : 0.0,
+  "r-result-seed" : 12793054,
+  "r-addl-run-data" : "0",
+  "r-wallclock-time" : 1.738
+} {
+  "r-rc" : {
+    "@rc-id" : 8,
+    "rc-algo-exec-config" : {
+      "@algo-exec-config-id" : 2
+    },
+    "rc-cutoff" : 1.0,
+    "rc-pisp" : {
+      "@pisp-id" : 6
+    },
+    "rc-pc" : {
+      "@pc-id" : 7
+    },
+    "rc-sample-idx" : 0
+  },
+  "r-run-result" : "TIMEOUT",
+  "r-runtime" : 1.0,
+  "r-run-length" : 0.0,
+  "r-quality" : 0.0,
+  "r-result-seed" : 3962560,
+  "r-addl-run-data" : "0",
+  "r-wallclock-time" : 1.708
+} {
+  "r-rc" : {
+    "@rc-id" : 9,
+    "rc-algo-exec-config" : {
+      "@algo-exec-config-id" : 2
+    },
+    "rc-cutoff" : 1.0,
+    "rc-pisp" : {
+      "@pisp-id" : 3
+    },
+    "rc-pc" : {
+      "@pc-id" : 7
+    },
+    "rc-sample-idx" : 0
+  },
+  "r-run-result" : "SAT",
+  "r-runtime" : 1.0,
+  "r-run-length" : 0.0,
+  "r-quality" : 0.0,
+  "r-result-seed" : 9936394,
+  "r-addl-run-data" : "0",
+  "r-wallclock-time" : 1.611
+} {
+  "r-rc" : {
+    "@rc-id" : 10,
+    "rc-algo-exec-config" : {
+      "@algo-exec-config-id" : 2
+    },
+    "rc-cutoff" : 1.0,
+    "rc-pisp" : {
+      "@pisp-id" : 10,
+      "pisp-pi" : {
+        "@pi-id" : 48
+      },
+      "pisp-seed" : 15488441
+    },
+    "rc-pc" : {
+      "@pc-id" : 2
+    },
+    "rc-sample-idx" : 0
+  },
+  "r-run-result" : "SAT",
+  "r-runtime" : 1.0,
+  "r-run-length" : 0.0,
+  "r-quality" : 0.0,
+  "r-result-seed" : 15488441,
+  "r-addl-run-data" : "0",
+  "r-wallclock-time" : 1.637
+} {
+  "r-rc" : {
+    "@rc-id" : 11,
+    "rc-algo-exec-config" : {
+      "@algo-exec-config-id" : 2
+    },
+    "rc-cutoff" : 1.0,
+    "rc-pisp" : {
+      "@pisp-id" : 6
+    },
+    "rc-pc" : {
+      "@pc-id" : 11,
+      "pc-pcs" : {
+        "@pcs-id" : 2
+      },
+      "pc-settings" : {
+        "@1:ASCENT_CANDIDATES" : "48",
+        "@1:BACKBONE_TRIALS" : "0",
+        "@1:BACKTRACKING" : "NO",
+        "@1:CANDIDATE_SET_TYPE" : "QUADRANT",
+        "@1:EXTRA_CANDIDATES" : "1",
+        "@1:EXTRA_CANDIDATE_SET_TYPE" : "NEAREST-NEIGHBOR",
+        "@1:GAIN23" : "NO",
+        "@1:GAIN_CRITERION" : "NO",
+        "@1:INITIAL_STEP_SIZE" : "3",
+        "@1:INITIAL_TOUR_ALGORITHM" : "NEAREST-NEIGHBOR",
+        "@1:INITIAL_TOUR_FRACTION" : "0.6864986022090074",
+        "@1:KICKS" : "5",
+        "@1:KICK_TYPE" : "0",
+        "@1:LKH:prefix" : "-",
+        "@1:LKH:solver" : "/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH",
+        "@1:MAX_BREADTH" : "624359000",
+        "@1:MAX_CANDIDATES" : "4",
+        "@1:MOVE_TYPE" : "5",
+        "@1:PATCHING_A" : "5",
+        "@1:PATCHING_C" : "5",
+        "@1:POPULATION_SIZE" : "54",
+        "@1:RESTRICTED_SEARCH" : "YES",
+        "@1:RUNS" : "10000",
+        "@1:SUBGRADIENT" : "NO",
+        "@1:SUBSEQUENT_MOVE_TYPE" : "2",
+        "@1:SUBSEQUENT_PATCHING" : "YES",
+        "@2:ASCENT_CANDIDATES" : "55",
+        "@2:BACKBONE_TRIALS" : "1",
+        "@2:BACKTRACKING" : "YES",
+        "@2:CANDIDATE_SET_TYPE" : "NEAREST-NEIGHBOR",
+        "@2:EXTRA_CANDIDATES" : "2",
+        "@2:EXTRA_CANDIDATE_SET_TYPE" : "QUADRANT",
+        "@2:GAIN23" : "NO",
+        "@2:GAIN_CRITERION" : "NO",
+        "@2:INITIAL_STEP_SIZE" : "5",
+        "@2:INITIAL_TOUR_ALGORITHM" : "BORUVKA",
+        "@2:INITIAL_TOUR_FRACTION" : "0.7573907786795618",
+        "@2:KICKS" : "2",
+        "@2:KICK_TYPE" : "4",
+        "@2:LKH:prefix" : "-",
+        "@2:LKH:solver" : "/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH",
+        "@2:MAX_BREADTH" : "1913741557",
+        "@2:MAX_CANDIDATES" : "1",
+        "@2:MOVE_TYPE" : "2",
+        "@2:PATCHING_A" : "0",
+        "@2:PATCHING_C" : "5",
+        "@2:POPULATION_SIZE" : "68",
+        "@2:RESTRICTED_SEARCH" : "YES",
+        "@2:RUNS" : "10000",
+        "@2:SUBGRADIENT" : "NO",
+        "@2:SUBSEQUENT_MOVE_TYPE" : "6",
+        "@2:SUBSEQUENT_PATCHING" : "YES",
+        "@3:ASCENT_CANDIDATES" : "46",
+        "@3:BACKBONE_TRIALS" : "1",
+        "@3:BACKTRACKING" : "YES",
+        "@3:CANDIDATE_SET_TYPE" : "NEAREST-NEIGHBOR",
+        "@3:EXTRA_CANDIDATES" : "2",
+        "@3:EXTRA_CANDIDATE_SET_TYPE" : "QUADRANT",
+        "@3:GAIN23" : "YES",
+        "@3:GAIN_CRITERION" : "YES",
+        "@3:INITIAL_STEP_SIZE" : "1",
+        "@3:INITIAL_TOUR_ALGORITHM" : "GREEDY",
+        "@3:INITIAL_TOUR_FRACTION" : "0.24202833461721318",
+        "@3:KICKS" : "0",
+        "@3:KICK_TYPE" : "0",
+        "@3:LKH:prefix" : "-",
+        "@3:LKH:solver" : "/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH",
+        "@3:MAX_BREADTH" : "1338735916",
+        "@3:MAX_CANDIDATES" : "6",
+        "@3:MOVE_TYPE" : "5",
+        "@3:PATCHING_A" : "2",
+        "@3:PATCHING_C" : "0",
+        "@3:POPULATION_SIZE" : "66",
+        "@3:RESTRICTED_SEARCH" : "NO",
+        "@3:RUNS" : "10000",
+        "@3:SUBGRADIENT" : "YES",
+        "@3:SUBSEQUENT_MOVE_TYPE" : "4",
+        "@3:SUBSEQUENT_PATCHING" : "YES",
+        "@4:ASCENT_CANDIDATES" : "58",
+        "@4:BACKBONE_TRIALS" : "0",
+        "@4:BACKTRACKING" : "YES",
+        "@4:CANDIDATE_SET_TYPE" : "NEAREST-NEIGHBOR",
+        "@4:EXTRA_CANDIDATES" : "4",
+        "@4:EXTRA_CANDIDATE_SET_TYPE" : "QUADRANT",
+        "@4:GAIN23" : "YES",
+        "@4:GAIN_CRITERION" : "YES",
+        "@4:INITIAL_STEP_SIZE" : "1",
+        "@4:INITIAL_TOUR_ALGORITHM" : "NEAREST-NEIGHBOR",
+        "@4:INITIAL_TOUR_FRACTION" : "0.9657563204940995",
+        "@4:KICKS" : "5",
+        "@4:KICK_TYPE" : "4",
+        "@4:LKH:prefix" : "-",
+        "@4:LKH:solver" : "/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH",
+        "@4:MAX_BREADTH" : "1915595187",
+        "@4:MAX_CANDIDATES" : "6",
+        "@4:MOVE_TYPE" : "3",
+        "@4:PATCHING_A" : "2",
+        "@4:PATCHING_C" : "0",
+        "@4:POPULATION_SIZE" : "28",
+        "@4:RESTRICTED_SEARCH" : "NO",
+        "@4:RUNS" : "10000",
+        "@4:SUBGRADIENT" : "NO",
+        "@4:SUBSEQUENT_MOVE_TYPE" : "4",
+        "@4:SUBSEQUENT_PATCHING" : "YES"
+      },
+      "pc-active-parameters" : [ "@1:ASCENT_CANDIDATES", "@1:BACKBONE_TRIALS", "@1:BACKTRACKING", "@1:CANDIDATE_SET_TYPE", "@1:EXTRA_CANDIDATES", "@1:GAIN23", "@1:GAIN_CRITERION", "@1:INITIAL_STEP_SIZE", "@1:INITIAL_TOUR_ALGORITHM", "@1:INITIAL_TOUR_FRACTION", "@1:KICKS", "@1:KICK_TYPE", "@1:LKH:prefix", "@1:LKH:solver", "@1:MAX_BREADTH", "@1:MAX_CANDIDATES", "@1:MOVE_TYPE", "@1:PATCHING_A", "@1:PATCHING_C", "@1:POPULATION_SIZE", "@1:RESTRICTED_SEARCH", "@1:RUNS", "@1:SUBGRADIENT", "@1:SUBSEQUENT_MOVE_TYPE", "@1:SUBSEQUENT_PATCHING", "@2:ASCENT_CANDIDATES", "@2:BACKBONE_TRIALS", "@2:BACKTRACKING", "@2:CANDIDATE_SET_TYPE", "@2:EXTRA_CANDIDATES", "@2:GAIN23", "@2:GAIN_CRITERION", "@2:INITIAL_STEP_SIZE", "@2:INITIAL_TOUR_ALGORITHM", "@2:INITIAL_TOUR_FRACTION", "@2:KICKS", "@2:KICK_TYPE", "@2:LKH:prefix", "@2:LKH:solver", "@2:MAX_BREADTH", "@2:MAX_CANDIDATES", "@2:MOVE_TYPE", "@2:PATCHING_A", "@2:PATCHING_C", "@2:POPULATION_SIZE", "@2:RESTRICTED_SEARCH", "@2:RUNS", "@2:SUBGRADIENT", "@2:SUBSEQUENT_MOVE_TYPE", "@2:SUBSEQUENT_PATCHING", "@3:ASCENT_CANDIDATES", "@3:BACKBONE_TRIALS", "@3:BACKTRACKING", "@3:CANDIDATE_SET_TYPE", "@3:EXTRA_CANDIDATES", "@3:GAIN23", "@3:GAIN_CRITERION", "@3:INITIAL_STEP_SIZE", "@3:INITIAL_TOUR_ALGORITHM", "@3:INITIAL_TOUR_FRACTION", "@3:KICKS", "@3:KICK_TYPE", "@3:LKH:prefix", "@3:LKH:solver", "@3:MAX_BREADTH", "@3:MAX_CANDIDATES", "@3:MOVE_TYPE", "@3:PATCHING_A", "@3:PATCHING_C", "@3:POPULATION_SIZE", "@3:RESTRICTED_SEARCH", "@3:RUNS", "@3:SUBGRADIENT", "@3:SUBSEQUENT_MOVE_TYPE", "@3:SUBSEQUENT_PATCHING", "@4:ASCENT_CANDIDATES", "@4:BACKBONE_TRIALS", "@4:BACKTRACKING", "@4:CANDIDATE_SET_TYPE", "@4:EXTRA_CANDIDATES", "@4:GAIN23", "@4:GAIN_CRITERION", "@4:INITIAL_STEP_SIZE", "@4:INITIAL_TOUR_ALGORITHM", "@4:INITIAL_TOUR_FRACTION", "@4:KICKS", "@4:KICK_TYPE", "@4:LKH:prefix", "@4:LKH:solver", "@4:MAX_BREADTH", "@4:MAX_CANDIDATES", "@4:MOVE_TYPE", "@4:PATCHING_A", "@4:PATCHING_C", "@4:POPULATION_SIZE", "@4:RESTRICTED_SEARCH", "@4:RUNS", "@4:SUBGRADIENT", "@4:SUBSEQUENT_MOVE_TYPE", "@4:SUBSEQUENT_PATCHING" ],
+      "pc-forbidden" : false,
+      "pc-default" : false
+    },
+    "rc-sample-idx" : 0
+  },
+  "r-run-result" : "TIMEOUT",
+  "r-runtime" : 1.0,
+  "r-run-length" : 0.0,
+  "r-quality" : 0.0,
+  "r-result-seed" : 3962560,
+  "r-addl-run-data" : "0",
+  "r-wallclock-time" : 1.732
+} {
+  "r-rc" : {
+    "@rc-id" : 12,
+    "rc-algo-exec-config" : {
+      "@algo-exec-config-id" : 2
+    },
+    "rc-cutoff" : 1.0,
+    "rc-pisp" : {
+      "@pisp-id" : 2
+    },
+    "rc-pc" : {
+      "@pc-id" : 11
+    },
+    "rc-sample-idx" : 0
+  },
+  "r-run-result" : "TIMEOUT",
+  "r-runtime" : 1.0,
+  "r-run-length" : 0.0,
+  "r-quality" : 0.0,
+  "r-result-seed" : 12793054,
+  "r-addl-run-data" : "0",
+  "r-wallclock-time" : 1.71
+} {
+  "r-rc" : {
+    "@rc-id" : 13,
+    "rc-algo-exec-config" : {
+      "@algo-exec-config-id" : 2
+    },
+    "rc-cutoff" : 1.0,
+    "rc-pisp" : {
+      "@pisp-id" : 3
+    },
+    "rc-pc" : {
+      "@pc-id" : 11
+    },
+    "rc-sample-idx" : 0
+  },
+  "r-run-result" : "TIMEOUT",
+  "r-runtime" : 1.0,
+  "r-run-length" : 0.0,
+  "r-quality" : 0.0,
+  "r-result-seed" : 9936394,
+  "r-addl-run-data" : "0",
+  "r-wallclock-time" : 1.734
+} {
+  "r-rc" : {
+    "@rc-id" : 14,
+    "rc-algo-exec-config" : {
+      "@algo-exec-config-id" : 2
+    },
+    "rc-cutoff" : 1.0,
+    "rc-pisp" : {
+      "@pisp-id" : 14,
+      "pisp-pi" : {
+        "@pi-id" : 21
+      },
+      "pisp-seed" : 16725982
+    },
+    "rc-pc" : {
+      "@pc-id" : 2
+    },
+    "rc-sample-idx" : 0
+  },
+  "r-run-result" : "TIMEOUT",
+  "r-runtime" : 1.0,
+  "r-run-length" : 0.0,
+  "r-quality" : 0.0,
+  "r-result-seed" : 16725982,
+  "r-addl-run-data" : "0",
+  "r-wallclock-time" : 1.733
+} {
+  "r-rc" : {
+    "@rc-id" : 15,
+    "rc-algo-exec-config" : {
+      "@algo-exec-config-id" : 2
+    },
+    "rc-cutoff" : 1.0,
+    "rc-pisp" : {
+      "@pisp-id" : 2
+    },
+    "rc-pc" : {
+      "@pc-id" : 15,
+      "pc-pcs" : {
+        "@pcs-id" : 2
+      },
+      "pc-settings" : {
+        "@1:ASCENT_CANDIDATES" : "51",
+        "@1:BACKBONE_TRIALS" : "1",
+        "@1:BACKTRACKING" : "YES",
+        "@1:CANDIDATE_SET_TYPE" : "QUADRANT",
+        "@1:EXTRA_CANDIDATES" : "10",
+        "@1:EXTRA_CANDIDATE_SET_TYPE" : "QUADRANT",
+        "@1:GAIN23" : "YES",
+        "@1:GAIN_CRITERION" : "NO",
+        "@1:INITIAL_STEP_SIZE" : "4",
+        "@1:INITIAL_TOUR_ALGORITHM" : "QUICK-BORUVKA",
+        "@1:INITIAL_TOUR_FRACTION" : "0.5916808627905092",
+        "@1:KICKS" : "3",
+        "@1:KICK_TYPE" : "0",
+        "@1:LKH:prefix" : "-",
+        "@1:LKH:solver" : "/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH",
+        "@1:MAX_BREADTH" : "1171583476",
+        "@1:MAX_CANDIDATES" : "8",
+        "@1:MOVE_TYPE" : "2",
+        "@1:PATCHING_A" : "0",
+        "@1:PATCHING_C" : "3",
+        "@1:POPULATION_SIZE" : "13",
+        "@1:RESTRICTED_SEARCH" : "NO",
+        "@1:RUNS" : "10000",
+        "@1:SUBGRADIENT" : "YES",
+        "@1:SUBSEQUENT_MOVE_TYPE" : "0",
+        "@1:SUBSEQUENT_PATCHING" : "YES",
+        "@2:ASCENT_CANDIDATES" : "50",
+        "@2:BACKBONE_TRIALS" : "1",
+        "@2:BACKTRACKING" : "NO",
+        "@2:CANDIDATE_SET_TYPE" : "QUADRANT",
+        "@2:EXTRA_CANDIDATES" : "9",
+        "@2:EXTRA_CANDIDATE_SET_TYPE" : "QUADRANT",
+        "@2:GAIN23" : "NO",
+        "@2:GAIN_CRITERION" : "NO",
+        "@2:INITIAL_STEP_SIZE" : "3",
+        "@2:INITIAL_TOUR_ALGORITHM" : "GREEDY",
+        "@2:INITIAL_TOUR_FRACTION" : "0.5403422002400728",
+        "@2:KICKS" : "0",
+        "@2:KICK_TYPE" : "4",
+        "@2:LKH:prefix" : "-",
+        "@2:LKH:solver" : "/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH",
+        "@2:MAX_BREADTH" : "232078041",
+        "@2:MAX_CANDIDATES" : "6",
+        "@2:MOVE_TYPE" : "2",
+        "@2:PATCHING_A" : "5",
+        "@2:PATCHING_C" : "5",
+        "@2:POPULATION_SIZE" : "98",
+        "@2:RESTRICTED_SEARCH" : "YES",
+        "@2:RUNS" : "10000",
+        "@2:SUBGRADIENT" : "NO",
+        "@2:SUBSEQUENT_MOVE_TYPE" : "0",
+        "@2:SUBSEQUENT_PATCHING" : "NO",
+        "@3:ASCENT_CANDIDATES" : "55",
+        "@3:BACKBONE_TRIALS" : "0",
+        "@3:BACKTRACKING" : "NO",
+        "@3:CANDIDATE_SET_TYPE" : "QUADRANT",
+        "@3:EXTRA_CANDIDATES" : "5",
+        "@3:EXTRA_CANDIDATE_SET_TYPE" : "QUADRANT",
+        "@3:GAIN23" : "YES",
+        "@3:GAIN_CRITERION" : "YES",
+        "@3:INITIAL_STEP_SIZE" : "2",
+        "@3:INITIAL_TOUR_ALGORITHM" : "QUICK-BORUVKA",
+        "@3:INITIAL_TOUR_FRACTION" : "0.07489437132876064",
+        "@3:KICKS" : "1",
+        "@3:KICK_TYPE" : "0",
+        "@3:LKH:prefix" : "-",
+        "@3:LKH:solver" : "/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH",
+        "@3:MAX_BREADTH" : "604342141",
+        "@3:MAX_CANDIDATES" : "4",
+        "@3:MOVE_TYPE" : "6",
+        "@3:PATCHING_A" : "5",
+        "@3:PATCHING_C" : "0",
+        "@3:POPULATION_SIZE" : "57",
+        "@3:RESTRICTED_SEARCH" : "NO",
+        "@3:RUNS" : "10000",
+        "@3:SUBGRADIENT" : "NO",
+        "@3:SUBSEQUENT_MOVE_TYPE" : "2",
+        "@3:SUBSEQUENT_PATCHING" : "NO",
+        "@4:ASCENT_CANDIDATES" : "46",
+        "@4:BACKBONE_TRIALS" : "1",
+        "@4:BACKTRACKING" : "YES",
+        "@4:CANDIDATE_SET_TYPE" : "DELAUNAY",
+        "@4:EXTRA_CANDIDATES" : "8",
+        "@4:EXTRA_CANDIDATE_SET_TYPE" : "NEAREST-NEIGHBOR",
+        "@4:GAIN23" : "NO",
+        "@4:GAIN_CRITERION" : "NO",
+        "@4:INITIAL_STEP_SIZE" : "5",
+        "@4:INITIAL_TOUR_ALGORITHM" : "SIERPINSKI",
+        "@4:INITIAL_TOUR_FRACTION" : "0.42565014364080334",
+        "@4:KICKS" : "2",
+        "@4:KICK_TYPE" : "4",
+        "@4:LKH:prefix" : "-",
+        "@4:LKH:solver" : "/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH",
+        "@4:MAX_BREADTH" : "1135306154",
+        "@4:MAX_CANDIDATES" : "1",
+        "@4:MOVE_TYPE" : "2",
+        "@4:PATCHING_A" : "1",
+        "@4:PATCHING_C" : "3",
+        "@4:POPULATION_SIZE" : "44",
+        "@4:RESTRICTED_SEARCH" : "YES",
+        "@4:RUNS" : "10000",
+        "@4:SUBGRADIENT" : "NO",
+        "@4:SUBSEQUENT_MOVE_TYPE" : "6",
+        "@4:SUBSEQUENT_PATCHING" : "NO"
+      },
+      "pc-active-parameters" : [ "@1:ASCENT_CANDIDATES", "@1:BACKBONE_TRIALS", "@1:BACKTRACKING", "@1:CANDIDATE_SET_TYPE", "@1:EXTRA_CANDIDATES", "@1:GAIN23", "@1:GAIN_CRITERION", "@1:INITIAL_STEP_SIZE", "@1:INITIAL_TOUR_ALGORITHM", "@1:INITIAL_TOUR_FRACTION", "@1:KICKS", "@1:KICK_TYPE", "@1:LKH:prefix", "@1:LKH:solver", "@1:MAX_BREADTH", "@1:MAX_CANDIDATES", "@1:MOVE_TYPE", "@1:PATCHING_A", "@1:PATCHING_C", "@1:POPULATION_SIZE", "@1:RESTRICTED_SEARCH", "@1:RUNS", "@1:SUBGRADIENT", "@1:SUBSEQUENT_MOVE_TYPE", "@1:SUBSEQUENT_PATCHING", "@2:ASCENT_CANDIDATES", "@2:BACKBONE_TRIALS", "@2:BACKTRACKING", "@2:CANDIDATE_SET_TYPE", "@2:EXTRA_CANDIDATES", "@2:GAIN23", "@2:GAIN_CRITERION", "@2:INITIAL_STEP_SIZE", "@2:INITIAL_TOUR_ALGORITHM", "@2:INITIAL_TOUR_FRACTION", "@2:KICKS", "@2:KICK_TYPE", "@2:LKH:prefix", "@2:LKH:solver", "@2:MAX_BREADTH", "@2:MAX_CANDIDATES", "@2:MOVE_TYPE", "@2:PATCHING_A", "@2:PATCHING_C", "@2:POPULATION_SIZE", "@2:RESTRICTED_SEARCH", "@2:RUNS", "@2:SUBGRADIENT", "@2:SUBSEQUENT_MOVE_TYPE", "@2:SUBSEQUENT_PATCHING", "@3:ASCENT_CANDIDATES", "@3:BACKBONE_TRIALS", "@3:BACKTRACKING", "@3:CANDIDATE_SET_TYPE", "@3:EXTRA_CANDIDATES", "@3:GAIN23", "@3:GAIN_CRITERION", "@3:INITIAL_STEP_SIZE", "@3:INITIAL_TOUR_ALGORITHM", "@3:INITIAL_TOUR_FRACTION", "@3:KICKS", "@3:KICK_TYPE", "@3:LKH:prefix", "@3:LKH:solver", "@3:MAX_BREADTH", "@3:MAX_CANDIDATES", "@3:MOVE_TYPE", "@3:PATCHING_A", "@3:PATCHING_C", "@3:POPULATION_SIZE", "@3:RESTRICTED_SEARCH", "@3:RUNS", "@3:SUBGRADIENT", "@3:SUBSEQUENT_MOVE_TYPE", "@3:SUBSEQUENT_PATCHING", "@4:ASCENT_CANDIDATES", "@4:BACKBONE_TRIALS", "@4:BACKTRACKING", "@4:CANDIDATE_SET_TYPE", "@4:EXTRA_CANDIDATES", "@4:GAIN23", "@4:GAIN_CRITERION", "@4:INITIAL_STEP_SIZE", "@4:INITIAL_TOUR_ALGORITHM", "@4:INITIAL_TOUR_FRACTION", "@4:KICKS", "@4:KICK_TYPE", "@4:LKH:prefix", "@4:LKH:solver", "@4:MAX_BREADTH", "@4:MAX_CANDIDATES", "@4:MOVE_TYPE", "@4:PATCHING_A", "@4:PATCHING_C", "@4:POPULATION_SIZE", "@4:RESTRICTED_SEARCH", "@4:RUNS", "@4:SUBGRADIENT", "@4:SUBSEQUENT_MOVE_TYPE", "@4:SUBSEQUENT_PATCHING" ],
+      "pc-forbidden" : false,
+      "pc-default" : false
+    },
+    "rc-sample-idx" : 0
+  },
+  "r-run-result" : "TIMEOUT",
+  "r-runtime" : 1.0,
+  "r-run-length" : 0.0,
+  "r-quality" : 0.0,
+  "r-result-seed" : 12793054,
+  "r-addl-run-data" : "0",
+  "r-wallclock-time" : 1.737
+} {
+  "r-rc" : {
+    "@rc-id" : 16,
+    "rc-algo-exec-config" : {
+      "@algo-exec-config-id" : 2
+    },
+    "rc-cutoff" : 1.0,
+    "rc-pisp" : {
+      "@pisp-id" : 14
+    },
+    "rc-pc" : {
+      "@pc-id" : 15
+    },
+    "rc-sample-idx" : 0
+  },
+  "r-run-result" : "TIMEOUT",
+  "r-runtime" : 1.0,
+  "r-run-length" : 0.0,
+  "r-quality" : 0.0,
+  "r-result-seed" : 16725982,
+  "r-addl-run-data" : "0",
+  "r-wallclock-time" : 1.732
+} {
+  "r-rc" : {
+    "@rc-id" : 17,
+    "rc-algo-exec-config" : {
+      "@algo-exec-config-id" : 2
+    },
+    "rc-cutoff" : 1.0,
+    "rc-pisp" : {
+      "@pisp-id" : 10
+    },
+    "rc-pc" : {
+      "@pc-id" : 15
+    },
+    "rc-sample-idx" : 0
+  },
+  "r-run-result" : "SAT",
+  "r-runtime" : 0.711874961853,
+  "r-run-length" : 0.0,
+  "r-quality" : 0.0,
+  "r-result-seed" : 15488441,
+  "r-addl-run-data" : "0",
+  "r-wallclock-time" : 1.281
+} {
+  "r-rc" : {
+    "@rc-id" : 18,
+    "rc-algo-exec-config" : {
+      "@algo-exec-config-id" : 2
+    },
+    "rc-cutoff" : 1.0,
+    "rc-pisp" : {
+      "@pisp-id" : 3
+    },
+    "rc-pc" : {
+      "@pc-id" : 15
+    },
+    "rc-sample-idx" : 0
+  },
+  "r-run-result" : "SAT",
+  "r-runtime" : 0.410794019699,
+  "r-run-length" : 0.0,
+  "r-quality" : 0.0,
+  "r-result-seed" : 9936394,
+  "r-addl-run-data" : "0",
+  "r-wallclock-time" : 0.982
+} {
+  "r-rc" : {
+    "@rc-id" : 19,
+    "rc-algo-exec-config" : {
+      "@algo-exec-config-id" : 2
+    },
+    "rc-cutoff" : 1.0,
+    "rc-pisp" : {
+      "@pisp-id" : 6
+    },
+    "rc-pc" : {
+      "@pc-id" : 15
+    },
+    "rc-sample-idx" : 0
+  },
+  "r-run-result" : "TIMEOUT",
+  "r-runtime" : 1.0,
+  "r-run-length" : 0.0,
+  "r-quality" : 0.0,
+  "r-result-seed" : 3962560,
+  "r-addl-run-data" : "0",
+  "r-wallclock-time" : 1.736
+} {
+  "r-rc" : {
+    "@rc-id" : 20,
+    "rc-algo-exec-config" : {
+      "@algo-exec-config-id" : 2
+    },
+    "rc-cutoff" : 1.0,
+    "rc-pisp" : {
+      "@pisp-id" : 20,
+      "pisp-pi" : {
+        "@pi-id" : 9
+      },
+      "pisp-seed" : 13638160
+    },
+    "rc-pc" : {
+      "@pc-id" : 15
+    },
+    "rc-sample-idx" : 0
+  },
+  "r-run-result" : "TIMEOUT",
+  "r-runtime" : 1.0,
+  "r-run-length" : 0.0,
+  "r-quality" : 0.0,
+  "r-result-seed" : 13638160,
+  "r-addl-run-data" : "0",
+  "r-wallclock-time" : 1.737
+} {
+  "r-rc" : {
+    "@rc-id" : 21,
+    "rc-algo-exec-config" : {
+      "@algo-exec-config-id" : 2
+    },
+    "rc-cutoff" : 1.0,
+    "rc-pisp" : {
+      "@pisp-id" : 14
+    },
+    "rc-pc" : {
+      "@pc-id" : 21,
+      "pc-pcs" : {
+        "@pcs-id" : 2
+      },
+      "pc-settings" : {
+        "@1:ASCENT_CANDIDATES" : "51",
+        "@1:BACKBONE_TRIALS" : "1",
+        "@1:BACKTRACKING" : "YES",
+        "@1:CANDIDATE_SET_TYPE" : "QUADRANT",
+        "@1:EXTRA_CANDIDATES" : "10",
+        "@1:EXTRA_CANDIDATE_SET_TYPE" : "QUADRANT",
+        "@1:GAIN23" : "YES",
+        "@1:GAIN_CRITERION" : "NO",
+        "@1:INITIAL_STEP_SIZE" : "4",
+        "@1:INITIAL_TOUR_ALGORITHM" : "QUICK-BORUVKA",
+        "@1:INITIAL_TOUR_FRACTION" : "0.5916808627905092",
+        "@1:KICKS" : "3",
+        "@1:KICK_TYPE" : "0",
+        "@1:LKH:prefix" : "-",
+        "@1:LKH:solver" : "/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH",
+        "@1:MAX_BREADTH" : "1171583476",
+        "@1:MAX_CANDIDATES" : "8",
+        "@1:MOVE_TYPE" : "2",
+        "@1:PATCHING_A" : "0",
+        "@1:PATCHING_C" : "3",
+        "@1:POPULATION_SIZE" : "13",
+        "@1:RESTRICTED_SEARCH" : "NO",
+        "@1:RUNS" : "10000",
+        "@1:SUBGRADIENT" : "YES",
+        "@1:SUBSEQUENT_MOVE_TYPE" : "0",
+        "@1:SUBSEQUENT_PATCHING" : "YES",
+        "@2:ASCENT_CANDIDATES" : "50",
+        "@2:BACKBONE_TRIALS" : "1",
+        "@2:BACKTRACKING" : "NO",
+        "@2:CANDIDATE_SET_TYPE" : "DELAUNAY",
+        "@2:EXTRA_CANDIDATES" : "9",
+        "@2:EXTRA_CANDIDATE_SET_TYPE" : "QUADRANT",
+        "@2:GAIN23" : "NO",
+        "@2:GAIN_CRITERION" : "NO",
+        "@2:INITIAL_STEP_SIZE" : "3",
+        "@2:INITIAL_TOUR_ALGORITHM" : "GREEDY",
+        "@2:INITIAL_TOUR_FRACTION" : "0.5403422002400728",
+        "@2:KICKS" : "0",
+        "@2:KICK_TYPE" : "4",
+        "@2:LKH:prefix" : "-",
+        "@2:LKH:solver" : "/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH",
+        "@2:MAX_BREADTH" : "232078041",
+        "@2:MAX_CANDIDATES" : "6",
+        "@2:MOVE_TYPE" : "2",
+        "@2:PATCHING_A" : "5",
+        "@2:PATCHING_C" : "5",
+        "@2:POPULATION_SIZE" : "98",
+        "@2:RESTRICTED_SEARCH" : "YES",
+        "@2:RUNS" : "10000",
+        "@2:SUBGRADIENT" : "NO",
+        "@2:SUBSEQUENT_MOVE_TYPE" : "0",
+        "@2:SUBSEQUENT_PATCHING" : "NO",
+        "@3:ASCENT_CANDIDATES" : "55",
+        "@3:BACKBONE_TRIALS" : "0",
+        "@3:BACKTRACKING" : "NO",
+        "@3:CANDIDATE_SET_TYPE" : "QUADRANT",
+        "@3:EXTRA_CANDIDATES" : "5",
+        "@3:EXTRA_CANDIDATE_SET_TYPE" : "QUADRANT",
+        "@3:GAIN23" : "YES",
+        "@3:GAIN_CRITERION" : "YES",
+        "@3:INITIAL_STEP_SIZE" : "2",
+        "@3:INITIAL_TOUR_ALGORITHM" : "QUICK-BORUVKA",
+        "@3:INITIAL_TOUR_FRACTION" : "0.07489437132876064",
+        "@3:KICKS" : "1",
+        "@3:KICK_TYPE" : "0",
+        "@3:LKH:prefix" : "-",
+        "@3:LKH:solver" : "/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH",
+        "@3:MAX_BREADTH" : "604342141",
+        "@3:MAX_CANDIDATES" : "4",
+        "@3:MOVE_TYPE" : "6",
+        "@3:PATCHING_A" : "5",
+        "@3:PATCHING_C" : "0",
+        "@3:POPULATION_SIZE" : "57",
+        "@3:RESTRICTED_SEARCH" : "NO",
+        "@3:RUNS" : "10000",
+        "@3:SUBGRADIENT" : "NO",
+        "@3:SUBSEQUENT_MOVE_TYPE" : "2",
+        "@3:SUBSEQUENT_PATCHING" : "NO",
+        "@4:ASCENT_CANDIDATES" : "46",
+        "@4:BACKBONE_TRIALS" : "1",
+        "@4:BACKTRACKING" : "YES",
+        "@4:CANDIDATE_SET_TYPE" : "DELAUNAY",
+        "@4:EXTRA_CANDIDATES" : "8",
+        "@4:EXTRA_CANDIDATE_SET_TYPE" : "NEAREST-NEIGHBOR",
+        "@4:GAIN23" : "NO",
+        "@4:GAIN_CRITERION" : "NO",
+        "@4:INITIAL_STEP_SIZE" : "5",
+        "@4:INITIAL_TOUR_ALGORITHM" : "SIERPINSKI",
+        "@4:INITIAL_TOUR_FRACTION" : "0.42565014364080334",
+        "@4:KICKS" : "2",
+        "@4:KICK_TYPE" : "4",
+        "@4:LKH:prefix" : "-",
+        "@4:LKH:solver" : "/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH",
+        "@4:MAX_BREADTH" : "1135306154",
+        "@4:MAX_CANDIDATES" : "1",
+        "@4:MOVE_TYPE" : "2",
+        "@4:PATCHING_A" : "1",
+        "@4:PATCHING_C" : "3",
+        "@4:POPULATION_SIZE" : "44",
+        "@4:RESTRICTED_SEARCH" : "YES",
+        "@4:RUNS" : "10000",
+        "@4:SUBGRADIENT" : "NO",
+        "@4:SUBSEQUENT_MOVE_TYPE" : "6",
+        "@4:SUBSEQUENT_PATCHING" : "NO"
+      },
+      "pc-active-parameters" : [ "@1:ASCENT_CANDIDATES", "@1:BACKBONE_TRIALS", "@1:BACKTRACKING", "@1:CANDIDATE_SET_TYPE", "@1:EXTRA_CANDIDATES", "@1:GAIN23", "@1:GAIN_CRITERION", "@1:INITIAL_STEP_SIZE", "@1:INITIAL_TOUR_ALGORITHM", "@1:INITIAL_TOUR_FRACTION", "@1:KICKS", "@1:KICK_TYPE", "@1:LKH:prefix", "@1:LKH:solver", "@1:MAX_BREADTH", "@1:MAX_CANDIDATES", "@1:MOVE_TYPE", "@1:PATCHING_A", "@1:PATCHING_C", "@1:POPULATION_SIZE", "@1:RESTRICTED_SEARCH", "@1:RUNS", "@1:SUBGRADIENT", "@1:SUBSEQUENT_MOVE_TYPE", "@1:SUBSEQUENT_PATCHING", "@2:ASCENT_CANDIDATES", "@2:BACKBONE_TRIALS", "@2:BACKTRACKING", "@2:CANDIDATE_SET_TYPE", "@2:EXTRA_CANDIDATES", "@2:GAIN23", "@2:GAIN_CRITERION", "@2:INITIAL_STEP_SIZE", "@2:INITIAL_TOUR_ALGORITHM", "@2:INITIAL_TOUR_FRACTION", "@2:KICKS", "@2:KICK_TYPE", "@2:LKH:prefix", "@2:LKH:solver", "@2:MAX_BREADTH", "@2:MAX_CANDIDATES", "@2:MOVE_TYPE", "@2:PATCHING_A", "@2:PATCHING_C", "@2:POPULATION_SIZE", "@2:RESTRICTED_SEARCH", "@2:RUNS", "@2:SUBGRADIENT", "@2:SUBSEQUENT_MOVE_TYPE", "@2:SUBSEQUENT_PATCHING", "@3:ASCENT_CANDIDATES", "@3:BACKBONE_TRIALS", "@3:BACKTRACKING", "@3:CANDIDATE_SET_TYPE", "@3:EXTRA_CANDIDATES", "@3:GAIN23", "@3:GAIN_CRITERION", "@3:INITIAL_STEP_SIZE", "@3:INITIAL_TOUR_ALGORITHM", "@3:INITIAL_TOUR_FRACTION", "@3:KICKS", "@3:KICK_TYPE", "@3:LKH:prefix", "@3:LKH:solver", "@3:MAX_BREADTH", "@3:MAX_CANDIDATES", "@3:MOVE_TYPE", "@3:PATCHING_A", "@3:PATCHING_C", "@3:POPULATION_SIZE", "@3:RESTRICTED_SEARCH", "@3:RUNS", "@3:SUBGRADIENT", "@3:SUBSEQUENT_MOVE_TYPE", "@3:SUBSEQUENT_PATCHING", "@4:ASCENT_CANDIDATES", "@4:BACKBONE_TRIALS", "@4:BACKTRACKING", "@4:CANDIDATE_SET_TYPE", "@4:EXTRA_CANDIDATES", "@4:GAIN23", "@4:GAIN_CRITERION", "@4:INITIAL_STEP_SIZE", "@4:INITIAL_TOUR_ALGORITHM", "@4:INITIAL_TOUR_FRACTION", "@4:KICKS", "@4:KICK_TYPE", "@4:LKH:prefix", "@4:LKH:solver", "@4:MAX_BREADTH", "@4:MAX_CANDIDATES", "@4:MOVE_TYPE", "@4:PATCHING_A", "@4:PATCHING_C", "@4:POPULATION_SIZE", "@4:RESTRICTED_SEARCH", "@4:RUNS", "@4:SUBGRADIENT", "@4:SUBSEQUENT_MOVE_TYPE", "@4:SUBSEQUENT_PATCHING" ],
+      "pc-forbidden" : false,
+      "pc-default" : false
+    },
+    "rc-sample-idx" : 0
+  },
+  "r-run-result" : "TIMEOUT",
+  "r-runtime" : 1.0,
+  "r-run-length" : 0.0,
+  "r-quality" : 0.0,
+  "r-result-seed" : 16725982,
+  "r-addl-run-data" : "0",
+  "r-wallclock-time" : 1.737
+} {
+  "r-rc" : {
+    "@rc-id" : 22,
+    "rc-algo-exec-config" : {
+      "@algo-exec-config-id" : 2
+    },
+    "rc-cutoff" : 1.0,
+    "rc-pisp" : {
+      "@pisp-id" : 3
+    },
+    "rc-pc" : {
+      "@pc-id" : 21
+    },
+    "rc-sample-idx" : 0
+  },
+  "r-run-result" : "SAT",
+  "r-runtime" : 0.510129928589,
+  "r-run-length" : 0.0,
+  "r-quality" : 0.0,
+  "r-result-seed" : 9936394,
+  "r-addl-run-data" : "0",
+  "r-wallclock-time" : 1.083
+} {
+  "r-rc" : {
+    "@rc-id" : 23,
+    "rc-algo-exec-config" : {
+      "@algo-exec-config-id" : 2
+    },
+    "rc-cutoff" : 1.0,
+    "rc-pisp" : {
+      "@pisp-id" : 10
+    },
+    "rc-pc" : {
+      "@pc-id" : 21
+    },
+    "rc-sample-idx" : 0
+  },
+  "r-run-result" : "SAT",
+  "r-runtime" : 0.711884021759,
+  "r-run-length" : 0.0,
+  "r-quality" : 0.0,
+  "r-result-seed" : 15488441,
+  "r-addl-run-data" : "0",
+  "r-wallclock-time" : 1.282
+} {
+  "r-rc" : {
+    "@rc-id" : 24,
+    "rc-algo-exec-config" : {
+      "@algo-exec-config-id" : 2
+    },
+    "rc-cutoff" : 1.0,
+    "rc-pisp" : {
+      "@pisp-id" : 24,
+      "pisp-pi" : {
+        "@pi-id" : 26
+      },
+      "pisp-seed" : 10760631
+    },
+    "rc-pc" : {
+      "@pc-id" : 15
+    },
+    "rc-sample-idx" : 0
+  },
+  "r-run-result" : "TIMEOUT",
+  "r-runtime" : 1.0,
+  "r-run-length" : 0.0,
+  "r-quality" : 0.0,
+  "r-result-seed" : 10760631,
+  "r-addl-run-data" : "0",
+  "r-wallclock-time" : 1.732
+} {
+  "r-rc" : {
+    "@rc-id" : 25,
+    "rc-algo-exec-config" : {
+      "@algo-exec-config-id" : 2
+    },
+    "rc-cutoff" : 1.0,
+    "rc-pisp" : {
+      "@pisp-id" : 24
+    },
+    "rc-pc" : {
+      "@pc-id" : 25,
+      "pc-pcs" : {
+        "@pcs-id" : 2
+      },
+      "pc-settings" : {
+        "@1:ASCENT_CANDIDATES" : "52",
+        "@1:BACKBONE_TRIALS" : "0",
+        "@1:BACKTRACKING" : "NO",
+        "@1:CANDIDATE_SET_TYPE" : "QUADRANT",
+        "@1:EXTRA_CANDIDATES" : "6",
+        "@1:EXTRA_CANDIDATE_SET_TYPE" : "QUADRANT",
+        "@1:GAIN23" : "YES",
+        "@1:GAIN_CRITERION" : "YES",
+        "@1:INITIAL_STEP_SIZE" : "1",
+        "@1:INITIAL_TOUR_ALGORITHM" : "BORUVKA",
+        "@1:INITIAL_TOUR_FRACTION" : "0.1894778032209028",
+        "@1:KICKS" : "0",
+        "@1:KICK_TYPE" : "0",
+        "@1:LKH:prefix" : "-",
+        "@1:LKH:solver" : "/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH",
+        "@1:MAX_BREADTH" : "1460983564",
+        "@1:MAX_CANDIDATES" : "2",
+        "@1:MOVE_TYPE" : "2",
+        "@1:PATCHING_A" : "3",
+        "@1:PATCHING_C" : "4",
+        "@1:POPULATION_SIZE" : "90",
+        "@1:RESTRICTED_SEARCH" : "YES",
+        "@1:RUNS" : "10000",
+        "@1:SUBGRADIENT" : "YES",
+        "@1:SUBSEQUENT_MOVE_TYPE" : "6",
+        "@1:SUBSEQUENT_PATCHING" : "YES",
+        "@2:ASCENT_CANDIDATES" : "50",
+        "@2:BACKBONE_TRIALS" : "1",
+        "@2:BACKTRACKING" : "NO",
+        "@2:CANDIDATE_SET_TYPE" : "QUADRANT",
+        "@2:EXTRA_CANDIDATES" : "8",
+        "@2:EXTRA_CANDIDATE_SET_TYPE" : "NEAREST-NEIGHBOR",
+        "@2:GAIN23" : "NO",
+        "@2:GAIN_CRITERION" : "NO",
+        "@2:INITIAL_STEP_SIZE" : "3",
+        "@2:INITIAL_TOUR_ALGORITHM" : "NEAREST-NEIGHBOR",
+        "@2:INITIAL_TOUR_FRACTION" : "0.975665677686221",
+        "@2:KICKS" : "3",
+        "@2:KICK_TYPE" : "4",
+        "@2:LKH:prefix" : "-",
+        "@2:LKH:solver" : "/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH",
+        "@2:MAX_BREADTH" : "976061202",
+        "@2:MAX_CANDIDATES" : "5",
+        "@2:MOVE_TYPE" : "3",
+        "@2:PATCHING_A" : "0",
+        "@2:PATCHING_C" : "5",
+        "@2:POPULATION_SIZE" : "49",
+        "@2:RESTRICTED_SEARCH" : "YES",
+        "@2:RUNS" : "10000",
+        "@2:SUBGRADIENT" : "YES",
+        "@2:SUBSEQUENT_MOVE_TYPE" : "5",
+        "@2:SUBSEQUENT_PATCHING" : "YES",
+        "@3:ASCENT_CANDIDATES" : "46",
+        "@3:BACKBONE_TRIALS" : "1",
+        "@3:BACKTRACKING" : "NO",
+        "@3:CANDIDATE_SET_TYPE" : "NEAREST-NEIGHBOR",
+        "@3:EXTRA_CANDIDATES" : "9",
+        "@3:EXTRA_CANDIDATE_SET_TYPE" : "QUADRANT",
+        "@3:GAIN23" : "YES",
+        "@3:GAIN_CRITERION" : "YES",
+        "@3:INITIAL_STEP_SIZE" : "2",
+        "@3:INITIAL_TOUR_ALGORITHM" : "QUICK-BORUVKA",
+        "@3:INITIAL_TOUR_FRACTION" : "0.5021121058694293",
+        "@3:KICKS" : "1",
+        "@3:KICK_TYPE" : "5",
+        "@3:LKH:prefix" : "-",
+        "@3:LKH:solver" : "/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH",
+        "@3:MAX_BREADTH" : "1961143463",
+        "@3:MAX_CANDIDATES" : "8",
+        "@3:MOVE_TYPE" : "3",
+        "@3:PATCHING_A" : "5",
+        "@3:PATCHING_C" : "2",
+        "@3:POPULATION_SIZE" : "61",
+        "@3:RESTRICTED_SEARCH" : "YES",
+        "@3:RUNS" : "10000",
+        "@3:SUBGRADIENT" : "NO",
+        "@3:SUBSEQUENT_MOVE_TYPE" : "5",
+        "@3:SUBSEQUENT_PATCHING" : "NO",
+        "@4:ASCENT_CANDIDATES" : "52",
+        "@4:BACKBONE_TRIALS" : "0",
+        "@4:BACKTRACKING" : "NO",
+        "@4:CANDIDATE_SET_TYPE" : "DELAUNAY",
+        "@4:EXTRA_CANDIDATES" : "0",
+        "@4:EXTRA_CANDIDATE_SET_TYPE" : "NEAREST-NEIGHBOR",
+        "@4:GAIN23" : "NO",
+        "@4:GAIN_CRITERION" : "NO",
+        "@4:INITIAL_STEP_SIZE" : "4",
+        "@4:INITIAL_TOUR_ALGORITHM" : "SIERPINSKI",
+        "@4:INITIAL_TOUR_FRACTION" : "0.11785654675739443",
+        "@4:KICKS" : "5",
+        "@4:KICK_TYPE" : "0",
+        "@4:LKH:prefix" : "-",
+        "@4:LKH:solver" : "/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH",
+        "@4:MAX_BREADTH" : "2077487971",
+        "@4:MAX_CANDIDATES" : "6",
+        "@4:MOVE_TYPE" : "5",
+        "@4:PATCHING_A" : "5",
+        "@4:PATCHING_C" : "1",
+        "@4:POPULATION_SIZE" : "59",
+        "@4:RESTRICTED_SEARCH" : "NO",
+        "@4:RUNS" : "10000",
+        "@4:SUBGRADIENT" : "YES",
+        "@4:SUBSEQUENT_MOVE_TYPE" : "3",
+        "@4:SUBSEQUENT_PATCHING" : "YES"
+      },
+      "pc-active-parameters" : [ "@1:ASCENT_CANDIDATES", "@1:BACKBONE_TRIALS", "@1:BACKTRACKING", "@1:CANDIDATE_SET_TYPE", "@1:EXTRA_CANDIDATES", "@1:GAIN23", "@1:GAIN_CRITERION", "@1:INITIAL_STEP_SIZE", "@1:INITIAL_TOUR_ALGORITHM", "@1:INITIAL_TOUR_FRACTION", "@1:KICKS", "@1:KICK_TYPE", "@1:LKH:prefix", "@1:LKH:solver", "@1:MAX_BREADTH", "@1:MAX_CANDIDATES", "@1:MOVE_TYPE", "@1:PATCHING_A", "@1:PATCHING_C", "@1:POPULATION_SIZE", "@1:RESTRICTED_SEARCH", "@1:RUNS", "@1:SUBGRADIENT", "@1:SUBSEQUENT_MOVE_TYPE", "@1:SUBSEQUENT_PATCHING", "@2:ASCENT_CANDIDATES", "@2:BACKBONE_TRIALS", "@2:BACKTRACKING", "@2:CANDIDATE_SET_TYPE", "@2:EXTRA_CANDIDATES", "@2:GAIN23", "@2:GAIN_CRITERION", "@2:INITIAL_STEP_SIZE", "@2:INITIAL_TOUR_ALGORITHM", "@2:INITIAL_TOUR_FRACTION", "@2:KICKS", "@2:KICK_TYPE", "@2:LKH:prefix", "@2:LKH:solver", "@2:MAX_BREADTH", "@2:MAX_CANDIDATES", "@2:MOVE_TYPE", "@2:PATCHING_A", "@2:PATCHING_C", "@2:POPULATION_SIZE", "@2:RESTRICTED_SEARCH", "@2:RUNS", "@2:SUBGRADIENT", "@2:SUBSEQUENT_MOVE_TYPE", "@2:SUBSEQUENT_PATCHING", "@3:ASCENT_CANDIDATES", "@3:BACKBONE_TRIALS", "@3:BACKTRACKING", "@3:CANDIDATE_SET_TYPE", "@3:EXTRA_CANDIDATES", "@3:GAIN23", "@3:GAIN_CRITERION", "@3:INITIAL_STEP_SIZE", "@3:INITIAL_TOUR_ALGORITHM", "@3:INITIAL_TOUR_FRACTION", "@3:KICKS", "@3:KICK_TYPE", "@3:LKH:prefix", "@3:LKH:solver", "@3:MAX_BREADTH", "@3:MAX_CANDIDATES", "@3:MOVE_TYPE", "@3:PATCHING_A", "@3:PATCHING_C", "@3:POPULATION_SIZE", "@3:RESTRICTED_SEARCH", "@3:RUNS", "@3:SUBGRADIENT", "@3:SUBSEQUENT_MOVE_TYPE", "@3:SUBSEQUENT_PATCHING", "@4:ASCENT_CANDIDATES", "@4:BACKBONE_TRIALS", "@4:BACKTRACKING", "@4:CANDIDATE_SET_TYPE", "@4:EXTRA_CANDIDATES", "@4:EXTRA_CANDIDATE_SET_TYPE", "@4:GAIN23", "@4:GAIN_CRITERION", "@4:INITIAL_STEP_SIZE", "@4:INITIAL_TOUR_ALGORITHM", "@4:INITIAL_TOUR_FRACTION", "@4:KICKS", "@4:KICK_TYPE", "@4:LKH:prefix", "@4:LKH:solver", "@4:MAX_BREADTH", "@4:MAX_CANDIDATES", "@4:MOVE_TYPE", "@4:PATCHING_A", "@4:PATCHING_C", "@4:POPULATION_SIZE", "@4:RESTRICTED_SEARCH", "@4:RUNS", "@4:SUBGRADIENT", "@4:SUBSEQUENT_MOVE_TYPE", "@4:SUBSEQUENT_PATCHING" ],
+      "pc-forbidden" : false,
+      "pc-default" : false
+    },
+    "rc-sample-idx" : 0
+  },
+  "r-run-result" : "TIMEOUT",
+  "r-runtime" : 1.0,
+  "r-run-length" : 0.0,
+  "r-quality" : 0.0,
+  "r-result-seed" : 10760631,
+  "r-addl-run-data" : "0",
+  "r-wallclock-time" : 1.733
+} {
+  "r-rc" : {
+    "@rc-id" : 26,
+    "rc-algo-exec-config" : {
+      "@algo-exec-config-id" : 2
+    },
+    "rc-cutoff" : 1.0,
+    "rc-pisp" : {
+      "@pisp-id" : 14
+    },
+    "rc-pc" : {
+      "@pc-id" : 25
+    },
+    "rc-sample-idx" : 0
+  },
+  "r-run-result" : "TIMEOUT",
+  "r-runtime" : 1.0,
+  "r-run-length" : 0.0,
+  "r-quality" : 0.0,
+  "r-result-seed" : 16725982,
+  "r-addl-run-data" : "0",
+  "r-wallclock-time" : 1.736
+} {
+  "r-rc" : {
+    "@rc-id" : 27,
+    "rc-algo-exec-config" : {
+      "@algo-exec-config-id" : 2
+    },
+    "rc-cutoff" : 1.0,
+    "rc-pisp" : {
+      "@pisp-id" : 10
+    },
+    "rc-pc" : {
+      "@pc-id" : 25
+    },
+    "rc-sample-idx" : 0
+  },
+  "r-run-result" : "TIMEOUT",
+  "r-runtime" : 1.0,
+  "r-run-length" : 0.0,
+  "r-quality" : 0.0,
+  "r-result-seed" : 15488441,
+  "r-addl-run-data" : "0",
+  "r-wallclock-time" : 1.736
+} {
+  "r-rc" : {
+    "@rc-id" : 28,
+    "rc-algo-exec-config" : {
+      "@algo-exec-config-id" : 2
+    },
+    "rc-cutoff" : 1.0,
+    "rc-pisp" : {
+      "@pisp-id" : 28,
+      "pisp-pi" : {
+        "@pi-id" : 15
+      },
+      "pisp-seed" : 9364247
+    },
+    "rc-pc" : {
+      "@pc-id" : 15
+    },
+    "rc-sample-idx" : 0
+  },
+  "r-run-result" : "TIMEOUT",
+  "r-runtime" : 1.0,
+  "r-run-length" : 0.0,
+  "r-quality" : 0.0,
+  "r-result-seed" : 9364247,
+  "r-addl-run-data" : "0",
+  "r-wallclock-time" : 1.737
+} {
+  "r-rc" : {
+    "@rc-id" : 29,
+    "rc-algo-exec-config" : {
+      "@algo-exec-config-id" : 2
+    },
+    "rc-cutoff" : 1.0,
+    "rc-pisp" : {
+      "@pisp-id" : 20
+    },
+    "rc-pc" : {
+      "@pc-id" : 29,
+      "pc-pcs" : {
+        "@pcs-id" : 2
+      },
+      "pc-settings" : {
+        "@1:ASCENT_CANDIDATES" : "43",
+        "@1:BACKBONE_TRIALS" : "1",
+        "@1:BACKTRACKING" : "YES",
+        "@1:CANDIDATE_SET_TYPE" : "DELAUNAY",
+        "@1:EXTRA_CANDIDATES" : "10",
+        "@1:EXTRA_CANDIDATE_SET_TYPE" : "NEAREST-NEIGHBOR",
+        "@1:GAIN23" : "NO",
+        "@1:GAIN_CRITERION" : "YES",
+        "@1:INITIAL_STEP_SIZE" : "4",
+        "@1:INITIAL_TOUR_ALGORITHM" : "QUICK-BORUVKA",
+        "@1:INITIAL_TOUR_FRACTION" : "0.06893224514237284",
+        "@1:KICKS" : "2",
+        "@1:KICK_TYPE" : "4",
+        "@1:LKH:prefix" : "-",
+        "@1:LKH:solver" : "/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH",
+        "@1:MAX_BREADTH" : "2079884712",
+        "@1:MAX_CANDIDATES" : "9",
+        "@1:MOVE_TYPE" : "5",
+        "@1:PATCHING_A" : "0",
+        "@1:PATCHING_C" : "2",
+        "@1:POPULATION_SIZE" : "56",
+        "@1:RESTRICTED_SEARCH" : "NO",
+        "@1:RUNS" : "10000",
+        "@1:SUBGRADIENT" : "NO",
+        "@1:SUBSEQUENT_MOVE_TYPE" : "3",
+        "@1:SUBSEQUENT_PATCHING" : "YES",
+        "@2:ASCENT_CANDIDATES" : "59",
+        "@2:BACKBONE_TRIALS" : "0",
+        "@2:BACKTRACKING" : "YES",
+        "@2:CANDIDATE_SET_TYPE" : "DELAUNAY",
+        "@2:EXTRA_CANDIDATES" : "3",
+        "@2:EXTRA_CANDIDATE_SET_TYPE" : "NEAREST-NEIGHBOR",
+        "@2:GAIN23" : "NO",
+        "@2:GAIN_CRITERION" : "YES",
+        "@2:INITIAL_STEP_SIZE" : "2",
+        "@2:INITIAL_TOUR_ALGORITHM" : "GREEDY",
+        "@2:INITIAL_TOUR_FRACTION" : "0.10953164464839915",
+        "@2:KICKS" : "4",
+        "@2:KICK_TYPE" : "4",
+        "@2:LKH:prefix" : "-",
+        "@2:LKH:solver" : "/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH",
+        "@2:MAX_BREADTH" : "1033474171",
+        "@2:MAX_CANDIDATES" : "3",
+        "@2:MOVE_TYPE" : "4",
+        "@2:PATCHING_A" : "1",
+        "@2:PATCHING_C" : "5",
+        "@2:POPULATION_SIZE" : "3",
+        "@2:RESTRICTED_SEARCH" : "YES",
+        "@2:RUNS" : "10000",
+        "@2:SUBGRADIENT" : "YES",
+        "@2:SUBSEQUENT_MOVE_TYPE" : "0",
+        "@2:SUBSEQUENT_PATCHING" : "YES",
+        "@3:ASCENT_CANDIDATES" : "59",
+        "@3:BACKBONE_TRIALS" : "1",
+        "@3:BACKTRACKING" : "NO",
+        "@3:CANDIDATE_SET_TYPE" : "NEAREST-NEIGHBOR",
+        "@3:EXTRA_CANDIDATES" : "10",
+        "@3:EXTRA_CANDIDATE_SET_TYPE" : "NEAREST-NEIGHBOR",
+        "@3:GAIN23" : "YES",
+        "@3:GAIN_CRITERION" : "NO",
+        "@3:INITIAL_STEP_SIZE" : "2",
+        "@3:INITIAL_TOUR_ALGORITHM" : "QUICK-BORUVKA",
+        "@3:INITIAL_TOUR_FRACTION" : "0.05930925048581037",
+        "@3:KICKS" : "5",
+        "@3:KICK_TYPE" : "4",
+        "@3:LKH:prefix" : "-",
+        "@3:LKH:solver" : "/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH",
+        "@3:MAX_BREADTH" : "140172371",
+        "@3:MAX_CANDIDATES" : "2",
+        "@3:MOVE_TYPE" : "4",
+        "@3:PATCHING_A" : "0",
+        "@3:PATCHING_C" : "1",
+        "@3:POPULATION_SIZE" : "7",
+        "@3:RESTRICTED_SEARCH" : "YES",
+        "@3:RUNS" : "10000",
+        "@3:SUBGRADIENT" : "YES",
+        "@3:SUBSEQUENT_MOVE_TYPE" : "3",
+        "@3:SUBSEQUENT_PATCHING" : "NO",
+        "@4:ASCENT_CANDIDATES" : "40",
+        "@4:BACKBONE_TRIALS" : "0",
+        "@4:BACKTRACKING" : "YES",
+        "@4:CANDIDATE_SET_TYPE" : "ALPHA",
+        "@4:EXTRA_CANDIDATES" : "10",
+        "@4:EXTRA_CANDIDATE_SET_TYPE" : "QUADRANT",
+        "@4:GAIN23" : "NO",
+        "@4:GAIN_CRITERION" : "NO",
+        "@4:INITIAL_STEP_SIZE" : "3",
+        "@4:INITIAL_TOUR_ALGORITHM" : "WALK",
+        "@4:INITIAL_TOUR_FRACTION" : "0.5073940904094064",
+        "@4:KICKS" : "4",
+        "@4:KICK_TYPE" : "5",
+        "@4:LKH:prefix" : "-",
+        "@4:LKH:solver" : "/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH",
+        "@4:MAX_BREADTH" : "1565787689",
+        "@4:MAX_CANDIDATES" : "2",
+        "@4:MOVE_TYPE" : "5",
+        "@4:PATCHING_A" : "1",
+        "@4:PATCHING_C" : "4",
+        "@4:POPULATION_SIZE" : "68",
+        "@4:RESTRICTED_SEARCH" : "YES",
+        "@4:RUNS" : "10000",
+        "@4:SUBGRADIENT" : "NO",
+        "@4:SUBSEQUENT_MOVE_TYPE" : "3",
+        "@4:SUBSEQUENT_PATCHING" : "NO"
+      },
+      "pc-active-parameters" : [ "@1:ASCENT_CANDIDATES", "@1:BACKBONE_TRIALS", "@1:BACKTRACKING", "@1:CANDIDATE_SET_TYPE", "@1:EXTRA_CANDIDATES", "@1:GAIN23", "@1:GAIN_CRITERION", "@1:INITIAL_STEP_SIZE", "@1:INITIAL_TOUR_ALGORITHM", "@1:INITIAL_TOUR_FRACTION", "@1:KICKS", "@1:KICK_TYPE", "@1:LKH:prefix", "@1:LKH:solver", "@1:MAX_BREADTH", "@1:MAX_CANDIDATES", "@1:MOVE_TYPE", "@1:PATCHING_A", "@1:PATCHING_C", "@1:POPULATION_SIZE", "@1:RESTRICTED_SEARCH", "@1:RUNS", "@1:SUBGRADIENT", "@1:SUBSEQUENT_MOVE_TYPE", "@1:SUBSEQUENT_PATCHING", "@2:ASCENT_CANDIDATES", "@2:BACKBONE_TRIALS", "@2:BACKTRACKING", "@2:CANDIDATE_SET_TYPE", "@2:EXTRA_CANDIDATES", "@2:GAIN23", "@2:GAIN_CRITERION", "@2:INITIAL_STEP_SIZE", "@2:INITIAL_TOUR_ALGORITHM", "@2:INITIAL_TOUR_FRACTION", "@2:KICKS", "@2:KICK_TYPE", "@2:LKH:prefix", "@2:LKH:solver", "@2:MAX_BREADTH", "@2:MAX_CANDIDATES", "@2:MOVE_TYPE", "@2:PATCHING_A", "@2:PATCHING_C", "@2:POPULATION_SIZE", "@2:RESTRICTED_SEARCH", "@2:RUNS", "@2:SUBGRADIENT", "@2:SUBSEQUENT_MOVE_TYPE", "@2:SUBSEQUENT_PATCHING", "@3:ASCENT_CANDIDATES", "@3:BACKBONE_TRIALS", "@3:BACKTRACKING", "@3:CANDIDATE_SET_TYPE", "@3:EXTRA_CANDIDATES", "@3:GAIN23", "@3:GAIN_CRITERION", "@3:INITIAL_STEP_SIZE", "@3:INITIAL_TOUR_ALGORITHM", "@3:INITIAL_TOUR_FRACTION", "@3:KICKS", "@3:KICK_TYPE", "@3:LKH:prefix", "@3:LKH:solver", "@3:MAX_BREADTH", "@3:MAX_CANDIDATES", "@3:MOVE_TYPE", "@3:PATCHING_A", "@3:PATCHING_C", "@3:POPULATION_SIZE", "@3:RESTRICTED_SEARCH", "@3:RUNS", "@3:SUBGRADIENT", "@3:SUBSEQUENT_MOVE_TYPE", "@3:SUBSEQUENT_PATCHING", "@4:ASCENT_CANDIDATES", "@4:BACKBONE_TRIALS", "@4:BACKTRACKING", "@4:CANDIDATE_SET_TYPE", "@4:EXTRA_CANDIDATES", "@4:GAIN23", "@4:GAIN_CRITERION", "@4:INITIAL_STEP_SIZE", "@4:INITIAL_TOUR_ALGORITHM", "@4:INITIAL_TOUR_FRACTION", "@4:KICKS", "@4:KICK_TYPE", "@4:LKH:prefix", "@4:LKH:solver", "@4:MAX_BREADTH", "@4:MAX_CANDIDATES", "@4:MOVE_TYPE", "@4:PATCHING_A", "@4:PATCHING_C", "@4:POPULATION_SIZE", "@4:RESTRICTED_SEARCH", "@4:RUNS", "@4:SUBGRADIENT", "@4:SUBSEQUENT_MOVE_TYPE", "@4:SUBSEQUENT_PATCHING" ],
+      "pc-forbidden" : false,
+      "pc-default" : false
+    },
+    "rc-sample-idx" : 0
+  },
+  "r-run-result" : "TIMEOUT",
+  "r-runtime" : 1.0,
+  "r-run-length" : 0.0,
+  "r-quality" : 0.0,
+  "r-result-seed" : 13638160,
+  "r-addl-run-data" : "0",
+  "r-wallclock-time" : 1.733
+} {
+  "r-rc" : {
+    "@rc-id" : 30,
+    "rc-algo-exec-config" : {
+      "@algo-exec-config-id" : 2
+    },
+    "rc-cutoff" : 1.0,
+    "rc-pisp" : {
+      "@pisp-id" : 2
+    },
+    "rc-pc" : {
+      "@pc-id" : 29
+    },
+    "rc-sample-idx" : 0
+  },
+  "r-run-result" : "TIMEOUT",
+  "r-runtime" : 1.0,
+  "r-run-length" : 0.0,
+  "r-quality" : 0.0,
+  "r-result-seed" : 12793054,
+  "r-addl-run-data" : "0",
+  "r-wallclock-time" : 1.732
+} {
+  "r-rc" : {
+    "@rc-id" : 31,
+    "rc-algo-exec-config" : {
+      "@algo-exec-config-id" : 2
+    },
+    "rc-cutoff" : 1.0,
+    "rc-pisp" : {
+      "@pisp-id" : 3
+    },
+    "rc-pc" : {
+      "@pc-id" : 29
+    },
+    "rc-sample-idx" : 0
+  },
+  "r-run-result" : "SAT",
+  "r-runtime" : 1.0,
+  "r-run-length" : 0.0,
+  "r-quality" : 0.0,
+  "r-result-seed" : 9936394,
+  "r-addl-run-data" : "0",
+  "r-wallclock-time" : 1.634
+} {
+  "r-rc" : {
+    "@rc-id" : 32,
+    "rc-algo-exec-config" : {
+      "@algo-exec-config-id" : 2
+    },
+    "rc-cutoff" : 1.0,
+    "rc-pisp" : {
+      "@pisp-id" : 32,
+      "pisp-pi" : {
+        "@pi-id" : 37
+      },
+      "pisp-seed" : 11997190
+    },
+    "rc-pc" : {
+      "@pc-id" : 15
+    },
+    "rc-sample-idx" : 0
+  },
+  "r-run-result" : "TIMEOUT",
+  "r-runtime" : 1.0,
+  "r-run-length" : 0.0,
+  "r-quality" : 0.0,
+  "r-result-seed" : 11997190,
+  "r-addl-run-data" : "0",
+  "r-wallclock-time" : 1.736
+} {
+  "r-rc" : {
+    "@rc-id" : 33,
+    "rc-algo-exec-config" : {
+      "@algo-exec-config-id" : 2
+    },
+    "rc-cutoff" : 1.0,
+    "rc-pisp" : {
+      "@pisp-id" : 14
+    },
+    "rc-pc" : {
+      "@pc-id" : 33,
+      "pc-pcs" : {
+        "@pcs-id" : 2
+      },
+      "pc-settings" : {
+        "@1:ASCENT_CANDIDATES" : "49",
+        "@1:BACKBONE_TRIALS" : "0",
+        "@1:BACKTRACKING" : "NO",
+        "@1:CANDIDATE_SET_TYPE" : "DELAUNAY",
+        "@1:EXTRA_CANDIDATES" : "9",
+        "@1:EXTRA_CANDIDATE_SET_TYPE" : "NEAREST-NEIGHBOR",
+        "@1:GAIN23" : "NO",
+        "@1:GAIN_CRITERION" : "YES",
+        "@1:INITIAL_STEP_SIZE" : "2",
+        "@1:INITIAL_TOUR_ALGORITHM" : "QUICK-BORUVKA",
+        "@1:INITIAL_TOUR_FRACTION" : "0.377629386136628",
+        "@1:KICKS" : "5",
+        "@1:KICK_TYPE" : "4",
+        "@1:LKH:prefix" : "-",
+        "@1:LKH:solver" : "/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH",
+        "@1:MAX_BREADTH" : "1832188773",
+        "@1:MAX_CANDIDATES" : "2",
+        "@1:MOVE_TYPE" : "6",
+        "@1:PATCHING_A" : "1",
+        "@1:PATCHING_C" : "4",
+        "@1:POPULATION_SIZE" : "57",
+        "@1:RESTRICTED_SEARCH" : "YES",
+        "@1:RUNS" : "10000",
+        "@1:SUBGRADIENT" : "NO",
+        "@1:SUBSEQUENT_MOVE_TYPE" : "3",
+        "@1:SUBSEQUENT_PATCHING" : "YES",
+        "@2:ASCENT_CANDIDATES" : "42",
+        "@2:BACKBONE_TRIALS" : "1",
+        "@2:BACKTRACKING" : "YES",
+        "@2:CANDIDATE_SET_TYPE" : "DELAUNAY",
+        "@2:EXTRA_CANDIDATES" : "0",
+        "@2:EXTRA_CANDIDATE_SET_TYPE" : "QUADRANT",
+        "@2:GAIN23" : "NO",
+        "@2:GAIN_CRITERION" : "YES",
+        "@2:INITIAL_STEP_SIZE" : "4",
+        "@2:INITIAL_TOUR_ALGORITHM" : "SIERPINSKI",
+        "@2:INITIAL_TOUR_FRACTION" : "0.4443584031631653",
+        "@2:KICKS" : "5",
+        "@2:KICK_TYPE" : "5",
+        "@2:LKH:prefix" : "-",
+        "@2:LKH:solver" : "/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH",
+        "@2:MAX_BREADTH" : "767803755",
+        "@2:MAX_CANDIDATES" : "7",
+        "@2:MOVE_TYPE" : "2",
+        "@2:PATCHING_A" : "0",
+        "@2:PATCHING_C" : "4",
+        "@2:POPULATION_SIZE" : "40",
+        "@2:RESTRICTED_SEARCH" : "NO",
+        "@2:RUNS" : "10000",
+        "@2:SUBGRADIENT" : "NO",
+        "@2:SUBSEQUENT_MOVE_TYPE" : "0",
+        "@2:SUBSEQUENT_PATCHING" : "NO",
+        "@3:ASCENT_CANDIDATES" : "59",
+        "@3:BACKBONE_TRIALS" : "0",
+        "@3:BACKTRACKING" : "YES",
+        "@3:CANDIDATE_SET_TYPE" : "QUADRANT",
+        "@3:EXTRA_CANDIDATES" : "1",
+        "@3:EXTRA_CANDIDATE_SET_TYPE" : "NEAREST-NEIGHBOR",
+        "@3:GAIN23" : "NO",
+        "@3:GAIN_CRITERION" : "YES",
+        "@3:INITIAL_STEP_SIZE" : "5",
+        "@3:INITIAL_TOUR_ALGORITHM" : "BORUVKA",
+        "@3:INITIAL_TOUR_FRACTION" : "0.7701756425685666",
+        "@3:KICKS" : "0",
+        "@3:KICK_TYPE" : "4",
+        "@3:LKH:prefix" : "-",
+        "@3:LKH:solver" : "/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH",
+        "@3:MAX_BREADTH" : "1053394154",
+        "@3:MAX_CANDIDATES" : "7",
+        "@3:MOVE_TYPE" : "3",
+        "@3:PATCHING_A" : "1",
+        "@3:PATCHING_C" : "5",
+        "@3:POPULATION_SIZE" : "87",
+        "@3:RESTRICTED_SEARCH" : "NO",
+        "@3:RUNS" : "10000",
+        "@3:SUBGRADIENT" : "NO",
+        "@3:SUBSEQUENT_MOVE_TYPE" : "5",
+        "@3:SUBSEQUENT_PATCHING" : "YES",
+        "@4:ASCENT_CANDIDATES" : "50",
+        "@4:BACKBONE_TRIALS" : "0",
+        "@4:BACKTRACKING" : "NO",
+        "@4:CANDIDATE_SET_TYPE" : "ALPHA",
+        "@4:EXTRA_CANDIDATES" : "0",
+        "@4:EXTRA_CANDIDATE_SET_TYPE" : "QUADRANT",
+        "@4:GAIN23" : "YES",
+        "@4:GAIN_CRITERION" : "NO",
+        "@4:INITIAL_STEP_SIZE" : "4",
+        "@4:INITIAL_TOUR_ALGORITHM" : "BORUVKA",
+        "@4:INITIAL_TOUR_FRACTION" : "0.8767197672639448",
+        "@4:KICKS" : "1",
+        "@4:KICK_TYPE" : "0",
+        "@4:LKH:prefix" : "-",
+        "@4:LKH:solver" : "/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH",
+        "@4:MAX_BREADTH" : "1021809766",
+        "@4:MAX_CANDIDATES" : "7",
+        "@4:MOVE_TYPE" : "2",
+        "@4:PATCHING_A" : "4",
+        "@4:PATCHING_C" : "5",
+        "@4:POPULATION_SIZE" : "98",
+        "@4:RESTRICTED_SEARCH" : "NO",
+        "@4:RUNS" : "10000",
+        "@4:SUBGRADIENT" : "NO",
+        "@4:SUBSEQUENT_MOVE_TYPE" : "3",
+        "@4:SUBSEQUENT_PATCHING" : "YES"
+      },
+      "pc-active-parameters" : [ "@1:ASCENT_CANDIDATES", "@1:BACKBONE_TRIALS", "@1:BACKTRACKING", "@1:CANDIDATE_SET_TYPE", "@1:EXTRA_CANDIDATES", "@1:GAIN23", "@1:GAIN_CRITERION", "@1:INITIAL_STEP_SIZE", "@1:INITIAL_TOUR_ALGORITHM", "@1:INITIAL_TOUR_FRACTION", "@1:KICKS", "@1:KICK_TYPE", "@1:LKH:prefix", "@1:LKH:solver", "@1:MAX_BREADTH", "@1:MAX_CANDIDATES", "@1:MOVE_TYPE", "@1:PATCHING_A", "@1:PATCHING_C", "@1:POPULATION_SIZE", "@1:RESTRICTED_SEARCH", "@1:RUNS", "@1:SUBGRADIENT", "@1:SUBSEQUENT_MOVE_TYPE", "@1:SUBSEQUENT_PATCHING", "@2:ASCENT_CANDIDATES", "@2:BACKBONE_TRIALS", "@2:BACKTRACKING", "@2:CANDIDATE_SET_TYPE", "@2:EXTRA_CANDIDATES", "@2:EXTRA_CANDIDATE_SET_TYPE", "@2:GAIN23", "@2:GAIN_CRITERION", "@2:INITIAL_STEP_SIZE", "@2:INITIAL_TOUR_ALGORITHM", "@2:INITIAL_TOUR_FRACTION", "@2:KICKS", "@2:KICK_TYPE", "@2:LKH:prefix", "@2:LKH:solver", "@2:MAX_BREADTH", "@2:MAX_CANDIDATES", "@2:MOVE_TYPE", "@2:PATCHING_A", "@2:PATCHING_C", "@2:POPULATION_SIZE", "@2:RESTRICTED_SEARCH", "@2:RUNS", "@2:SUBGRADIENT", "@2:SUBSEQUENT_MOVE_TYPE", "@2:SUBSEQUENT_PATCHING", "@3:ASCENT_CANDIDATES", "@3:BACKBONE_TRIALS", "@3:BACKTRACKING", "@3:CANDIDATE_SET_TYPE", "@3:EXTRA_CANDIDATES", "@3:GAIN23", "@3:GAIN_CRITERION", "@3:INITIAL_STEP_SIZE", "@3:INITIAL_TOUR_ALGORITHM", "@3:INITIAL_TOUR_FRACTION", "@3:KICKS", "@3:KICK_TYPE", "@3:LKH:prefix", "@3:LKH:solver", "@3:MAX_BREADTH", "@3:MAX_CANDIDATES", "@3:MOVE_TYPE", "@3:PATCHING_A", "@3:PATCHING_C", "@3:POPULATION_SIZE", "@3:RESTRICTED_SEARCH", "@3:RUNS", "@3:SUBGRADIENT", "@3:SUBSEQUENT_MOVE_TYPE", "@3:SUBSEQUENT_PATCHING", "@4:ASCENT_CANDIDATES", "@4:BACKBONE_TRIALS", "@4:BACKTRACKING", "@4:CANDIDATE_SET_TYPE", "@4:EXTRA_CANDIDATES", "@4:EXTRA_CANDIDATE_SET_TYPE", "@4:GAIN23", "@4:GAIN_CRITERION", "@4:INITIAL_STEP_SIZE", "@4:INITIAL_TOUR_ALGORITHM", "@4:INITIAL_TOUR_FRACTION", "@4:KICKS", "@4:KICK_TYPE", "@4:LKH:prefix", "@4:LKH:solver", "@4:MAX_BREADTH", "@4:MAX_CANDIDATES", "@4:MOVE_TYPE", "@4:PATCHING_A", "@4:PATCHING_C", "@4:POPULATION_SIZE", "@4:RESTRICTED_SEARCH", "@4:RUNS", "@4:SUBGRADIENT", "@4:SUBSEQUENT_MOVE_TYPE", "@4:SUBSEQUENT_PATCHING" ],
+      "pc-forbidden" : false,
+      "pc-default" : false
+    },
+    "rc-sample-idx" : 0
+  },
+  "r-run-result" : "TIMEOUT",
+  "r-runtime" : 1.0,
+  "r-run-length" : 0.0,
+  "r-quality" : 0.0,
+  "r-result-seed" : 16725982,
+  "r-addl-run-data" : "0",
+  "r-wallclock-time" : 1.733
+} {
+  "r-rc" : {
+    "@rc-id" : 34,
+    "rc-algo-exec-config" : {
+      "@algo-exec-config-id" : 2
+    },
+    "rc-cutoff" : 1.0,
+    "rc-pisp" : {
+      "@pisp-id" : 28
+    },
+    "rc-pc" : {
+      "@pc-id" : 33
+    },
+    "rc-sample-idx" : 0
+  },
+  "r-run-result" : "TIMEOUT",
+  "r-runtime" : 1.0,
+  "r-run-length" : 0.0,
+  "r-quality" : 0.0,
+  "r-result-seed" : 9364247,
+  "r-addl-run-data" : "0",
+  "r-wallclock-time" : 1.732
+} {
+  "r-rc" : {
+    "@rc-id" : 35,
+    "rc-algo-exec-config" : {
+      "@algo-exec-config-id" : 2
+    },
+    "rc-cutoff" : 1.0,
+    "rc-pisp" : {
+      "@pisp-id" : 20
+    },
+    "rc-pc" : {
+      "@pc-id" : 33
+    },
+    "rc-sample-idx" : 0
+  },
+  "r-run-result" : "TIMEOUT",
+  "r-runtime" : 1.0,
+  "r-run-length" : 0.0,
+  "r-quality" : 0.0,
+  "r-result-seed" : 13638160,
+  "r-addl-run-data" : "0",
+  "r-wallclock-time" : 1.735
+} {
+  "r-rc" : {
+    "@rc-id" : 36,
+    "rc-algo-exec-config" : {
+      "@algo-exec-config-id" : 2
+    },
+    "rc-cutoff" : 1.0,
+    "rc-pisp" : {
+      "@pisp-id" : 10
+    },
+    "rc-pc" : {
+      "@pc-id" : 33
+    },
+    "rc-sample-idx" : 0
+  },
+  "r-run-result" : "TIMEOUT",
+  "r-runtime" : 1.0,
+  "r-run-length" : 0.0,
+  "r-quality" : 0.0,
+  "r-result-seed" : 15488441,
+  "r-addl-run-data" : "0",
+  "r-wallclock-time" : 1.735
+} {
+  "r-rc" : {
+    "@rc-id" : 37,
+    "rc-algo-exec-config" : {
+      "@algo-exec-config-id" : 2
+    },
+    "rc-cutoff" : 1.0,
+    "rc-pisp" : {
+      "@pisp-id" : 32
+    },
+    "rc-pc" : {
+      "@pc-id" : 33
+    },
+    "rc-sample-idx" : 0
+  },
+  "r-run-result" : "SAT",
+  "r-runtime" : 1.0,
+  "r-run-length" : 0.0,
+  "r-quality" : 0.0,
+  "r-result-seed" : 11997190,
+  "r-addl-run-data" : "0",
+  "r-wallclock-time" : 1.435
+}

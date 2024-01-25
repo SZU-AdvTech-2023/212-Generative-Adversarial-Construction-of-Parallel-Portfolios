@@ -1,0 +1,109 @@
+/home/liusc/projects/ACPP/Solver/Concorde/concorde 67uniform.txt
+Host: localhost.localdomain  Current process id: 1699
+Using random seed 1544261211
+Problem Name: portgen-526-7642462
+portgen N=526, seed=7642462
+Problem Type: TSP
+Number of Nodes: 526
+Rounded Euclidean Norm (CC_EUCLIDEAN)
+Set initial upperbound to 17202650 (from tour)
+  LP Value  1: 16649976.500000  (0.04 seconds)
+  LP Value  2: 17044311.681818  (0.11 seconds)
+  LP Value  3: 17130715.498728  (0.20 seconds)
+  LP Value  4: 17167719.479826  (0.36 seconds)
+  LP Value  5: 17179760.316721  (0.57 seconds)
+  LP Value  6: 17182432.169231  (0.74 seconds)
+  LP Value  7: 17185603.070833  (0.88 seconds)
+  LP Value  8: 17188438.467242  (1.09 seconds)
+  LP Value  9: 17189803.875000  (1.43 seconds)
+  LP Value 10: 17190355.055556  (1.80 seconds)
+  LP Value 11: 17191309.140855  (2.32 seconds)
+  LP Value 12: 17191756.986159  (2.74 seconds)
+  LP Value 13: 17192010.148148  (3.12 seconds)
+  LP Value 14: 17192244.220513  (4.09 seconds)
+New lower bound: 17192244.220513
+  LP Value  1: 17192367.118185  (4.45 seconds)
+  LP Value  2: 17192422.593220  (4.78 seconds)
+recomputing rownorms ...
+  LP Value  3: 17192422.593220  (5.12 seconds)
+New lower bound: 17192422.593220
+Final lower bound 17192422.593220, upper bound 17202650.000000
+Exact lower bound: 17192422.593220
+DIFF: 0.000000
+Time for Total: 5.24 seconds (5.24 total in 1 calls)
+Final LP has 756 rows, 1183 columns, 6336 nonzeros
+LOWER BOUND: 17192422.593220   ACTIVE NODES: 1
+
+Task 0: Branching on node 0
+BBnode 0 split into 1 (17193206.11) 2 (17194600.00) (0.57 seconds)
+LOWER BOUND: 17193206.111111   ACTIVE NODES: 2
+
+Task 1: Cutting on node 1
+recomputing rownorms ...
+Writing Pool: 460 cuts
+BBnode 1 (now 3) done cutting: lowerbound 17195080.74 (1.17 seconds)
+LOWER BOUND: 17194600.000000   ACTIVE NODES: 2
+
+Task 2: Cutting on node 2
+New upperbound from x-heuristic: 17202595.00
+TOUR FOUND - upperbound is 17202595.00
+Writing Pool: 498 cuts
+BBnode 2 (now 4) done cutting: lowerbound 17195937.00 (1.41 seconds)
+LOWER BOUND: 17195080.742857   ACTIVE NODES: 2
+
+Task 3: Branching on node 3
+BBnode 3 split into 5 (17198148.10) 6 (17196107.22) (0.47 seconds)
+LOWER BOUND: 17195937.000000   ACTIVE NODES: 3
+
+Task 4: Branching on node 4
+BBnode 4 split into 7 (17196023.20) 8 (17195937.00) (0.02 seconds)
+LOWER BOUND: 17195937.000000   ACTIVE NODES: 4
+
+Task 5: Cutting on node 8
+Writing Pool: 601 cuts
+BBnode 8 (now 9) done cutting: lowerbound 17200771.38 (3.10 seconds)
+LOWER BOUND: 17196023.200000   ACTIVE NODES: 4
+
+Task 6: Cutting on node 7
+Writing Pool: 624 cuts
+BBnode 7 (now 10) done cutting: lowerbound 17196181.14 (1.13 seconds)
+LOWER BOUND: 17196107.222222   ACTIVE NODES: 4
+
+Task 7: Cutting on node 6
+New upperbound from x-heuristic: 17198122.00
+recomputing rownorms ...
+TOUR FOUND - upperbound is 17198122.00
+Writing Pool: 657 cuts
+BBnode 6 (now 11) done cutting: lowerbound 17197900.70 (1.57 seconds)
+LOWER BOUND: 17196181.135593   ACTIVE NODES: 4
+
+Task 8: Branching on node 10
+BBnode 10 split into 12 (17200436.10X) 13 (17196990.61) (0.43 seconds)
+Child 0 is pruned
+LOWER BOUND: 17196990.609753   ACTIVE NODES: 4
+
+Task 9: Cutting on node 13
+Writing Pool: 681 cuts
+BBnode 13 (now 14) can be pruned: upperbound 17198122.00 (0.19 seconds)
+LOWER BOUND: 17197900.700000   ACTIVE NODES: 3
+
+Task 10: Branching on node 11
+BBnode 11 split into 15 (17198122.00X) 16 (17204346.00X) (0.43 seconds)
+Child 0 is pruned
+Child 1 is pruned
+LOWER BOUND: 17198148.098009   ACTIVE NODES: 2
+
+Task 11: Cutting on node 5
+Do not cut, the lp is within 1.0 of the upperbound
+Writing Pool: 681 cuts
+BBnode 5 (now 17) can be pruned: upperbound 17198122.00 (0.01 seconds)
+LOWER BOUND: 17200771.384332   ACTIVE NODES: 1
+
+Task 12: Branching on node 9
+Do not branch, the lp is within 1.0 of the upperbound
+BBnode 9 is pruned - no branching (0.01 seconds)
+
+Task 13: Exit
+Optimal Solution: 17198122.00
+Number of bbnodes: 11
+Total Running Time: 16.13 (seconds)  Branching Time: 10.51 (seconds)

@@ -1,0 +1,503 @@
+17:43:29.281 [main] TRACE c.u.c.b.a.l.ComplexLoggingOptions - Logging initialized to use file:ca/ubc/cs/beta/aeatk/logging/complex-logback.xml
+17:43:29.283 [main] INFO  c.u.c.b.a.l.ComplexLoggingOptions - Logging to: /home/liusc/projects/ACPP/smac-v2.10.03-master-778/'./output/'/run1/log-run1.txt
+17:43:29.290 [main] INFO  c.u.c.b.a.m.version.VersionTracker - Version of Algorithm Execution & Abstraction Toolkit is v2.10.03-master-814 (ebf4c8c913d5) 
+17:43:29.290 [main] INFO  c.u.c.b.a.m.version.VersionTracker - Version of Java Runtime Environment is OpenJDK 64-Bit Server VM (1.8.0_191) 
+17:43:29.290 [main] INFO  c.u.c.b.a.m.version.VersionTracker - Version of OS is Linux 3.10.0-957.el7.x86_64 (amd64) 
+17:43:29.290 [main] INFO  c.u.c.b.a.m.version.VersionTracker - Version of Random Forest Library is v1.10.01-master-120 (b68439c2c391) 
+17:43:29.290 [main] INFO  c.u.c.b.a.m.version.VersionTracker - Version of SMAC is v2.10.03-master-778 (3ee628ef9bf2) 
+17:43:29.290 [main] DEBUG c.u.c.b.smac.executors.SMACExecutor - Parsing (default) options from file: /home/liusc/.aeatk/ipc-tae.opt 
+17:43:29.290 [main] DEBUG c.u.c.b.smac.executors.SMACExecutor - Parsing (default) options from file: /home/liusc/.aeatk/help.opt 
+17:43:29.291 [main] DEBUG c.u.c.b.smac.executors.SMACExecutor - Parsing (default) options from file: /home/liusc/.aeatk/smac.opt 
+17:43:29.291 [main] DEBUG c.u.c.b.smac.executors.SMACExecutor - Parsing (default) options from file: /home/liusc/.aeatk/cli-tae.opt 
+17:43:29.291 [main] DEBUG c.u.c.b.smac.executors.SMACExecutor - Parsing (default) options from file: /home/liusc/.aeatk/tae.opt 
+17:43:29.291 [main] INFO  c.u.c.b.a.m.j.JCommanderHelper - Call String: smac --scenario-file /home/liusc/projects/ACPP/AC_output/GLOBAL/run1/scenario.txt --wallclock-limit 60 --seed 1 --validation false --console-log-level TRACE --log-level TRACE 
+17:43:29.291 [main] INFO  c.u.c.b.smac.executors.SMACExecutor - ********** The next bit of output can be ignored, it is merely useful for debugging **********
+17:43:29.291 [main] INFO  c.u.c.b.smac.executors.SMACExecutor - ==========Enviroment Variables===========
+AUTOJUMP_ERROR_PATH=/home/liusc/.local/share/autojump/errors.log
+AUTOJUMP_SOURCED=1
+HISTCONTROL=ignoredups
+HISTSIZE=50000
+HOME=/home/liusc
+HOSTNAME=localhost.localdomain
+LANG=en_US.UTF-8
+LC_CTYPE=en_US.UTF-8
+LESS=-R
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+LOGNAME=liusc
+LSCOLORS=Gxfxcxdxbxegedabagacad
+LS_COLORS=rs=0:di=38;5;27:ln=38;5;51:mh=44;38;5;15:pi=40;38;5;11:so=38;5;13:do=38;5;5:bd=48;5;232;38;5;11:cd=48;5;232;38;5;3:or=48;5;232;38;5;9:mi=05;48;5;232;38;5;15:su=48;5;196;38;5;15:sg=48;5;11;38;5;16:ca=48;5;196;38;5;226:tw=48;5;10;38;5;16:ow=48;5;10;38;5;21:st=48;5;21;38;5;15:ex=38;5;34:*.tar=38;5;9:*.tgz=38;5;9:*.arc=38;5;9:*.arj=38;5;9:*.taz=38;5;9:*.lha=38;5;9:*.lz4=38;5;9:*.lzh=38;5;9:*.lzma=38;5;9:*.tlz=38;5;9:*.txz=38;5;9:*.tzo=38;5;9:*.t7z=38;5;9:*.zip=38;5;9:*.z=38;5;9:*.Z=38;5;9:*.dz=38;5;9:*.gz=38;5;9:*.lrz=38;5;9:*.lz=38;5;9:*.lzo=38;5;9:*.xz=38;5;9:*.bz2=38;5;9:*.bz=38;5;9:*.tbz=38;5;9:*.tbz2=38;5;9:*.tz=38;5;9:*.deb=38;5;9:*.rpm=38;5;9:*.jar=38;5;9:*.war=38;5;9:*.ear=38;5;9:*.sar=38;5;9:*.rar=38;5;9:*.alz=38;5;9:*.ace=38;5;9:*.zoo=38;5;9:*.cpio=38;5;9:*.7z=38;5;9:*.rz=38;5;9:*.cab=38;5;9:*.jpg=38;5;13:*.jpeg=38;5;13:*.gif=38;5;13:*.bmp=38;5;13:*.pbm=38;5;13:*.pgm=38;5;13:*.ppm=38;5;13:*.tga=38;5;13:*.xbm=38;5;13:*.xpm=38;5;13:*.tif=38;5;13:*.tiff=38;5;13:*.png=38;5;13:*.svg=38;5;13:*.svgz=38;5;13:*.mng=38;5;13:*.pcx=38;5;13:*.mov=38;5;13:*.mpg=38;5;13:*.mpeg=38;5;13:*.m2v=38;5;13:*.mkv=38;5;13:*.webm=38;5;13:*.ogm=38;5;13:*.mp4=38;5;13:*.m4v=38;5;13:*.mp4v=38;5;13:*.vob=38;5;13:*.qt=38;5;13:*.nuv=38;5;13:*.wmv=38;5;13:*.asf=38;5;13:*.rm=38;5;13:*.rmvb=38;5;13:*.flc=38;5;13:*.avi=38;5;13:*.fli=38;5;13:*.flv=38;5;13:*.gl=38;5;13:*.dl=38;5;13:*.xcf=38;5;13:*.xwd=38;5;13:*.yuv=38;5;13:*.cgm=38;5;13:*.emf=38;5;13:*.axv=38;5;13:*.anx=38;5;13:*.ogv=38;5;13:*.ogx=38;5;13:*.aac=38;5;45:*.au=38;5;45:*.flac=38;5;45:*.mid=38;5;45:*.midi=38;5;45:*.mka=38;5;45:*.mp3=38;5;45:*.mpc=38;5;45:*.ogg=38;5;45:*.ra=38;5;45:*.wav=38;5;45:*.axa=38;5;45:*.oga=38;5;45:*.spx=38;5;45:*.xspf=38;5;45:
+MAIL=/var/spool/mail/liusc
+PAGER=less
+PATH=/usr/local/bin:/usr/bin:/home/liusc/bin:/usr/local/sbin:/usr/sbin
+PWD=/home/liusc/projects/ACPP/smac-v2.10.03-master-778
+QT_GRAPHICSSYSTEM_CHECKED=1
+SELINUX_LEVEL_REQUESTED=
+SELINUX_ROLE_REQUESTED=
+SELINUX_USE_CURRENT_RANGE=
+SHELL=/bin/zsh
+SHLVL=1
+SSH_CLIENT=10.21.144.4 61894 22
+SSH_CONNECTION=10.21.144.4 61894 10.20.121.197 22
+SSH_TTY=/dev/pts/2
+TERM=xterm-256color
+USER=liusc
+XDG_RUNTIME_DIR=/run/user/1000
+XDG_SESSION_ID=405
+XMODIFIERS=@im=none
+ZSH=/home/liusc/.oh-my-zsh
+
+17:43:29.292 [main] INFO  c.u.c.b.smac.executors.SMACExecutor - Hostname:localhost.localdomain
+17:43:29.292 [main] INFO  c.u.c.b.smac.executors.SMACExecutor - ==========System Properties==============
+ERRLOG=/home/liusc/projects/ACPP/smac-v2.10.03-master-778/'./output/'/run1/log-err1.txt
+NUMRUN=1
+OUTPUTDIR=/home/liusc/projects/ACPP/smac-v2.10.03-master-778/'./output/'/run1
+ROOT-LEVEL=TRACE
+RUNLOG=/home/liusc/projects/ACPP/smac-v2.10.03-master-778/'./output/'/run1/log-run1.txt
+STDOUT-LEVEL=TRACE
+WARNLOG=/home/liusc/projects/ACPP/smac-v2.10.03-master-778/'./output/'/run1/log-warn1.txt
+awt.toolkit=sun.awt.X11.XToolkit
+file.encoding=UTF-8
+file.encoding.pkg=sun.io
+file.separator=/
+java.awt.graphicsenv=sun.awt.X11GraphicsEnvironment
+java.awt.printerjob=sun.print.PSPrinterJob
+java.class.path=/home/liusc/projects/ACPP/smac-v2.10.03-master-778/conf/:/home/liusc/projects/ACPP/smac-v2.10.03-master-778/patches/:/home/liusc/projects/ACPP/smac-v2.10.03-master-778/lib/aeatk.jar:/home/liusc/projects/ACPP/smac-v2.10.03-master-778/lib/aeatk-src.jar:/home/liusc/projects/ACPP/smac-v2.10.03-master-778/lib/commons-collections-3.2.1.jar:/home/liusc/projects/ACPP/smac-v2.10.03-master-778/lib/commons-collections-3.2.1-sources.jar:/home/liusc/projects/ACPP/smac-v2.10.03-master-778/lib/commons-io-2.1.jar:/home/liusc/projects/ACPP/smac-v2.10.03-master-778/lib/commons-math-2.2.jar:/home/liusc/projects/ACPP/smac-v2.10.03-master-778/lib/commons-math3-3.3.jar:/home/liusc/projects/ACPP/smac-v2.10.03-master-778/lib/DomainInter.jar:/home/liusc/projects/ACPP/smac-v2.10.03-master-778/lib/exp4j-0.3.10.jar:/home/liusc/projects/ACPP/smac-v2.10.03-master-778/lib/exp4j-0.4.3.BETA-3.jar:/home/liusc/projects/ACPP/smac-v2.10.03-master-778/lib/fastrf.jar:/home/liusc/projects/ACPP/smac-v2.10.03-master-778/lib/fastrf-src.jar:/home/liusc/projects/ACPP/smac-v2.10.03-master-778/lib/guava-14.0.1.jar:/home/liusc/projects/ACPP/smac-v2.10.03-master-778/lib/jackson-annotations-2.3.1.jar:/home/liusc/projects/ACPP/smac-v2.10.03-master-778/lib/jackson-core-2.3.1.jar:/home/liusc/projects/ACPP/smac-v2.10.03-master-778/lib/jackson-databind-2.3.1.jar:/home/liusc/projects/ACPP/smac-v2.10.03-master-778/lib/Jama-1.0.2.jar:/home/liusc/projects/ACPP/smac-v2.10.03-master-778/lib/jcip-annotations.jar:/home/liusc/projects/ACPP/smac-v2.10.03-master-778/lib/jcip-annotations-src.jar:/home/liusc/projects/ACPP/smac-v2.10.03-master-778/lib/jcommander.jar:/home/liusc/projects/ACPP/smac-v2.10.03-master-778/lib/jmatharray.jar:/home/liusc/projects/ACPP/smac-v2.10.03-master-778/lib/logback-access-1.1.2.jar:/home/liusc/projects/ACPP/smac-v2.10.03-master-778/lib/logback-classic-1.1.2.jar:/home/liusc/projects/ACPP/smac-v2.10.03-master-778/lib/logback-core-1.1.2.jar:/home/liusc/projects/ACPP/smac-v2.10.03-master-778/lib/numerics4j-1.3.jar:/home/liusc/projects/ACPP/smac-v2.10.03-master-778/lib/opencsv-2.3.jar:/home/liusc/projects/ACPP/smac-v2.10.03-master-778/lib/slf4j-api-1.7.5.jar:/home/liusc/projects/ACPP/smac-v2.10.03-master-778/lib/smac.jar:/home/liusc/projects/ACPP/smac-v2.10.03-master-778/lib/smac-src.jar:/home/liusc/projects/ACPP/smac-v2.10.03-master-778/lib/spi-0.2.4.jar:/home/liusc/projects/ACPP/smac-v2.10.03-master-778/*.jar:/home/liusc/projects/ACPP/smac-v2.10.03-master-778/patches/
+java.class.version=52.0
+java.endorsed.dirs=/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.191.b12-1.el7_6.x86_64/jre/lib/endorsed
+java.ext.dirs=/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.191.b12-1.el7_6.x86_64/jre/lib/ext:/usr/java/packages/lib/ext
+java.home=/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.191.b12-1.el7_6.x86_64/jre
+java.io.tmpdir=/tmp
+java.library.path=/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+java.runtime.name=OpenJDK Runtime Environment
+java.runtime.version=1.8.0_191-b12
+java.specification.name=Java Platform API Specification
+java.specification.vendor=Oracle Corporation
+java.specification.version=1.8
+java.vendor=Oracle Corporation
+java.vendor.url=http://java.oracle.com/
+java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+java.version=1.8.0_191
+java.vm.info=mixed mode
+java.vm.name=OpenJDK 64-Bit Server VM
+java.vm.specification.name=Java Virtual Machine Specification
+java.vm.specification.vendor=Oracle Corporation
+java.vm.specification.version=1.8
+java.vm.vendor=Oracle Corporation
+java.vm.version=25.191-b12
+line.separator=
+
+logback.configurationFile=ca/ubc/cs/beta/aeatk/logging/complex-logback.xml
+os.arch=amd64
+os.name=Linux
+os.version=3.10.0-957.el7.x86_64
+path.separator=:
+sun.arch.data.model=64
+sun.boot.class.path=/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.191.b12-1.el7_6.x86_64/jre/lib/resources.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.191.b12-1.el7_6.x86_64/jre/lib/rt.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.191.b12-1.el7_6.x86_64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.191.b12-1.el7_6.x86_64/jre/lib/jsse.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.191.b12-1.el7_6.x86_64/jre/lib/jce.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.191.b12-1.el7_6.x86_64/jre/lib/charsets.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.191.b12-1.el7_6.x86_64/jre/lib/jfr.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.191.b12-1.el7_6.x86_64/jre/classes
+sun.boot.library.path=/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.191.b12-1.el7_6.x86_64/jre/lib/amd64
+sun.cpu.endian=little
+sun.cpu.isalist=
+sun.io.unicode.encoding=UnicodeLittle
+sun.java.command=ca.ubc.cs.beta.aeatk.ant.execscript.Launcher ca.ubc.cs.beta.smac.executors.SMACExecutor --scenario-file /home/liusc/projects/ACPP/AC_output/GLOBAL/run1/scenario.txt --wallclock-limit 60 --seed 1 --validation false --console-log-level TRACE --log-level TRACE
+sun.java.launcher=SUN_STANDARD
+sun.jnu.encoding=UTF-8
+sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+sun.os.patch.level=unknown
+user.country=US
+user.dir=/home/liusc/projects/ACPP/smac-v2.10.03-master-778
+user.home=/home/liusc
+user.language=en
+user.name=liusc
+user.timezone=Asia/Shanghai
+
+17:43:29.294 [main] INFO  c.u.c.b.a.m.j.JCommanderHelper - ==========Configuration Options==========
+[SMACOptions]
+ adaptiveCapping = true
+ alwaysRunInitialConfiguration = false
+ capAddSlack = 1.0
+ capSlack = 1.3
+classicInitModeOpts = [ClassicInitializationProcedureOptions]
+		 initialIncumbentRuns = 1
+
+dciModeOpts = [DoublingCappingInitializationProcedureOptions]
+		 numberOfChallengers = 2
+		 numberOfRunsPerChallenger = 2
+
+ucip = [UnbiasChallengerInitializationProcedureOptions]
+		 numberOfChallengers = 2
+		 numberOfRunsPerChallenger = 2
+		 cpulimit = 0
+
+ deterministicInstanceOrdering = false
+ doValidation = false
+ execMode = SMAC
+ experimentDir = /home/liusc/projects/ACPP/smac-v2.10.03-master-778/
+ expFunc = null
+help = [HelpOptions]
+		 showHiddenParameters = false
+		 showHelp = false
+		 helpLevel = BASIC
+		 showVersion = false
+		 helpDefaults = /home/liusc/.aeatk/help.opt
+
+ initialChallengeRuns = 1
+ initialIncumbent = DEFAULT
+ initializationMode = CLASSIC
+ intensificationPercentage = 0.5
+ initialChallengers = []
+ initialChallengersIntensificationTime = 2147483647
+ iterativeCappingBreakOnFirstCompletion = false
+ iterativeCappingK = 1
+logOptions = [ComplexLoggingOptions]
+		 consoleLogLevel = TRACE
+		 logLevel = TRACE
+
+ maxIncumbentRuns = 2000
+mbOptions = [ModelBuildingOptions]
+		 maskCensoredDataAsKappaMax = false
+		 maskInactiveConditionalParametersAsDefaultValue = true
+		 maskCensoredDataAsUncensored = false
+		 imputationIterations = 2
+
+ modelHashCodeFile = null
+ numberOfChallengers = 10
+ numberOfRandomConfigsInEI = 10000
+ numberOfRandomConfigsUsedForLocalSearch = 0
+ numPCA = 7
+ optionFile = null
+ optionFile2 = null
+randomForestOptions = [RandomForestOptions]
+		 brokenVarianceCalculation = false
+		 freeMemoryPercentageToSubsample = 0.25
+		 fullTreeBootstrap = false
+		 ignoreConditionality = false
+		 imputeMean = false
+		 logModel = true
+		 minVariance = 1.0E-14
+		 numTrees = 10
+		 penalizeImputedValues = false
+		 preprocessMarginal = true
+		 ratioFeatures = 0.8333333333333334
+		 shuffleImputedValues = false
+		 splitMin = 10
+		 storeDataInLeaves = false
+		 subsamplePercentage = 0.9
+		 subsampleValuesWhenLowMemory = false
+
+runGroupOptions = [RunGroupOptions]
+		 runGroupName = %SCENARIO_NAME
+		 runGroupExit = false
+		 replacementChar = %
+
+scenarioConfig = [ScenarioOptions]
+		 _runObj = RUNTIME
+		 intraInstanceObj = MEAN10
+		 interInstanceObj = MEAN
+		limitOptions = [TerminationCriteriaOptions]
+				 tunerTimeout = 2147483647
+				 numIterations = 2147483647
+				 runtimeLimit = 60
+				 totalNumRunsLimit = 9223372036854775807
+				 countSMACTimeAsTunerTime = true
+				 challengeIncumbentAttempts = 1000
+				 fileToWatch = null
+
+		instanceOptions = [ProblemInstanceOptions]
+				 instanceFile = /home/liusc/projects/ACPP/instance_set/TSP/indices/training_index_small_1
+				 instanceFeatureFile = null
+				 testInstanceFile = /home/liusc/projects/ACPP/instance_set/TSP/indices/training_index_small_1
+				 checkInstanceFilesExist = false
+				 useInstances = true
+				 instanceSuffix = null
+				 testInstanceSuffix = null
+				 ignoreFeatures = false
+
+		 scenarioFile = /home/liusc/projects/ACPP/AC_output/GLOBAL/run1/scenario.txt
+		 outputDirectory = './output/'
+		 invalidScenarioReason = null
+		algoExecOptions = [AlgorithmExecutionOptions]
+				 algoExec = ../src/util/parallel_solver_wrapper.py
+				 algoExecDir = .
+				 deterministic = false
+				 cutoffTime = 1.0
+				 cutoffLength = -1.0
+				 additionalContext = {}
+				taeOpts = [TargetAlgorithmEvaluatorOptions]
+						 targetAlgorithmEvaluator = CLI
+						 abortOnCrash = false
+						 abortOnFirstRunCrash = true
+						 retryCount = 0
+						 cacheRuns = false
+						 cacheDebug = false
+						 useDynamicCappingExclusively = false
+						 reportStrictlyIncreasingRuntimes = false
+						 boundRuns = false
+						 maxConcurrentAlgoExecs = 1
+						 exitOnFailure = false
+						 runHashCodeFile = null
+						 leakMemory = false
+						 leakMemoryAmount = 1024
+						 verifySAT = null
+						 checkSATConsistency = true
+						 checkSATConsistencyException = true
+						 callObserverBeforeCompletion = true
+						prePostOptions = [PrePostCommandOptions]
+								 preCommand = null
+								 postCommand = null
+								 exceptionOnError = false
+								 logOutput = true
+								 directory = /home/liusc/projects/ACPP/smac-v2.10.03-master-778/.
+
+						 checkResultOrderConsistent = false
+						 skipOutstandingEvaluationsTAE = false
+						 logRequestResponses = false
+						 logRequestResponsesRCOnly = false
+						 trackRunsScheduled = false
+						 trackRunsScheduledResolution = 1.0
+						 uncleanShutdownCheck = true
+						 killCaptimeExceedingRun = true
+						 killCaptimeExceedingRunFactor = 10.0
+						 checkRunConfigsUnique = true
+						 checkRunConfigsUniqueException = true
+						 observeWalltimeIfNoRuntime = true
+						 observeWalltimeScale = 0.95
+						 observeWalltimeDelay = 5.0
+						 synchronousObserver = true
+						 taeDefaults = /home/liusc/.aeatk/tae.opt
+						ttaedo = [TransformTargetAlgorithmEvaluatorDecoratorOptions]
+								 transform = false
+								 transformValidValuesOnly = true
+								 SAT_runtime_transform = R
+								 SAT_quality_transform = Q
+								 UNSAT_runtime_transform = R
+								 UNSAT_quality_transform = Q
+								 TIMEOUT_runtime_transform = R
+								 TIMEOUT_quality_transform = Q
+								 other_runtime_transform = R
+								 other_quality_transform = Q
+
+						tForkOptions = [ForkingTargetAlgorithmEvaluatorDecoratorOptions]
+								 forkToTAE = null
+								fPolicyOptions = [ForkingTargetAlgorithmEvaluatorDecoratorPolicyOptions]
+										 fPolicy = null
+										 duplicateOnSlaveQuickTimeout = 5
+
+
+						 fileToWatch = null
+						 warnIfNoResponseFromTAE = 120
+						 taeStopProcessingOnShutdown = true
+						 filecache = false
+						 fileCacheSource = /home/liusc/projects/ACPP/smac-v2.10.03-master-778/./runcache
+						 fileCacheOutput = /home/liusc/projects/ACPP/smac-v2.10.03-master-778/./runcache
+						 fileCacheCrashOnMiss = false
+						 transformCrashedQuality = true
+						 transformCrashedQualityValue = 1.0E9
+						 filterZeroCutoffRuns = true
+
+				paramFileDelegate = [ParamConfigurationSpaceOptions]
+						 paramFile = /home/liusc/projects/ACPP/Solver/paramfile/Mul_lkh_pcs.txt
+						 searchSubspace = null
+						 searchSubspaceFile = null
+						 continuousNeighbours = 4
+
+
+
+seedOptions = [SeedOptions]
+		 seedOffset = 0
+		 numRun = 1
+		 initialSeedMap = {}
+
+ smacDefaults = /home/liusc/.aeatk/smac.opt
+stateOpts = [StateFactoryOptions]
+		 stateSerializer = LEGACY
+		 statedeSerializer = LEGACY
+		 restoreStateFrom = null
+		 restoreIteration = null
+		 restoreScenario = null
+		 cleanOldStatesOnSuccess = true
+		 saveContextWithState = true
+
+trackingOptions = [ParamConfigurationOriginTrackingOptions]
+		 configTracking = false
+
+validationOptions = [ValidationOptions]
+		 maxTimestamp = -1.0
+		 minTimestamp = 0.0
+		 multFactor = 2.0
+		 numberOfTestInstances = 2147483647
+		 numberOfTestSeedsPerInstance = 1000
+		 numberOfValidationRuns = 1
+		 outputFileSuffix = 
+		 saveStateFile = false
+		 useWallClockTime = true
+		 validateAll = false
+		 validateOnlyIfTunerTimeReached = 0.0
+		 validateOnlyIfWallTimeReached = 0.0
+		 validateOnlyLastIncumbent = true
+		 validationHeaders = true
+		 validationRoundingMode = UP
+
+warmStartOptions = [WarmStartOptions]
+		 warmStartStateFrom = null
+		 restoreIteration = 2147483647
+
+ validationSeed = 0
+ saveRunsEveryIteration = false
+ stateQuickSaves = true
+ shutdownTAEWhenDone = true
+ validationCores = null
+ shareModelMode = false
+ shareRunDataFrequency = 300
+ shareModeModeTAE = true
+ writeRunData = true
+ defaultHandler = USE_ALL
+ sharedModeModeAssymetricMode = false
+
+[AnalyticTargetAlgorithmEvaluatorOptions]
+ simulateDelay = false
+ cores = 0
+ observerFrequency = 100
+ func = CAMELBACK
+ scaleDelay = 1.0
+
+[BlackHoleTargetAlgorithmEvaluatorOptions]
+ warnings = true
+
+[CommandLineTargetAlgorithmEvaluatorOptions]
+ observerFrequency = 500
+ concurrentExecution = true
+ cores = 1
+ logAllCallStrings = false
+ logAllResultLines = false
+ logAllCallsAndResultLines = false
+ logAllProcessOutput = false
+ listenForUpdates = true
+ paramArgumentsContainQuotes = false
+ pgEnvKillCommand = null
+ pgNiceKillCommand = bash -c "kill -s TERM -%pid"
+ pgForceKillCommand = bash -c "kill -s KILL -%pid"
+ procNiceKillCommand = kill -s TERM %pid
+ procForceKillCommand = kill -s KILL %pid
+ smacDefaults = /home/liusc/.aeatk/cli-tae.opt
+
+[ConstantTargetAlgorithmEvaluatorOptions]
+ runResult = SAT
+ runtime = 1.0
+ quality = 0.0
+ runlength = 0.0
+ additionalRunData = 
+
+[IPCTargetAlgorithmEvaluatorOptions]
+ persistent = false
+ ipcMechanism = UDP
+ encodingMechanism = CALL_STRING
+ remoteHost = 127.0.0.1
+ remotePort = 5050
+ udpPacketSize = 4096
+ localPort = 0
+ execScript = null
+ execScriptOutput = false
+ poolConnections = false
+ ipcDefaults = /home/liusc/.aeatk/ipc-tae.opt
+ asyncThreads = 89
+
+[PreloadedResponseTargetAlgorithmEvaluatorOptions]
+ preloadedResponses = 
+ runLength = -1.0
+ quality = 0.0
+ additionalRunData = 
+
+[RandomResponseTargetAlgorithmEvaluatorOptions]
+ simulateDelay = false
+ additionalRunData = 
+ cores = 0
+ maxResponse = 10.0
+ minResponse = 0.0
+ observerFrequency = 500
+ trendCoefficient = 0.0
+ seed = 1545299008937
+ persistent = false
+ scaleDelay = 1.0
+
+
+17:43:29.298 [main] TRACE c.u.c.b.a.p.ProblemInstanceHelper - Loading instances from file: /home/liusc/projects/ACPP/instance_set/TSP/indices/training_index_small_1 and experiment dir /home/liusc/projects/ACPP/smac-v2.10.03-master-778/
+17:43:29.298 [main] TRACE c.u.c.b.a.p.ProblemInstanceHelper - Reading instances from file /home/liusc/projects/ACPP/instance_set/TSP/indices/training_index_small_1
+17:43:29.298 [main] TRACE c.u.c.b.a.p.ProblemInstanceHelper - Reading instance file detecting format
+17:43:29.300 [main] TRACE c.u.c.b.a.p.ProblemInstanceHelper - Line with only 1 entry found, trying NEW_CSV_INSTANCE_PER_ROW
+17:43:29.301 [main] DEBUG c.u.c.b.a.p.s.RandomInstanceSeedGenerator - Initializing Instance Seed PRNG with Seed -1624182553 and 2147483647 allowed seeds
+17:43:29.301 [main] DEBUG c.u.c.b.a.p.s.RandomInstanceSeedGenerator - Re-Initializing Instance Seed PRNG with Seed -1624182553 and instances 50 
+17:43:29.306 [main] DEBUG c.u.c.b.a.p.ProblemInstanceHelper - Instances loaded from file named: /home/liusc/projects/ACPP/instance_set/TSP/indices/training_index_small_1
+17:43:29.307 [main] TRACE c.u.c.b.a.p.ProblemInstanceOptions - Training Instance Seed Generator reports 2147483647 seeds 
+17:43:29.307 [main] TRACE c.u.c.b.a.p.ProblemInstanceOptions - Training Instance Seed Generator reports that all instances have the same number of available seeds
+17:43:29.307 [main] TRACE c.u.c.b.a.p.ProblemInstanceHelper - Loading instances from file: /home/liusc/projects/ACPP/instance_set/TSP/indices/training_index_small_1 and experiment dir /home/liusc/projects/ACPP/smac-v2.10.03-master-778/
+17:43:29.307 [main] TRACE c.u.c.b.a.p.ProblemInstanceHelper - Reading instances from file /home/liusc/projects/ACPP/instance_set/TSP/indices/training_index_small_1
+17:43:29.307 [main] TRACE c.u.c.b.a.p.ProblemInstanceHelper - Reading instance file detecting format
+17:43:29.308 [main] TRACE c.u.c.b.a.p.ProblemInstanceHelper - Line with only 1 entry found, trying NEW_CSV_INSTANCE_PER_ROW
+17:43:29.308 [main] DEBUG c.u.c.b.a.p.s.RandomInstanceSeedGenerator - Initializing Instance Seed PRNG with Seed 1005703267 and 2147483647 allowed seeds
+17:43:29.308 [main] DEBUG c.u.c.b.a.p.s.RandomInstanceSeedGenerator - Re-Initializing Instance Seed PRNG with Seed 1005703267 and instances 50 
+17:43:29.310 [main] DEBUG c.u.c.b.a.p.ProblemInstanceHelper - Instances loaded from file named: /home/liusc/projects/ACPP/instance_set/TSP/indices/training_index_small_1
+17:43:29.311 [main] TRACE c.u.c.b.a.p.ProblemInstanceOptions - Test Instance Seed Generator reports 2147483647 seeds 
+17:43:29.311 [main] TRACE c.u.c.b.a.p.ProblemInstanceOptions - Test Instance Seed Generator reports that all instances have the same number of available seeds
+17:43:29.312 [main] TRACE c.u.c.b.smac.executors.SMACExecutor - JVM Supports CPU Timing Measurements
+17:43:29.338 [main] TRACE c.u.c.b.a.p.ParamConfigurationSpaceOptions - Configuration space found in /home/liusc/projects/ACPP/Solver/paramfile/Mul_lkh_pcs.txt
+17:43:29.345 [main] TRACE c.u.c.b.a.p.ParamConfigurationSpaceOptions - Configuration space found in ///home/liusc/projects/ACPP/Solver/paramfile/Mul_lkh_pcs.txt
+17:43:29.351 [main] TRACE c.u.c.b.a.p.ParamConfigurationSpaceOptions - Configuration space found in ///home/liusc/projects/ACPP/Solver/paramfile/Mul_lkh_pcs.txt
+17:43:29.354 [main] TRACE c.u.c.b.a.p.ParamConfigurationSpaceOptions - Configuration space found in ///home/liusc/projects/ACPP/Solver/paramfile/Mul_lkh_pcs.txt
+17:43:29.366 [main] INFO  c.u.c.b.a.s.l.LegacyStateFactory - Found previous run data in state output folder: /home/liusc/projects/ACPP/smac-v2.10.03-master-778/'./output/'/run1 , renamed to: old-state-state-run1-1545299009366
+17:43:29.367 [main] DEBUG c.u.cs.beta.smac.builder.SMACBuilder - Configuration Space has at least one continuous parameter or is very large (only bound expressible in IEEE 754 format is Infinity)
+17:43:29.367 [main] DEBUG c.u.c.b.a.t.TargetAlgorithmEvaluatorOptions - Instance Specific Information is NOT compatible with Verifying SAT, disabling option
+17:43:29.370 [main] DEBUG c.u.cs.beta.smac.builder.SMACBuilder - Initial Incumbent is the default "-@1:ASCENT_CANDIDATES '50' -@1:BACKBONE_TRIALS '0' -@1:BACKTRACKING 'NO' -@1:CANDIDATE_SET_TYPE 'ALPHA' -@1:EXTRA_CANDIDATES '0' -@1:EXTRA_CANDIDATE_SET_TYPE 'QUADRANT' -@1:GAIN23 'YES' -@1:GAIN_CRITERION 'YES' -@1:INITIAL_STEP_SIZE '1' -@1:INITIAL_TOUR_ALGORITHM 'WALK' -@1:INITIAL_TOUR_FRACTION '1.0' -@1:KICKS '1' -@1:KICK_TYPE '0' -@1:LKH:prefix '-' -@1:LKH:solver '/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH' -@1:MAX_BREADTH '2147483647' -@1:MAX_CANDIDATES '5' -@1:MOVE_TYPE '5' -@1:PATCHING_A '1' -@1:PATCHING_C '0' -@1:POPULATION_SIZE '50' -@1:RESTRICTED_SEARCH 'YES' -@1:RUNS '10000' -@1:SUBGRADIENT 'YES' -@1:SUBSEQUENT_MOVE_TYPE '0' -@1:SUBSEQUENT_PATCHING 'YES' -@2:ASCENT_CANDIDATES '50' -@2:BACKBONE_TRIALS '0' -@2:BACKTRACKING 'NO' -@2:CANDIDATE_SET_TYPE 'ALPHA' -@2:EXTRA_CANDIDATES '0' -@2:EXTRA_CANDIDATE_SET_TYPE 'QUADRANT' -@2:GAIN23 'YES' -@2:GAIN_CRITERION 'YES' -@2:INITIAL_STEP_SIZE '1' -@2:INITIAL_TOUR_ALGORITHM 'WALK' -@2:INITIAL_TOUR_FRACTION '1.0' -@2:KICKS '1' -@2:KICK_TYPE '0' -@2:LKH:prefix '-' -@2:LKH:solver '/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH' -@2:MAX_BREADTH '2147483647' -@2:MAX_CANDIDATES '5' -@2:MOVE_TYPE '5' -@2:PATCHING_A '1' -@2:PATCHING_C '0' -@2:POPULATION_SIZE '50' -@2:RESTRICTED_SEARCH 'YES' -@2:RUNS '10000' -@2:SUBGRADIENT 'YES' -@2:SUBSEQUENT_MOVE_TYPE '0' -@2:SUBSEQUENT_PATCHING 'YES' -@3:ASCENT_CANDIDATES '50' -@3:BACKBONE_TRIALS '0' -@3:BACKTRACKING 'NO' -@3:CANDIDATE_SET_TYPE 'ALPHA' -@3:EXTRA_CANDIDATES '0' -@3:EXTRA_CANDIDATE_SET_TYPE 'QUADRANT' -@3:GAIN23 'YES' -@3:GAIN_CRITERION 'YES' -@3:INITIAL_STEP_SIZE '1' -@3:INITIAL_TOUR_ALGORITHM 'WALK' -@3:INITIAL_TOUR_FRACTION '1.0' -@3:KICKS '1' -@3:KICK_TYPE '0' -@3:LKH:prefix '-' -@3:LKH:solver '/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH' -@3:MAX_BREADTH '2147483647' -@3:MAX_CANDIDATES '5' -@3:MOVE_TYPE '5' -@3:PATCHING_A '1' -@3:PATCHING_C '0' -@3:POPULATION_SIZE '50' -@3:RESTRICTED_SEARCH 'YES' -@3:RUNS '10000' -@3:SUBGRADIENT 'YES' -@3:SUBSEQUENT_MOVE_TYPE '0' -@3:SUBSEQUENT_PATCHING 'YES' -@4:ASCENT_CANDIDATES '50' -@4:BACKBONE_TRIALS '0' -@4:BACKTRACKING 'NO' -@4:CANDIDATE_SET_TYPE 'ALPHA' -@4:EXTRA_CANDIDATES '0' -@4:EXTRA_CANDIDATE_SET_TYPE 'QUADRANT' -@4:GAIN23 'YES' -@4:GAIN_CRITERION 'YES' -@4:INITIAL_STEP_SIZE '1' -@4:INITIAL_TOUR_ALGORITHM 'WALK' -@4:INITIAL_TOUR_FRACTION '1.0' -@4:KICKS '1' -@4:KICK_TYPE '0' -@4:LKH:prefix '-' -@4:LKH:solver '/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH' -@4:MAX_BREADTH '2147483647' -@4:MAX_CANDIDATES '5' -@4:MOVE_TYPE '5' -@4:PATCHING_A '1' -@4:PATCHING_C '0' -@4:POPULATION_SIZE '50' -@4:RESTRICTED_SEARCH 'YES' -@4:RUNS '10000' -@4:SUBGRADIENT 'YES' -@4:SUBSEQUENT_MOVE_TYPE '0' -@4:SUBSEQUENT_PATCHING 'YES'" 
+17:43:29.376 [main] TRACE c.u.c.b.a.t.i.TargetAlgorithmEvaluatorBuilder - [TAE] Checking for unclean shutdown
+17:43:29.378 [main] TRACE c.u.c.b.a.t.i.TargetAlgorithmEvaluatorBuilder - [TAE] Ensuring SAT Response consistency
+17:43:29.379 [main] TRACE c.u.c.b.a.t.i.TargetAlgorithmEvaluatorBuilder - [TAE] Processing of runs and results will stop on JVM Shutdown
+17:43:29.380 [main] DEBUG c.u.c.b.a.t.i.TargetAlgorithmEvaluatorBuilder - [TAE] Using walltime as observer runtime if no runtime is reported, scale 0.95 , delay 5.0 (secs)
+17:43:29.381 [main] TRACE c.u.c.b.a.t.i.TargetAlgorithmEvaluatorBuilder - [TAE] Filtering out runs that are for zero seconds
+17:43:29.381 [main] TRACE c.u.c.b.a.t.i.TargetAlgorithmEvaluatorBuilder - [TAE] Algorithm Execution will NOT verify run Hash Codes
+17:43:29.383 [main] TRACE c.u.c.b.a.t.i.TargetAlgorithmEvaluatorBuilder - [TAE] Waiting / Monitoring outstanding target algorithm evaluations is supported
+17:43:29.383 [main] TRACE c.u.c.b.a.t.i.TargetAlgorithmEvaluatorBuilder - [TAE] Checking that every request in a batch is unique
+17:43:29.384 [main] TRACE c.u.c.b.a.t.i.TargetAlgorithmEvaluatorBuilder - [TAE] Killing runs that exceed there captime by a factor of 10.0 
+17:43:29.385 [main] TRACE c.u.c.b.a.t.i.TargetAlgorithmEvaluatorBuilder - [TAE] Warning if no response after 120 seconds
+17:43:29.385 [main] TRACE c.u.c.b.a.t.i.TargetAlgorithmEvaluatorBuilder - [TAE] Transforming the solution quality of CRASHED runs to 1.0E9
+17:43:29.386 [main] TRACE c.u.c.b.a.t.i.TargetAlgorithmEvaluatorBuilder - [TAE] Synchronizing notifications to the observer
+17:43:29.387 [main] DEBUG c.u.c.b.a.t.i.TargetAlgorithmEvaluatorBuilder - Final Target Algorithm Built is SynchronousObserverTargetAlgorithmEvaluatorDecorator( 0x2c039ac6 ) ==> [ CallObserverBeforeCompletionTargetAlgorithmEvaluatorDecorator( 0x587d1d39 ) ==> [ CrashedSolutionQualityTransformingTargetAlgorithmEvaluatorDecorator( 0x58c1670b ) ==> [ WarnOnNoWallOrRuntimeTargetAlgorithmEvaluatorDecorator( 0x6b57696f ) ==> [ KillCaptimeExceedingRunsRunsTargetAlgorithmEvaluatorDecorator( 0x5bb21b69 ) ==> [ CheckForDuplicateRunConfigDecorator( 0x6b9651f3 ) ==> [ OutstandingEvaluationsTargetAlgorithmEvaluatorDecorator( 0x38bc8ab5 ) ==> [ PrePostCommandTargetAlgorithmEvaluator( 0x687080dc ) ==> [ TimingCheckerTargetAlgorithmEvaluator( 0x23d2a7e8 ) ==> [ CompleteZeroSecondCutoffRunsTargetAlgorithmEvaluatorDecorator( 0x7a9273a8 ) ==> [ WalltimeAsRuntimeTargetAlgorithmEvaluatorDecorator( 0x26a7b76d ) ==> [ JVMShutdownBlockerTargetAlgorithmEvaluatorDecorator( 0x4abdb505 ) ==> [ SATConsistencyTargetAlgorithmEvaluator( 0x7ce6a65d ) ==> [ AbortOnFirstRunCrashTargetAlgorithmEvaluator( 0x1500955a ) ==> [ UncleanShutdownDetectingTargetAlgorithmEvaluator( 0xe874448 ) ==> [ CommandLineTargetAlgorithmEvaluator ] ] ] ] ] ] ] ] ] ] ] ] ] ] ]
+17:43:29.519 [main] DEBUG c.u.cs.beta.smac.builder.SMACBuilder - No warm started data, and shared model mode is false using single run data object
+17:43:29.523 [main] TRACE c.u.c.b.a.t.TrajectoryFileLogger - Incumbent Performance changed
+17:43:29.524 [main] TRACE c.u.c.b.a.t.TrajectoryFileLogger - Logging incumbent: (Runs ?): 0.0, 1.7976931348623157E308, 0.0, 1, 0.0,  @1:ASCENT_CANDIDATES='50', @1:BACKBONE_TRIALS='0', @1:BACKTRACKING='NO', @1:CANDIDATE_SET_TYPE='ALPHA', @1:EXTRA_CANDIDATES='0', @1:EXTRA_CANDIDATE_SET_TYPE='QUADRANT', @1:GAIN23='YES', @1:GAIN_CRITERION='YES', @1:INITIAL_STEP_SIZE='1', @1:INITIAL_TOUR_ALGORITHM='WALK', @1:INITIAL_TOUR_FRACTION='1.0', @1:KICKS='1', @1:KICK_TYPE='0', @1:LKH:prefix='-', @1:LKH:solver='/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH', @1:MAX_BREADTH='2147483647', @1:MAX_CANDIDATES='5', @1:MOVE_TYPE='5', @1:PATCHING_A='1', @1:PATCHING_C='0', @1:POPULATION_SIZE='50', @1:RESTRICTED_SEARCH='YES', @1:RUNS='10000', @1:SUBGRADIENT='YES', @1:SUBSEQUENT_MOVE_TYPE='0', @1:SUBSEQUENT_PATCHING='YES', @2:ASCENT_CANDIDATES='50', @2:BACKBONE_TRIALS='0', @2:BACKTRACKING='NO', @2:CANDIDATE_SET_TYPE='ALPHA', @2:EXTRA_CANDIDATES='0', @2:EXTRA_CANDIDATE_SET_TYPE='QUADRANT', @2:GAIN23='YES', @2:GAIN_CRITERION='YES', @2:INITIAL_STEP_SIZE='1', @2:INITIAL_TOUR_ALGORITHM='WALK', @2:INITIAL_TOUR_FRACTION='1.0', @2:KICKS='1', @2:KICK_TYPE='0', @2:LKH:prefix='-', @2:LKH:solver='/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH', @2:MAX_BREADTH='2147483647', @2:MAX_CANDIDATES='5', @2:MOVE_TYPE='5', @2:PATCHING_A='1', @2:PATCHING_C='0', @2:POPULATION_SIZE='50', @2:RESTRICTED_SEARCH='YES', @2:RUNS='10000', @2:SUBGRADIENT='YES', @2:SUBSEQUENT_MOVE_TYPE='0', @2:SUBSEQUENT_PATCHING='YES', @3:ASCENT_CANDIDATES='50', @3:BACKBONE_TRIALS='0', @3:BACKTRACKING='NO', @3:CANDIDATE_SET_TYPE='ALPHA', @3:EXTRA_CANDIDATES='0', @3:EXTRA_CANDIDATE_SET_TYPE='QUADRANT', @3:GAIN23='YES', @3:GAIN_CRITERION='YES', @3:INITIAL_STEP_SIZE='1', @3:INITIAL_TOUR_ALGORITHM='WALK', @3:INITIAL_TOUR_FRACTION='1.0', @3:KICKS='1', @3:KICK_TYPE='0', @3:LKH:prefix='-', @3:LKH:solver='/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH', @3:MAX_BREADTH='2147483647', @3:MAX_CANDIDATES='5', @3:MOVE_TYPE='5', @3:PATCHING_A='1', @3:PATCHING_C='0', @3:POPULATION_SIZE='50', @3:RESTRICTED_SEARCH='YES', @3:RUNS='10000', @3:SUBGRADIENT='YES', @3:SUBSEQUENT_MOVE_TYPE='0', @3:SUBSEQUENT_PATCHING='YES', @4:ASCENT_CANDIDATES='50', @4:BACKBONE_TRIALS='0', @4:BACKTRACKING='NO', @4:CANDIDATE_SET_TYPE='ALPHA', @4:EXTRA_CANDIDATES='0', @4:EXTRA_CANDIDATE_SET_TYPE='QUADRANT', @4:GAIN23='YES', @4:GAIN_CRITERION='YES', @4:INITIAL_STEP_SIZE='1', @4:INITIAL_TOUR_ALGORITHM='WALK', @4:INITIAL_TOUR_FRACTION='1.0', @4:KICKS='1', @4:KICK_TYPE='0', @4:LKH:prefix='-', @4:LKH:solver='/home/liusc/projects/ACPP/Solver/LKH-2.0.7/LKH', @4:MAX_BREADTH='2147483647', @4:MAX_CANDIDATES='5', @4:MOVE_TYPE='5', @4:PATCHING_A='1', @4:PATCHING_C='0', @4:POPULATION_SIZE='50', @4:RESTRICTED_SEARCH='YES', @4:RUNS='10000', @4:SUBGRADIENT='YES', @4:SUBSEQUENT_MOVE_TYPE='0', @4:SUBSEQUENT_PATCHING='YES'
+17:43:29.531 [main] INFO  c.u.c.b.s.c.SequentialModelBasedAlgorithmConfiguration - SMAC started at: Dec 20, 2018 5:43:29 PM. Minimizing penalized average runtime (PAR10).
+17:43:29.531 [main] DEBUG c.u.c.b.s.c.SequentialModelBasedAlgorithmConfiguration - Maximimum number of runs for the incumbent initialized to 2000
+17:43:29.546 [main] TRACE c.u.c.b.a.s.l.LegacyStateFactory - File copied to /home/liusc/projects/ACPP/smac-v2.10.03-master-778/'./output/'/run1/state-run1/param.pcs 
+17:43:29.546 [main] TRACE c.u.c.b.a.s.l.LegacyStateFactory - File copied to /home/liusc/projects/ACPP/smac-v2.10.03-master-778/'./output/'/run1/state-run1/instances.txt 
+17:43:29.546 [main] TRACE c.u.c.b.a.s.l.LegacyStateFactory - File copied to /home/liusc/projects/ACPP/smac-v2.10.03-master-778/'./output/'/run1/state-run1/scenario.txt 
+17:43:29.547 [main] TRACE c.u.c.b.s.c.SequentialModelBasedAlgorithmConfiguration - Initialization Procedure Started
+17:43:29.547 [main] DEBUG c.u.c.b.a.i.c.ClassicInitializationProcedure - Using Classic Initialization
+17:43:29.547 [main] TRACE c.u.c.b.a.i.c.ClassicInitializationProcedure - Configuration Set as Incumbent: 0x000B
+17:43:29.547 [main] DEBUG c.u.c.b.a.i.c.ClassicInitializationProcedure - Scheduling default configuration for 1 runs
+17:43:29.550 [main] DEBUG c.u.c.b.a.i.c.ClassicInitializationProcedure - Initialization: Scheduling 1 run(s):
+17:43:29.550 [main] DEBUG c.u.c.b.a.i.c.ClassicInitializationProcedure - Initialization: Scheduling run for config (0x000B) on instance 32 with seed 12793054 and captime 1.0
+17:43:29.562 [CLI TAE Asynchronous Request Processing (4-1)] TRACE c.u.c.b.a.t.b.c.CommandLineAlgorithmRun - This version of SMAC hardcodes run length for calls to the target algorithm to 2147483647.
+17:43:29.563 [CLI TAE Asynchronous Request Processing (4-1)] TRACE c.u.c.b.a.t.b.c.CommandLineAlgorithmRun - Shutdown hook to terminate all outstanding runs enabled
+17:43:29.627 [CLI TAE (Master Thread - #0)] DEBUG c.u.c.b.a.t.b.c.CommandLineAlgorithmRun - Process for <Instance:32, Seed:12793054, Config:0x000B, Kappa:1.0, Execution Config: 0x0001> started with pid: 54618 (Environment Variable: dafb5013-a1a0-47a8-88cd-09a5ca8e906c)
+17:43:30.061 [CLI Shutdown Thread] DEBUG c.u.c.b.a.t.b.c.CommandLineAlgorithmRun - Terminating approximately 1 outstanding algorithm runs
+17:43:30.061 [CLI Shutdown Thread] TRACE c.u.c.b.a.t.b.c.CommandLineAlgorithmRun - Further runs will be instantly terminated
+17:43:30.062 [CLI Shutdown Thread] TRACE c.u.c.b.a.t.b.c.CommandLineAlgorithmRun - Trying to send SIGTERM to process group id: 54618 with command "bash -c "kill -s TERM -54618""
+17:43:30.062 [CLI Shutdown Thread] TRACE c.u.c.b.a.t.b.c.CommandLineAlgorithmRun - Executing termination command: {}
+17:43:30.062 [FileSharingRunHistory Logger ( outputID:1)] DEBUG c.u.c.b.a.r.FileSharingRunHistoryDecorator - At shutdown: /home/liusc/projects/ACPP/smac-v2.10.03-master-778/'./output/'/run1/live-rundata-1.json had 0 runs added to it
+17:43:30.062 [Thread-6] TRACE c.u.c.b.s.c.SequentialModelBasedAlgorithmConfiguration - State Saved Already, Skipping Shutdown Version
+17:43:30.062 [Unclean Target Algorithm Evaluator Shutdown Detector] DEBUG c.u.c.b.a.t.d.d.UncleanShutdownDetectingTargetAlgorithmEvaluator - Unclean Shutdown Detected, You must call notifyShutdown() on your TAE. You may have a broken TAE decorator that doesn't forward the notifyShutdown() correctly
+17:43:30.063 [Unclean Target Algorithm Evaluator Shutdown Detector] DEBUG c.u.c.b.a.t.d.d.UncleanShutdownDetectingTargetAlgorithmEvaluator - Target algorithm that wasn't shutdown was created here:
+ca.ubc.cs.beta.aeatk.targetalgorithmevaluator.decorators.debug.UncleanShutdownDetectingTargetAlgorithmEvaluator.<init>(UncleanShutdownDetectingTargetAlgorithmEvaluator.java:35)
+ca.ubc.cs.beta.aeatk.targetalgorithmevaluator.init.TargetAlgorithmEvaluatorBuilder.getTargetAlgorithmEvaluator(TargetAlgorithmEvaluatorBuilder.java:153)
+ca.ubc.cs.beta.aeatk.targetalgorithmevaluator.TargetAlgorithmEvaluatorOptions.getTargetAlgorithmEvaluator(TargetAlgorithmEvaluatorOptions.java:277)
+ca.ubc.cs.beta.smac.builder.SMACBuilder.getAutomaticConfigurator(SMACBuilder.java:185)
+ca.ubc.cs.beta.smac.builder.SMACBuilder.getAutomaticConfigurator(SMACBuilder.java:100)
+ca.ubc.cs.beta.smac.executors.SMACExecutor.oldMain(SMACExecutor.java:136)
+ca.ubc.cs.beta.smac.executors.SMACExecutor.main(SMACExecutor.java:104)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+ca.ubc.cs.beta.aeatk.ant.execscript.Launcher.main(Launcher.java:37)
+
+17:43:30.064 [CLI Shutdown Thread] TRACE c.u.c.b.a.t.b.c.CommandLineAlgorithmRun - Kill For environment dafb5013-a1a0-47a8-88cd-09a5ca8e906c: command "bash -c "kill -s TERM -54618"" output> bash: line 0: kill: (-54618) - No such process
+17:43:30.065 [CLI Shutdown Thread] TRACE c.u.c.b.a.t.b.c.CommandLineAlgorithmRun - SIGTERM to process group failed with error code 1
+17:43:30.065 [CLI Shutdown Thread] TRACE c.u.c.b.a.t.b.c.CommandLineAlgorithmRun - Executing termination command: {}
+17:43:30.067 [CLI Shutdown Thread] TRACE c.u.c.b.a.t.b.c.CommandLineAlgorithmRun - SIGTERM delivered successfully to process id: 54618

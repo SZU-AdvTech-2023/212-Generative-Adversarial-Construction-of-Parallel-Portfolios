@@ -1,0 +1,29 @@
+/home/liusc/projects/ACPP/Solver/Concorde/concorde 47uniform.txt
+Host: localhost.localdomain  Current process id: 1639
+Using random seed 1544261211
+Problem Name: portgen-547-5479787
+portgen N=547, seed=5479787
+Problem Type: TSP
+Number of Nodes: 547
+Rounded Euclidean Norm (CC_EUCLIDEAN)
+Set initial upperbound to 17214845 (from tour)
+  LP Value  1: 16531258.166667  (0.05 seconds)
+  LP Value  2: 17036037.541667  (0.16 seconds)
+  LP Value  3: 17110250.333333  (0.31 seconds)
+  LP Value  4: 17119484.333333  (0.48 seconds)
+  LP Value  5: 17126345.242886  (0.65 seconds)
+  LP Value  6: 17131194.088542  (1.00 seconds)
+  LP Value  7: 17132075.500000  (1.67 seconds)
+  LP Value  8: 17132696.603696  (1.95 seconds)
+  LP Value  9: 17132820.000000  (2.18 seconds)
+New lower bound: 17132820.000000
+recomputing rownorms ...
+  LP Value  1: 17132820.000000  (2.20 seconds)
+New upperbound from x-heuristic: 17132820.00
+Final lower bound 17132820.000000, upper bound 17132820.000000
+Exact lower bound: 17132820.000000
+DIFF: 0.000000
+Final LP has 801 rows, 1308 columns, 6243 nonzeros
+Optimal Solution: 17132820.00
+Number of bbnodes: 1
+Total Running Time: 2.85 (seconds)

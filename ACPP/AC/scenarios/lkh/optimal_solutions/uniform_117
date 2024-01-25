@@ -1,0 +1,227 @@
+/home/liusc/projects/ACPP/Solver/Concorde/concorde 117uniform.txt
+Host: localhost.localdomain  Current process id: 1848
+Using random seed 1544261219
+Problem Name: portgen-456-8466930
+portgen N=456, seed=8466930
+Problem Type: TSP
+Number of Nodes: 456
+Rounded Euclidean Norm (CC_EUCLIDEAN)
+Set initial upperbound to 15967025 (from tour)
+  LP Value  1: 15513464.500000  (0.04 seconds)
+  LP Value  2: 15831555.166667  (0.12 seconds)
+  LP Value  3: 15878964.566667  (0.23 seconds)
+  LP Value  4: 15895342.461895  (0.43 seconds)
+  LP Value  5: 15901736.477497  (0.63 seconds)
+  LP Value  6: 15906758.783312  (0.88 seconds)
+  LP Value  7: 15912348.343580  (1.16 seconds)
+  LP Value  8: 15917627.331249  (1.48 seconds)
+  LP Value  9: 15921259.644397  (3.06 seconds)
+  LP Value 10: 15923742.712014  (3.68 seconds)
+  LP Value 11: 15924736.930441  (4.35 seconds)
+  LP Value 12: 15925859.357422  (5.08 seconds)
+  LP Value 13: 15926469.137186  (5.67 seconds)
+  LP Value 14: 15926813.965865  (6.14 seconds)
+New lower bound: 15926813.965865
+  LP Value  1: 15927042.626020  (6.75 seconds)
+  LP Value  2: 15927442.205459  (6.95 seconds)
+  LP Value  3: 15927578.234803  (7.65 seconds)
+  LP Value  4: 15927657.442574  (8.27 seconds)
+  LP Value  5: 15927784.635640  (8.94 seconds)
+  LP Value  6: 15928166.194520  (9.71 seconds)
+  LP Value  7: 15929790.928571  (9.97 seconds)
+  LP Value  8: 15930643.387267  (10.26 seconds)
+  LP Value  9: 15931080.230574  (10.53 seconds)
+  LP Value 10: 15931155.821392  (11.17 seconds)
+  LP Value 11: 15931201.076029  (11.78 seconds)
+  LP Value 12: 15931241.526939  (12.34 seconds)
+  LP Value 13: 15931279.597377  (12.97 seconds)
+New lower bound: 15931279.597377
+Final lower bound 15931279.597377, upper bound 15967025.000000
+Exact lower bound: 15931279.597377
+DIFF: 0.000000
+Time for Total: 13.08 seconds (13.08 total in 1 calls)
+Final LP has 725 rows, 1135 columns, 10215 nonzeros
+LOWER BOUND: 15931279.597377   ACTIVE NODES: 1
+
+Task 0: Branching on node 0
+BBnode 0 split into 1 (15934725.69) 2 (15934240.08) (1.12 seconds)
+LOWER BOUND: 15934240.079015   ACTIVE NODES: 2
+
+Task 1: Cutting on node 2
+recomputing rownorms ...
+Writing Pool: 861 cuts
+BBnode 2 (now 3) done cutting: lowerbound 15937206.99 (1.48 seconds)
+LOWER BOUND: 15934725.692087   ACTIVE NODES: 2
+
+Task 2: Cutting on node 1
+New upperbound from x-heuristic: 15964998.00
+TOUR FOUND - upperbound is 15964998.00
+Writing Pool: 956 cuts
+BBnode 1 (now 4) done cutting: lowerbound 15941274.64 (5.92 seconds)
+LOWER BOUND: 15937206.989130   ACTIVE NODES: 2
+
+Task 3: Branching on node 3
+BBnode 3 split into 5 (15938787.81) 6 (15940415.33) (0.74 seconds)
+LOWER BOUND: 15938787.805599   ACTIVE NODES: 3
+
+Task 4: Cutting on node 5
+Writing Pool: 1031 cuts
+BBnode 5 (now 7) done cutting: lowerbound 15946280.57 (2.63 seconds)
+LOWER BOUND: 15940415.333333   ACTIVE NODES: 3
+
+Task 5: Cutting on node 6
+New upperbound from x-heuristic: 15951287.00
+recomputing rownorms ...
+TOUR FOUND - upperbound is 15951287.00
+Writing Pool: 1063 cuts
+BBnode 6 (now 8) done cutting: lowerbound 15942741.96 (2.62 seconds)
+LOWER BOUND: 15941274.644860   ACTIVE NODES: 3
+
+Task 6: Branching on node 4
+BBnode 4 split into 9 (15943189.87) 10 (15942876.75) (0.80 seconds)
+LOWER BOUND: 15942741.958333   ACTIVE NODES: 4
+
+Task 7: Branching on node 8
+BBnode 8 split into 11 (15945620.27) 12 (15943215.00) (0.71 seconds)
+LOWER BOUND: 15942876.746824   ACTIVE NODES: 5
+
+Task 8: Cutting on node 10
+recomputing rownorms ...
+Writing Pool: 1139 cuts
+BBnode 10 (now 13) done cutting: lowerbound 15945449.11 (2.93 seconds)
+LOWER BOUND: 15943189.867784   ACTIVE NODES: 5
+
+Task 9: Cutting on node 9
+Writing Pool: 1199 cuts
+BBnode 9 (now 14) done cutting: lowerbound 15947909.26 (3.49 seconds)
+LOWER BOUND: 15943215.000000   ACTIVE NODES: 5
+
+Task 10: Cutting on node 12
+recomputing rownorms ...
+Writing Pool: 1212 cuts
+BBnode 12 (now 15) done cutting: lowerbound 15944045.62 (1.24 seconds)
+LOWER BOUND: 15944045.619048   ACTIVE NODES: 5
+
+Task 11: Branching on node 15
+BBnode 15 split into 16 (15945705.92) 17 (15945585.42) (0.70 seconds)
+LOWER BOUND: 15945449.112903   ACTIVE NODES: 6
+
+Task 12: Branching on node 13
+BBnode 13 split into 18 (15946229.72) 19 (15946234.98) (0.75 seconds)
+LOWER BOUND: 15945585.425000   ACTIVE NODES: 7
+
+Task 13: Cutting on node 17
+Writing Pool: 1257 cuts
+BBnode 17 (now 20) done cutting: lowerbound 15947062.95 (1.58 seconds)
+LOWER BOUND: 15945620.273547   ACTIVE NODES: 7
+
+Task 14: Cutting on node 11
+Writing Pool: 1297 cuts
+BBnode 11 (now 21) can be pruned: upperbound 15951287.00 (0.70 seconds)
+LOWER BOUND: 15945705.916076   ACTIVE NODES: 6
+
+Task 15: Cutting on node 16
+Writing Pool: 1354 cuts
+BBnode 16 (now 22) done cutting: lowerbound 15947351.88 (2.75 seconds)
+LOWER BOUND: 15946229.715517   ACTIVE NODES: 6
+
+Task 16: Cutting on node 18
+Writing Pool: 1371 cuts
+BBnode 18 (now 23) done cutting: lowerbound 15947585.60 (1.11 seconds)
+LOWER BOUND: 15946234.975110   ACTIVE NODES: 6
+
+Task 17: Cutting on node 19
+Writing Pool: 1404 cuts
+BBnode 19 (now 24) done cutting: lowerbound 15948376.45 (2.47 seconds)
+LOWER BOUND: 15946280.573407   ACTIVE NODES: 6
+
+Task 18: Branching on node 7
+BBnode 7 split into 25 (15948432.00) 26 (15948581.00) (0.47 seconds)
+LOWER BOUND: 15947062.946154   ACTIVE NODES: 7
+
+Task 19: Branching on node 20
+BBnode 20 split into 27 (15948730.82) 28 (15949358.25) (0.67 seconds)
+LOWER BOUND: 15947351.875831   ACTIVE NODES: 8
+
+Task 20: Branching on node 22
+BBnode 22 split into 29 (15948406.47) 30 (15949704.71) (0.66 seconds)
+LOWER BOUND: 15947585.603226   ACTIVE NODES: 9
+
+Task 21: Branching on node 23
+BBnode 23 split into 31 (15950618.04) 32 (15949583.71) (0.79 seconds)
+LOWER BOUND: 15947909.263736   ACTIVE NODES: 10
+
+Task 22: Branching on node 14
+BBnode 14 split into 33 (15950650.03) 34 (15949662.39) (0.61 seconds)
+LOWER BOUND: 15948376.450257   ACTIVE NODES: 11
+
+Task 23: Branching on node 24
+BBnode 24 split into 35 (15952037.92X) 36 (15949181.48) (0.67 seconds)
+Child 0 is pruned
+LOWER BOUND: 15948406.472448   ACTIVE NODES: 11
+
+Task 24: Cutting on node 29
+Writing Pool: 1529 cuts
+BBnode 29 (now 37) can be pruned: upperbound 15951287.00 (1.62 seconds)
+LOWER BOUND: 15948432.000000   ACTIVE NODES: 10
+
+Task 25: Cutting on node 25
+Writing Pool: 1541 cuts
+BBnode 25 (now 38) can be pruned: upperbound 15951287.00 (0.17 seconds)
+LOWER BOUND: 15948581.000000   ACTIVE NODES: 9
+
+Task 26: Cutting on node 26
+Writing Pool: 1548 cuts
+BBnode 26 (now 39) can be pruned: upperbound 15951287.00 (0.14 seconds)
+LOWER BOUND: 15948730.818602   ACTIVE NODES: 8
+
+Task 27: Cutting on node 27
+Writing Pool: 1581 cuts
+BBnode 27 (now 40) can be pruned: upperbound 15951287.00 (0.57 seconds)
+LOWER BOUND: 15949181.482863   ACTIVE NODES: 7
+
+Task 28: Cutting on node 36
+Writing Pool: 1590 cuts
+BBnode 36 (now 41) can be pruned: upperbound 15951287.00 (0.22 seconds)
+LOWER BOUND: 15949358.248581   ACTIVE NODES: 6
+
+Task 29: Cutting on node 28
+Writing Pool: 1592 cuts
+BBnode 28 (now 42) can be pruned: upperbound 15951287.00 (0.12 seconds)
+LOWER BOUND: 15949583.713145   ACTIVE NODES: 5
+
+Task 30: Cutting on node 32
+Writing Pool: 1612 cuts
+BBnode 32 (now 43) can be pruned: upperbound 15951287.00 (0.16 seconds)
+LOWER BOUND: 15949662.386364   ACTIVE NODES: 4
+
+Task 31: Cutting on node 34
+Writing Pool: 1628 cuts
+BBnode 34 (now 44) can be pruned: upperbound 15951287.00 (0.17 seconds)
+LOWER BOUND: 15949704.708543   ACTIVE NODES: 3
+
+Task 32: Cutting on node 30
+recomputing rownorms ...
+Writing Pool: 1664 cuts
+BBnode 30 (now 45) done cutting: lowerbound 15950895.81 (1.61 seconds)
+LOWER BOUND: 15950618.039641   ACTIVE NODES: 3
+
+Task 33: Cutting on node 31
+Writing Pool: 1674 cuts
+BBnode 31 (now 46) can be pruned: upperbound 15951287.00 (0.20 seconds)
+LOWER BOUND: 15950650.028947   ACTIVE NODES: 2
+
+Task 34: Cutting on node 33
+Writing Pool: 1700 cuts
+BBnode 33 (now 47) can be pruned: upperbound 15951287.00 (0.22 seconds)
+LOWER BOUND: 15950895.809249   ACTIVE NODES: 1
+
+Task 35: Branching on node 45
+BBnode 45 split into 48 (15951397.80X) 49 (15952296.39X) (0.54 seconds)
+Child 0 is pruned
+Child 1 is pruned
+
+Task 36: Exit
+Optimal Solution: 15951287.00
+Number of bbnodes: 27
+Total Running Time: 56.80 (seconds)  Branching Time: 43.32 (seconds)

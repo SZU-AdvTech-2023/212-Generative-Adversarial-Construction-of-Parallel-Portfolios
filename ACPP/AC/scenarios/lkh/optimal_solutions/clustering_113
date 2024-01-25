@@ -1,0 +1,52 @@
+/home/liusc/projects/ACPP/Solver/Concorde/concorde 113clustering.txt
+Host: localhost.localdomain  Current process id: 2302
+Using random seed 1544261251
+Problem Name: portcgen-547-2474352
+portcgen N=547, seed=2474352
+Problem Type: TSP
+Number of Nodes: 547
+Rounded Euclidean Norm (CC_EUCLIDEAN)
+Set initial upperbound to 9320367 (from tour)
+  LP Value  1: 7891772.166667  (0.08 seconds)
+  LP Value  2: 8064559.819444  (0.19 seconds)
+  LP Value  3: 8756993.283333  (0.34 seconds)
+  LP Value  4: 8771784.299858  (0.60 seconds)
+  LP Value  5: 9346344.608333  (0.81 seconds)
+New lower bound: 9301082.166667
+  LP Value  1: 9316118.650137  (1.06 seconds)
+  LP Value  2: 9317496.166667  (1.36 seconds)
+  LP Value  3: 9317921.807143  (1.55 seconds)
+  LP Value  4: 9318152.538462  (1.69 seconds)
+  LP Value  5: 9318404.978632  (1.85 seconds)
+  LP Value  6: 9319203.644118  (2.09 seconds)
+  LP Value  7: 9319427.600000  (2.36 seconds)
+  LP Value  8: 9319574.279646  (2.81 seconds)
+  LP Value  9: 9319776.666667  (3.09 seconds)
+  LP Value 10: 9319842.774264  (3.45 seconds)
+  LP Value 11: 9319888.775920  (3.88 seconds)
+  LP Value 12: 9319895.666667  (4.29 seconds)
+New lower bound: 9318758.266667
+  LP Value  1: 9319901.857143  (4.47 seconds)
+recomputing rownorms ...
+  LP Value  2: 9319901.857143  (4.86 seconds)
+New lower bound: 9319901.857143
+Final lower bound 9319901.857143, upper bound 9320367.000000
+Exact lower bound: 9319901.857143
+DIFF: 0.000000
+Time for Total: 5.43 seconds (5.43 total in 1 calls)
+Final LP has 801 rows, 1034 columns, 8436 nonzeros
+LOWER BOUND: 9319901.857143   ACTIVE NODES: 1
+
+Task 0: Branching on node 0
+BBnode 0 split into 1 (9320197.17) 2 (9320648.00X) (0.47 seconds)
+Child 1 is pruned
+LOWER BOUND: 9320197.166667   ACTIVE NODES: 1
+
+Task 1: Cutting on node 1
+Writing Pool: 535 cuts
+BBnode 1 (now 3) can be pruned: upperbound 9320367.00 (0.21 seconds)
+
+Task 2: Exit
+Optimal Solution: 9320367.00
+Number of bbnodes: 3
+Total Running Time: 7.72 (seconds)  Branching Time: 0.68 (seconds)

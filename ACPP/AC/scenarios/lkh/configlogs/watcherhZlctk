@@ -1,0 +1,5 @@
+Thread 1 thread log: /home/tsinny/shared/CO/TSP_features/ACPP/AC/scenarios/lkh/configlogs/Thread1solverLogRD6vyX
+2020-06-23 22:29:08.592429
+Parent process PID is 25673
+Parent process PID is 25673 #using os.getpid() 
+Sub process number :1

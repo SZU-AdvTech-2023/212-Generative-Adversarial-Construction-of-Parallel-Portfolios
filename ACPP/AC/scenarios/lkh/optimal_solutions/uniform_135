@@ -1,0 +1,62 @@
+/home/liusc/projects/ACPP/Solver/Concorde/concorde 135uniform.txt
+Host: localhost.localdomain  Current process id: 1909
+Using random seed 1544261224
+Problem Name: portgen-514-844022
+portgen N=514, seed=844022
+Problem Type: TSP
+Number of Nodes: 514
+Rounded Euclidean Norm (CC_EUCLIDEAN)
+Set initial upperbound to 16806888 (from tour)
+  LP Value  1: 16077610.750000  (0.05 seconds)
+  LP Value  2: 16644146.000000  (0.13 seconds)
+  LP Value  3: 16741296.393658  (0.29 seconds)
+  LP Value  4: 16764775.722527  (0.48 seconds)
+  LP Value  5: 16777610.086070  (0.74 seconds)
+  LP Value  6: 16783305.262827  (0.98 seconds)
+  LP Value  7: 16786360.208095  (1.70 seconds)
+  LP Value  8: 16789925.988731  (2.49 seconds)
+  LP Value  9: 16792085.994278  (3.28 seconds)
+  LP Value 10: 16793200.666480  (3.83 seconds)
+  LP Value 11: 16793297.112294  (4.47 seconds)
+New lower bound: 16793297.112294
+  LP Value  1: 16793414.006767  (5.01 seconds)
+  LP Value  2: 16793531.228414  (5.57 seconds)
+  LP Value  3: 16793623.293818  (6.01 seconds)
+  LP Value  4: 16793637.799154  (6.42 seconds)
+  LP Value  5: 16793655.788462  (6.72 seconds)
+  LP Value  6: 16793766.358260  (7.22 seconds)
+  LP Value  7: 16793775.234282  (7.72 seconds)
+  LP Value  8: 16793971.510060  (8.22 seconds)
+  LP Value  9: 16794327.441372  (8.43 seconds)
+  LP Value 10: 16794386.695953  (8.87 seconds)
+  LP Value 11: 16794403.565217  (9.18 seconds)
+recomputing rownorms ...
+  LP Value 12: 16794403.565217  (9.54 seconds)
+New lower bound: 16794403.565217
+New upperbound from x-heuristic: 16801456.00
+Final lower bound 16794403.565217, upper bound 16801456.000000
+Exact lower bound: 16794403.565217
+DIFF: 0.000000
+Time for Total: 9.65 seconds (9.65 total in 1 calls)
+Final LP has 788 rows, 1173 columns, 7118 nonzeros
+LOWER BOUND: 16794403.565217   ACTIVE NODES: 1
+
+Task 0: Branching on node 0
+BBnode 0 split into 1 (16796972.62) 2 (16796244.00) (0.57 seconds)
+LOWER BOUND: 16796244.000000   ACTIVE NODES: 2
+
+Task 1: Cutting on node 2
+New upperbound from x-heuristic: 16797610.00
+TOUR FOUND - upperbound is 16797610.00
+Writing Pool: 632 cuts
+BBnode 2 (now 3) can be pruned: upperbound 16797610.00 (0.80 seconds)
+LOWER BOUND: 16796972.615385   ACTIVE NODES: 1
+
+Task 2: Cutting on node 1
+Writing Pool: 641 cuts
+BBnode 1 (now 4) can be pruned: upperbound 16797610.00 (0.20 seconds)
+
+Task 3: Exit
+Optimal Solution: 16797610.00
+Number of bbnodes: 3
+Total Running Time: 11.64 (seconds)  Branching Time: 1.58 (seconds)

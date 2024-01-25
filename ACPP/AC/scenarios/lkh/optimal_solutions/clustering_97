@@ -1,0 +1,31 @@
+/home/liusc/projects/ACPP/Solver/Concorde/concorde 97clustering.txt
+Host: localhost.localdomain  Current process id: 2254
+Using random seed 1544261248
+Problem Name: portcgen-420-2872426
+portcgen N=420, seed=2872426
+Problem Type: TSP
+Number of Nodes: 420
+Rounded Euclidean Norm (CC_EUCLIDEAN)
+Set initial upperbound to 7643304 (from tour)
+  LP Value  1: 6925473.583333  (0.04 seconds)
+  LP Value  2: 7167236.178571  (0.08 seconds)
+  LP Value  3: 7518695.963847  (0.16 seconds)
+  LP Value  4: 7526598.280000  (0.28 seconds)
+  LP Value  5: 7534405.938889  (0.60 seconds)
+  LP Value  6: 7535895.000000  (0.74 seconds)
+  LP Value  7: 7537104.000000  (0.93 seconds)
+recomputing rownorms ...
+  LP Value  8: 7537104.000000  (0.94 seconds)
+New lower bound: 7516771.000000
+  LP Value  1: 7525150.000000  (0.97 seconds)
+recomputing rownorms ...
+  LP Value  2: 7525150.000000  (0.98 seconds)
+New lower bound: 7525150.000000
+New upperbound from x-heuristic: 7525150.00
+Final lower bound 7525150.000000, upper bound 7525150.000000
+Exact lower bound: 7525150.000000
+DIFF: 0.000000
+Final LP has 612 rows, 1127 columns, 5246 nonzeros
+Optimal Solution: 7525150.00
+Number of bbnodes: 1
+Total Running Time: 2.38 (seconds)

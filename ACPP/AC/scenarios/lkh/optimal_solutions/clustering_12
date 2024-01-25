@@ -1,0 +1,53 @@
+/home/liusc/projects/ACPP/Solver/Concorde/concorde 12clustering.txt
+Host: localhost.localdomain  Current process id: 1990
+Using random seed 1544261230
+Problem Name: portcgen-503-3046098
+portcgen N=503, seed=3046098
+Problem Type: TSP
+Number of Nodes: 503
+Rounded Euclidean Norm (CC_EUCLIDEAN)
+Set initial upperbound to 7940612 (from tour)
+  LP Value  1: 7161039.325000  (0.07 seconds)
+  LP Value  2: 7328203.333782  (0.15 seconds)
+  LP Value  3: 7884411.100980  (0.27 seconds)
+  LP Value  4: 7912456.554511  (0.43 seconds)
+  LP Value  5: 7921575.811111  (0.57 seconds)
+  LP Value  6: 7934808.000000  (0.72 seconds)
+  LP Value  7: 7938391.220779  (1.26 seconds)
+  LP Value  8: 7939297.823655  (1.77 seconds)
+  LP Value  9: 7939509.500000  (2.40 seconds)
+New lower bound: 7939302.526574
+  LP Value  1: 7939834.625000  (2.66 seconds)
+  LP Value  2: 7939921.666667  (3.00 seconds)
+  LP Value  3: 7939979.029067  (3.44 seconds)
+  LP Value  4: 7940008.326217  (3.74 seconds)
+  LP Value  5: 7940110.986478  (3.98 seconds)
+  LP Value  6: 7940131.937500  (4.36 seconds)
+  LP Value  7: 7940133.508320  (4.91 seconds)
+  LP Value  8: 7940136.729469  (5.20 seconds)
+  LP Value  9: 7940174.750000  (5.36 seconds)
+  LP Value 10: 7940223.366741  (5.56 seconds)
+  LP Value 11: 7940262.762652  (5.76 seconds)
+  LP Value 12: 7940293.218750  (6.13 seconds)
+  LP Value 13: 7940319.614799  (6.40 seconds)
+  LP Value 14: 7940346.825678  (6.75 seconds)
+  LP Value 15: 7940365.402390  (7.08 seconds)
+  LP Value 16: 7940386.214004  (7.30 seconds)
+  LP Value 17: 7940387.146179  (7.73 seconds)
+New lower bound: 7940387.146179
+Final lower bound 7940387.146179, upper bound 7940612.000000
+Exact lower bound: 7940387.146179
+DIFF: 0.000000
+Time for Total: 8.04 seconds (8.04 total in 1 calls)
+Final LP has 737 rows, 929 columns, 8633 nonzeros
+LOWER BOUND: 7940387.146179   ACTIVE NODES: 1
+
+Task 0: Branching on node 0
+BBnode 0 split into 1 (7940612.00X) 2 (7940823.00X) (0.36 seconds)
+Child 0 is pruned
+Child 1 is pruned
+
+Task 1: Exit
+Optimal Solution: 7940612.00
+Number of bbnodes: 3
+Total Running Time: 9.44 (seconds)  Branching Time: 0.36 (seconds)

@@ -1,0 +1,201 @@
+@1:solver categorical {/home/liuwei/GAST/ACPP/Solver/lingeling-ala-b02aa1a-121013/lingeling} [/home/liuwei/GAST/ACPP/Solver/lingeling-ala-b02aa1a-121013/lingeling]
+@1:prefix categorical {--} [--]
+@1:acts categorical {0,1,2} [2] #activity based reduction: 0=disable,1=enable,2=dyn [2]
+@1:actavgmax integer [0,200] [120] # glue average max limit for dyn acts [120]
+@1:actstdmin integer [0,200] [20] #glue standard deviation min limit for dyn acts [20]
+@1:actstdmax integer [0,200] [80] #glue standard deviation max limit for dyn acts [80]
+@1:agile integer [0,100] [23] #agility limit for restarts [23]
+@1:bias categorical {0,2} [2] #decision order initial bias (0=nobias,2=cutwidth) [2]
+@1:block categorical {0,1} [1] #enable initial blocked clause elimination [1]
+@1:blkclslim integer [3,2147483647] [2000] log # max blocked clause size [2000][3,2147483647] [2000] log
+@1:blkocclim integer [3,2147483647] [2000] log # max occurrences in blocked clause elimination [2000]
+@1:blkmaxeff  integer [1,2147483647] [2147483647] log #max effort in blocked clause elimination [20000000]
+@1:blkmineff  integer [1,2147483647] [10000000] log #min effort in blocked clause elimination [20000000]
+@1:blkreleff integer [1,1000] [20] log #rel effort in blocked clause elimination [20]
+@1:cce categorical {1,2,3} [3] #covered clause elimination (1=ate,2=abce,3=cce) [3]
+@1:ccemaxeff integer [1,2147483647] [100000000] log #max effort in covered clause elimination
+@1:ccemineff integer [1,2147483647] [5000000] log #min effort in covered clause elimination
+@1:ccereleff integer [1,1000] [3] log #rel effort in covered clause elimination
+@1:check categorical {0,1,2,3} [1]  #check level [0]
+@1:cgrclsr categorical {0,1} [1] # gate extraction and congruence closure [1]
+@1:cgrmaxority integer [2,30] [20] # maximum xor arity to be extracted [20]
+@1:cgrmaxeff integer [1,2147483647] [8000000] log #max effort in congruence closure [10000000]
+@1:cgrmineff integer [1,2147483647] [200000] log #min effort in congruence closure [500000]
+@1:cgreleff integer [1,10000] [1] log #rel effort in congruence closure [15]
+@1:cgrexteq  categorical {0,1} [1] # extract equivalences [1]
+@1:cgrextand  categorical {0,1} [1] # extract and gates [1]
+@1:cgrextunits  categorical {0,1} [1] # extract units [1]
+@1:cgrextite  categorical {0,1} [1] # extract ite gates [1]
+@1:cgrextxor  categorical {0,1} [1] # extract xor gates [1]
+@1:cliff categorical {0,1} [1] # cliffing [1]
+@1:cliffreleff integer [1,10000] [8] log #rel effort in cliffing # [8]
+@1:cliffmineff integer [1,2147483647] [10000000] log #min effort in @1:cliffing #
+@1:cliffmaxeff integer [1,2147483647] [100000000] log #max effort in cliffing
+@1:compact categorical {0,1,2} [0] #compactify after 'lglsat' + 'lglsimp' (1=UNS,2=SAT) [0]
+@1:decompose categorical {0,1} [1] #enable decompose [1]
+@1:defragint integer [100,2147483647] [10000000]  log # defragmentation pushed watches interval [10000000]
+@1:defragfree integer [10,1000] [50]  log # defragmentation free watches limit
+@1:elim categorical {0,1} [1] #bounded variable eliminiation (BVE) [1]
+@1:elmrtc categorical {0,1} [0] #run BVE until completion [0]
+@1:elmblk categorical {0,1} [1] #enable BCE during VE [1]
+@1:elmclslim integer [3,2147483647] [1000]  log # max antecendent size in elimination [2147483647]
+@1:elmocclim integer [3,2147483647] [1000] log #max occurences in elimination
+@1:elmaxeff integer [1,2147483647] [100000000]  log #max effort in eliminiation [20000000]
+@1:elmineff integer [1,2147483647] [5000000]  log #min effort in eliminiation [1000000]
+@1:elmreleff integer [1,10000] [10]  log # rel effort in elimination [50]
+@1:flipping categorical {0,1} [1] #enable point flipping [1]
+@1:flipint integer [1,2147483647] [2]  log  #flipping interval in number of top level decision [2]
+@1:flipdur integer [1,2147483647] [50]  log #flipping duration in number of conflicts [50]
+@1:fliptop categorical {0,1} [1] #flipping only at the top level [1]
+@1:gauss categorical {0,1} [1] #gaussion elimination [1]
+@1:gaussextrall categorical {0,1} [1] #extract all xors (with duplicates) [1]
+@1:gaussmaxor integer [2,64] [20]  #maximum xor size in gaussian elimination [20]
+@1:gaussexptrn  categorical {0,1} [1] #export ternary clauses from gaussian elimination [1]
+@1:gaussmaxeff integer [1,2147483647] [50000000]  log  #max effort in gaussian elimination [50000000]
+@1:gaussmineff integer [1,2147483647] [2000000]  log  #min effort in gaussian elimination [2000000]
+@1:gaussreleff integer [1,10000] [2]  log #rel effort in gaussian elimination [2]
+@1:gluescale categorical {1,2,3} [2] #glue scaling: 1=linear,2=sqrt,3=ld [2]
+@1:inprocessing categorical {0,1} [1] #enable inprocessing [1]
+@1:cintinc integer [10,1000000] [10000]  log # inprocessing conflict interval increment [10000]
+@1:irrlim integer [1,200] [20]  log  #general irredundant added literals limit
+@1:lift categorical {0,1} [1] #enable double lookahead lifting [1]
+@1:lftmaxeff integer [1,2147483647] [20000000]  log #max effort in lifting [2000000]
+@1:lftmineff integer [1,2147483647] [500000]  log #min effort in lifting [100000]
+@1:lftreleff integer [1,10000] [6]  log #rel effort in lifting [8]
+@1:lhbr categorical {0,1} [1] #enable lazy hyber binary reasoning [1]
+@1:mocint integer [1,2147483647] [1000] log #multiple objectives conflict limit interval [1000]
+@1:move categorical {0,1,2} [2] #move redundant clauses (1=only binary) [2]
+@1:otfs categorical {0,1} [1] #enable on-the-fly subsumption [1]
+@1:phase categorical {-1,0,1} [0] # default phase (-1=neg,0=JeroslovWang,1=pos) [0]
+@1:probe categorical {0,1} [1] #enable probing [1]
+@1:prbasic categorical {0,1,2} [1] #enable basic probing procedure [0]
+@1:prbasicmaxeff integer [1,2147483647] [100000000] log
+@1:prbasicmineff integer [1,2147483647] [1000000] log
+@1:prbasicreleff integer [1,10000] [10] log #rel effort in basic probing [10]
+@1:prbasicroundlim integer [1,2147483647] [9]  log # basic probing round limit [9]
+@1:queuemergelim integer [1,2147483647] [10000]  log #flush limit on garbage merged queue lines [10000]
+@1:queuefactor integer [1,999] [833]  log #queue unbump factor in per mille [980]
+@1:queueinc integer [1,1000] [20]  log #queue bump increment [2]
+@1:smallirr integer [0,100] [90]  #max percentage irr lits for BCE and VE [90]
+@1:smallve categorical {0,1} [1] #enable small number variables elimination
+@1:smallvevars integer [4,12] [12]  #variables small variable elimination [12]
+@1:randec categorical {0,1} [1] # enable random decisions
+@1:randecint integer [2,1073741823] [1000] log # random decision interval
+@1:redfixed categorical {0,1} [0] #keep a fixed size of learned clauses
+@1:redlbound categorical {0,1} [0] #relative and absolute bounds on learned clauses
+@1:redlexpfac integer [1,1000] [10]  log #exponential reduce limit increment factor
+@1:redldoutfac integer [0,32] [0]
+@1:redloutinc integer [1,1000000] [10000]  log #outer arithmetic reduce increment [10000]
+@1:redlinit  integer [1,100000000] [1000]  log  #initial reduce limit
+@1:redlinc integer [1,10000000] [1000]  log #reduce limit increment [1000]
+@1:redinoutinc integer [1,1000] [100] log
+@1:redlmininc integer [1,100000] [10]  log #rel min reduce limit increment [10]
+@1:redlmaxinc integer [1,100000] [200]  log  #rel max reduce limit increment [200]
+@1:redlminrel integer [10,1000] [10]  log #minimum relative reduce limit [10]
+@1:redlmaxrel integer [10,10000] [300]  log #maximum relative reduce limit [300]
+@1:redlminabs integer [10,1000000] [500]  log #minimum absolute reduce limit [500]
+@1:redlmaxabs integer [10,1073741823] [1000000]  log #maximum absolute reduce limit [1000000]
+@1:reduce categorical {0,1,2,3,4} [1] #clause reduction (1=noouter,2=luby,3=inout,4=arith) [2]
+@1:restart categorical {0,1,2,3} [2] #enable restarting (0=no,1=fixed,2=luby,3=inout) [2]
+@1:restartint integer [1,2147483647] [5]  log # restart interval [10]
+@1:rstinoutinc integer [1,1000] [110] log #restart inner/outer relative increment [110]
+@1:simplify categorical {0,1} [1] #enable simplification [1]
+@1:simpdelay integer [1,2147483647] [100] log #delay simplification [100]
+@1:simpen integer [1,2147483647] [4] log #logarithmic initial simplification penalty
+@1:sizepen integer [1,2147483647] [1000000]  log  #number of clauses size penalty starting point
+@1:sizemaxpen integer [0,20] [3]   #maximum (logarithm) of size penalty [5]
+@1:sortlits categorical {0,1} [0] #sort literals of clauses during garbage collection [0]
+@1:syncint integer [1,1000000] [111111]  log #unit synchronization interval
+@1:termint integer [1,1000000] [122222]  log #termination check interval [122222]
+@1:ternres categorical {0,1} [1] #generate ternary resolvents [1]
+@1:ternresrtc categorical {0,1} [0] #run ternary resolvents until completion [0]
+@1:trnrmineff integer [1,2147483647] [4000000]  log #min effort in ternary resolutions [2000000]
+@1:trnrmaxeff integer [1,2147483647] [40000000]  log #max effort in ternary resolutions [40000000]
+@1:trnreleff integer [1,1000] [10]  log #rel effort in ternary resolutions [4]
+@1:transred categorical {0,1} [1] #enable transitive reduction [1]
+@1:trdmineff integer [1,2147483647] [100000]  log #min effort in transitive reduction [100000]
+@1:trdmaxeff integer [1,2147483647] [2000000]  log #max effort in transitive reduction [2000000]
+@1:trdreleff integer [1,10000] [10]  log #rel effort in transitive reduction [10]
+@1:unhide categorical {0,1} [1] #enable unhiding [1]
+@1:unhdextstamp categorical {0,1} [1] #used extended stamping features [1]
+@1:unhdhbr categorical {0,1} [0] #enable unhiding hidden binary resolution [0]
+@1:unhdmaxeff integer [1,2147483647] [20000000]  log #max effort in unhiding [20000000]
+@1:unhdmineff integer [1,2147483647] [1000000]  log #min effort in unhiding [1000000]
+@1:unhdreleff integer [1,10000] [4]  log # rel effort in unhiding [5]
+@1:unhdlnpr integer [1,2147483647] [3]  log # unhide no progress round limit [3]
+@1:unhdroundlim integer [0,100] [5]  #unhide round limit [5]
+@1:witness categorical {0} [0]    # print no witness
+@1:actavgmax | @1:acts in {2}
+@1:actstdmin | @1:acts in {2}
+@1:actstdmax | @1:acts in {2}
+@1:blkclslim | @1:block in {1}
+@1:blkocclim | @1:block in {1}
+@1:blkmaxeff | @1:block in {1}
+@1:blkmineff | @1:block in {1}
+@1:blkreleff | @1:block in {1}
+@1:cgrmaxority | @1:cgrclsr in {1}
+@1:cgrmaxeff | @1:cgrclsr in {1}
+@1:cgrmineff | @1:cgrclsr in {1}
+@1:cgreleff | @1:cgrclsr in {1}
+@1:cliffreleff | @1:cliff in {1}
+@1:cliffmineff | @1:cliff in {1}
+@1:cliffmaxeff | @1:cliff in {1}
+@1:elmrtc | @1:elim in {1}
+@1:elmblk | @1:elim in {1}
+@1:elmclslim | @1:elim in {1}
+@1:elmocclim | @1:elim in {1}
+@1:elmaxeff | @1:elim in {1}
+@1:elmineff | @1:elim in {1}
+@1:elmreleff | @1:elim in {1}
+@1:flipint | @1:flipping in {1}
+@1:flipdur | @1:flipping in {1}
+@1:fliptop | @1:flipping in {1}
+@1:gaussextrall | @1:gauss in {1}
+@1:gaussmaxor | @1:gauss in {1}
+@1:gaussexptrn | @1:gauss in {1}
+@1:gaussmaxeff | @1:gauss in {1}
+@1:gaussmineff | @1:gauss in {1}
+@1:gaussreleff | @1:gauss in {1}
+@1:cintinc | @1:inprocessing in {1}
+@1:lftmaxeff | @1:lift in {1}
+@1:lftmineff | @1:lift in {1}
+@1:lftreleff | @1:lift in {1}
+@1:prbasic | @1:probe in {1}
+@1:prbasicroundlim | @1:prbasic in {1,2}
+@1:prbasicmaxeff | @1:prbasic in {1,2}
+@1:prbasicmineff | @1:prbasic in {1,2}
+@1:prbasicreleff | @1:prbasic in {1,2}
+@1:smallvevars | @1:smallve in {1}
+@1:randecint | @1:randec in {1}
+@1:redfixed | @1:reduce in {1,2,3,4}
+@1:redlbound | @1:reduce in {1,2,3,4}
+@1:redlexpfac | @1:reduce in {1,2,3,4}
+@1:redloutinc | @1:reduce in {1,2,3,4}
+@1:redlinit  | @1:reduce in {1,2,3,4}
+@1:redlinc | @1:reduce in {1,2,3,4}
+@1:redinoutinc | @1:reduce in {1,2,3,4}
+@1:redldoutfac | @1:reduce in {1,2,3,4}
+@1:redlmininc | @1:reduce in {1,2,3,4}
+@1:redlmaxinc | @1:reduce in {1,2,3,4}
+@1:redlminrel | @1:reduce in {1,2,3,4}
+@1:redlmaxrel | @1:reduce in {1,2,3,4}
+@1:redlminabs | @1:reduce in {1,2,3,4}
+@1:redlmaxabs | @1:reduce in {1,2,3,4}
+@1:restartint | @1:restart in {1,2,3}
+@1:rstinoutinc | @1:restart in {1,2,3}
+@1:simpdelay | @1:simplify in {1}
+@1:simpen | @1:simplify in {1}
+@1:ternresrtc | @1:ternres in {1}
+@1:trnrmineff | @1:ternres in {1}
+@1:trnrmaxeff | @1:ternres in {1}
+@1:trnreleff | @1:ternres in {1}
+@1:trdmineff | @1:transred in {1}
+@1:trdmaxeff | @1:transred in {1}
+@1:trdreleff | @1:transred in {1}
+@1:unhdextstamp | @1:unhide in {1}
+@1:unhdhbr | @1:unhide in {1}
+@1:unhdmaxeff | @1:unhide in {1}
+@1:unhdmineff | @1:unhide in {1}
+@1:unhdreleff | @1:unhide in {1}
+@1:unhdlnpr | @1:unhide in {1}
+@1:unhdroundlim | @1:unhide in {1}

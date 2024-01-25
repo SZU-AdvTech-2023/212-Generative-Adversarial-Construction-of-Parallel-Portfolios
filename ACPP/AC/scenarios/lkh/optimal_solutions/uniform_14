@@ -1,0 +1,47 @@
+/home/liusc/projects/ACPP/Solver/Concorde/concorde 14uniform.txt
+Host: localhost.localdomain  Current process id: 1540
+Using random seed 1544261211
+Problem Name: portgen-436-2771085
+portgen N=436, seed=2771085
+Problem Type: TSP
+Number of Nodes: 436
+Rounded Euclidean Norm (CC_EUCLIDEAN)
+Set initial upperbound to 15235100 (from tour)
+  LP Value  1: 14633318.000000  (0.02 seconds)
+  LP Value  2: 15074763.458333  (0.06 seconds)
+  LP Value  3: 15158695.036275  (0.17 seconds)
+  LP Value  4: 15181126.777936  (0.34 seconds)
+  LP Value  5: 15196473.833333  (0.53 seconds)
+  LP Value  6: 15210258.423468  (0.80 seconds)
+  LP Value  7: 15217192.400000  (1.13 seconds)
+  LP Value  8: 15225571.540816  (1.57 seconds)
+  LP Value  9: 15227770.945803  (1.84 seconds)
+  LP Value 10: 15229765.439426  (2.19 seconds)
+  LP Value 11: 15231523.682982  (2.93 seconds)
+  LP Value 12: 15232090.183878  (3.48 seconds)
+  LP Value 13: 15232517.232481  (4.11 seconds)
+  LP Value 14: 15232618.040604  (4.43 seconds)
+New lower bound: 15232618.040604
+  LP Value  1: 15232643.323032  (4.59 seconds)
+  LP Value  2: 15232663.824373  (5.04 seconds)
+  LP Value  3: 15232682.594554  (5.57 seconds)
+  LP Value  4: 15232724.520570  (5.72 seconds)
+  LP Value  5: 15233155.000000  (6.14 seconds)
+  LP Value  6: 15233505.961719  (6.41 seconds)
+  LP Value  7: 15233979.702732  (6.70 seconds)
+  LP Value  8: 15234104.823945  (6.92 seconds)
+  LP Value  9: 15234189.264129  (7.12 seconds)
+  LP Value 10: 15234260.683544  (7.31 seconds)
+  LP Value 11: 15234472.187598  (7.54 seconds)
+  LP Value 12: 15234601.752291  (7.79 seconds)
+  LP Value 13: 15234852.521207  (8.02 seconds)
+  LP Value 14: 15235035.109288  (8.26 seconds)
+  LP Value 15: 15235100.000000  (8.37 seconds)
+New lower bound: 15235100.000000
+Final lower bound 15235100.000000, upper bound 15235100.000000
+Exact lower bound: 15235100.000000
+DIFF: 0.000000
+Final LP has 720 rows, 1209 columns, 13906 nonzeros
+Optimal Solution: 15235100.00
+Number of bbnodes: 1
+Total Running Time: 8.73 (seconds)
